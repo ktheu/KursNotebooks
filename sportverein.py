@@ -2743,7 +2743,7 @@ def andere_tabellen_fuellen():
     # ------- Daten für Tabelle hausmeister
     datalist=[
     [1, 'Krause', '02922-555421'],  \
-    [2, 'Koyotenschulte', '02922-45512'],  \
+    [2, 'Koschulte', '02922-45512'],  \
     [3, 'Kacmarek', '02928-839630']]
 
     cursor.executemany("INSERT INTO hausmeister VALUES (?,?,?)",datalist)
