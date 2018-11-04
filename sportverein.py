@@ -24,14 +24,14 @@ def tabellen_anlegen():
 
     # ---- Tabelle bank --------------
     sql = """
-    CREATE TABLE bank (blz INTEGER PRIMARY KEY, bezeichnung VARCHAR(20))
+    CREATE TABLE bank (blz INTEGER PRIMARY KEY, bezeichnung TEXT)
     """
     cursor.execute(sql)
 
     # ---- Tabelle uebungsgruppe --------------
     sql = """
     CREATE TABLE uebungsgruppe (Unr INTEGER PRIMARY KEY AUTOINCREMENT,
-    Sportart TEXT NOT NULL DEFAULT '', MNr INTEGER NOT NULL DEFAULt '0')
+    Sportart TEXT NOT NULL DEFAULT '', MNr INTEGER NOT NULL DEFAULT '0')
     """
     cursor.execute(sql)
 
