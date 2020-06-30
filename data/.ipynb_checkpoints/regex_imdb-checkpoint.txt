@@ -1,0 +1,5044 @@
+﻿director_name;duration;movie_title
+James Cameron;178;Avatar 
+Gore Verbinski;169;Pirates of the Caribbean: At World's End 
+Sam Mendes;148;Spectre 
+Christopher Nolan;164;The Dark Knight Rises 
+Doug Walker;;Star Wars: Episode VII - The Force Awakens             
+Andrew Stanton;132;John Carter 
+Sam Raimi;156;Spider-Man 3 
+Nathan Greno;100;Tangled 
+Joss Whedon;141;Avengers: Age of Ultron 
+David Yates;153;Harry Potter and the Half-Blood Prince 
+Zack Snyder;183;Batman v Superman: Dawn of Justice 
+Bryan Singer;169;Superman Returns 
+Marc Forster;106;Quantum of Solace 
+Gore Verbinski;151;Pirates of the Caribbean: Dead Man's Chest 
+Gore Verbinski;150;The Lone Ranger 
+Zack Snyder;143;Man of Steel 
+Andrew Adamson;150;The Chronicles of Narnia: Prince Caspian 
+Joss Whedon;173;The Avengers 
+Rob Marshall;136;Pirates of the Caribbean: On Stranger Tides 
+Barry Sonnenfeld;106;Men in Black 3 
+Peter Jackson;164;The Hobbit: The Battle of the Five Armies 
+Marc Webb;153;The Amazing Spider-Man 
+Ridley Scott;156;Robin Hood 
+Peter Jackson;186;The Hobbit: The Desolation of Smaug 
+Chris Weitz;113;The Golden Compass 
+Peter Jackson;201;King Kong 
+James Cameron;194;Titanic 
+Anthony Russo;147;Captain America: Civil War 
+Peter Berg;131;Battleship 
+Colin Trevorrow;124;Jurassic World 
+Sam Mendes;143;Skyfall 
+Sam Raimi;135;Spider-Man 2 
+Shane Black;195;Iron Man 3 
+Tim Burton;108;Alice in Wonderland 
+Brett Ratner;104;X-Men: The Last Stand 
+Dan Scanlon;104;Monsters University 
+Michael Bay;150;Transformers: Revenge of the Fallen 
+Michael Bay;165;Transformers: Age of Extinction 
+Sam Raimi;130;Oz the Great and Powerful 
+Marc Webb;142;The Amazing Spider-Man 2 
+Joseph Kosinski;125;TRON: Legacy 
+John Lasseter;106;Cars 2 
+Martin Campbell;123;Green Lantern 
+Lee Unkrich;103;Toy Story 3 
+McG;118;Terminator Salvation 
+James Wan;140;Furious 7 
+Marc Forster;123;World War Z 
+Bryan Singer;149;X-Men: Days of Future Past 
+J.J. Abrams;132;Star Trek Into Darkness 
+Bryan Singer;114;Jack the Giant Slayer 
+Baz Luhrmann;143;The Great Gatsby 
+Mike Newell;116;Prince of Persia: The Sands of Time 
+Guillermo del Toro;131;Pacific Rim 
+Michael Bay;154;Transformers: Dark of the Moon 
+Steven Spielberg;122;Indiana Jones and the Kingdom of the Crystal Skull 
+Peter Sohn;93;The Good Dinosaur 
+Mark Andrews;93;Brave 
+Justin Lin;122;Star Trek Beyond 
+Andrew Stanton;98;WALL·E 
+Brett Ratner;91;Rush Hour 3 
+Roland Emmerich;158;2012 
+Robert Zemeckis;96;A Christmas Carol 
+Lana Wachowski;127;Jupiter Ascending 
+David Yates;110;The Legend of Tarzan 
+Andrew Adamson;150;The Chronicles of Narnia: The Lion, the Witch and the Wardrobe 
+Bryan Singer;144;X-Men: Apocalypse 
+Christopher Nolan;152;The Dark Knight 
+Pete Docter;96;Up 
+Rob Letterman;94;Monsters vs. Aliens 
+Jon Favreau;126;Iron Man 
+Martin Scorsese;126;Hugo 
+Barry Sonnenfeld;106;Wild Wild West 
+Rob Cohen;112;The Mummy: Tomb of the Dragon Emperor 
+David Ayer;123;Suicide Squad 
+Tom Shadyac;96;Evan Almighty 
+Doug Liman;113;Edge of Tomorrow 
+Kevin Reynolds;176;Waterworld 
+Stephen Sommers;118;G.I. Joe: The Rise of Cobra 
+Pete Docter;95;Inside Out 
+Jon Favreau;106;The Jungle Book 
+Jon Favreau;124;Iron Man 2 
+Rupert Sanders;132;Snow White and the Huntsman 
+Robert Stromberg;97;Maleficent 
+Matt Reeves;130;Dawn of the Planet of the Apes 
+Roland Joffé;109;The Lovers 
+Carl Rinsch;128;47 Ronin 
+Anthony Russo;136;Captain America: The Winter Soldier 
+Mike Mitchell;93;Shrek Forever After 
+Brad Bird;130;Tomorrowland 
+Don Hall;102;Big Hero 6 
+Rich Moore;101;Wreck-It Ralph 
+Robert Zemeckis;100;The Polar Express 
+Roland Emmerich;120;Independence Day: Resurgence 
+Dean DeBlois;98;How to Train Your Dragon 
+Jonathan Mostow;109;Terminator 3: Rise of the Machines 
+James Gunn;121;Guardians of the Galaxy 
+Christopher Nolan;169;Interstellar 
+Christopher Nolan;148;Inception 
+Hideaki Anno;120;Godzilla Resurgence 
+Peter Jackson;182;The Hobbit: An Unexpected Journey 
+Rob Cohen;106;The Fast and the Furious 
+David Fincher;166;The Curious Case of Benjamin Button 
+Matthew Vaughn;132;X-Men: First Class 
+Francis Lawrence;137;The Hunger Games: Mockingjay - Part 2 
+Jon Turteltaub;109;The Sorcerer's Apprentice 
+Wolfgang Petersen;98;Poseidon 
+James Bobin;113;Alice Through the Looking Glass 
+Chris Miller;93;Shrek the Third 
+Duncan Jones;123;Warcraft 
+Alan Taylor;126;Terminator Genisys 
+Michael Apted;113;The Chronicles of Narnia: The Voyage of the Dawn Treader 
+Michael Bay;184;Pearl Harbor 
+Michael Bay;144;Transformers 
+Oliver Stone;206;Alexander 
+David Yates;138;Harry Potter and the Order of the Phoenix 
+Mike Newell;157;Harry Potter and the Goblet of Fire 
+Peter Berg;102;Hancock 
+Francis Lawrence;104;I Am Legend 
+Tim Burton;115;Charlie and the Chocolate Factory 
+Brad Bird;111;Ratatouille 
+Christopher Nolan;128;Batman Begins 
+Eric Darnell;89;Madagascar: Escape 2 Africa 
+Shawn Levy;105;Night at the Museum: Battle of the Smithsonian 
+Gavin Hood;119;X-Men Origins: Wolverine 
+Lana Wachowski;129;The Matrix Revolutions 
+Chris Buck;102;Frozen 
+Lana Wachowski;138;The Matrix Reloaded 
+Alan Taylor;112;Thor: The Dark World 
+George Miller;120;Mad Max: Fury Road 
+Ron Howard;146;Angels & Demons 
+Kenneth Branagh;115;Thor 
+Byron Howard;96;Bolt 
+Hoyt Yeatman;88;G-Force 
+Jonathan Liebesman;99;Wrath of the Titans 
+Tim Burton;113;Dark Shadows 
+Christopher McQuarrie;131;Mission: Impossible - Rogue Nation 
+Joe Johnston;119;The Wolfman 
+David Yates;110;The Legend of Tarzan 
+Steve Hickner;91;Bee Movie 
+Jennifer Yuh Nelson;90;Kung Fu Panda 2 
+M. Night Shyamalan;103;The Last Airbender 
+J.J. Abrams;124;Mission: Impossible III 
+Roland Emmerich;131;White House Down 
+Simon Wells;88;Mars Needs Moms 
+David Bowers;85;Flushed Away 
+Joe Wright;111;Pan 
+Rob Minkoff;92;Mr. Peabody & Sherman 
+Wolfgang Petersen;196;Troy 
+Eric Darnell;93;Madagascar 3: Europe's Most Wanted 
+Lee Tamahori;133;Die Another Day 
+Paul Feig;116;Ghostbusters 
+Michael Bay;153;Armageddon 
+Barry Sonnenfeld;88;Men in Black II 
+Robert Zemeckis;115;Beowulf 
+Alessandro Carloni;95;Kung Fu Panda 3 
+Brad Bird;133;Mission: Impossible - Ghost Protocol 
+Peter Ramsey;97;Rise of the Guardians 
+Dean Parisot;90;Fun with Dick and Jane 
+Edward Zwick;154;The Last Samurai 
+Ridley Scott;150;Exodus: Gods and Kings 
+J.J. Abrams;127;Star Trek 
+Sam Raimi;121;Spider-Man 
+Dean DeBlois;102;How to Train Your Dragon 2 
+Alex Proyas;126;Gods of Egypt 
+Rob Cohen;121;Stealth 
+Zack Snyder;215;Watchmen 
+Richard Donner;127;Lethal Weapon 4 
+Ang Lee;138;Hulk 
+Jon M. Chu;122;G.I. Joe: Retaliation 
+Breck Eisner;124;Sahara 
+Hironobu Sakaguchi;106;Final Fantasy: The Spirits Within 
+Joe Johnston;124;Captain America: The First Avenger 
+Michael Apted;128;The World Is Not Enough 
+Peter Weir;138;Master and Commander: The Far Side of the World 
+Bill Condon;115;The Twilight Saga: Breaking Dawn - Part 2 
+George Miller;100;Happy Feet 2 
+Louis Leterrier;135;The Incredible Hulk 
+;60;Miami Vice             
+Steven Spielberg;117;The BFG 
+Alejandro G. Iñárritu;156;The Revenant 
+David Soren;96;Turbo 
+Gore Verbinski;107;Rango 
+Eric Darnell;92;Penguins of Madagascar 
+Paul Greengrass;115;The Bourne Ultimatum 
+Mark Osborne;92;Kung Fu Panda 
+Peyton Reed;117;Ant-Man 
+Francis Lawrence;146;The Hunger Games: Catching Fire 
+Bill Condon;115;The Twilight Saga: Breaking Dawn - Part 2 
+Tim Johnson;94;Home 
+Steven Spielberg;116;War of the Worlds 
+Michael Bay;147;Bad Boys II 
+Chris Miller;90;Puss in Boots 
+Phillip Noyce;101;Salt 
+Darren Aronofsky;138;Noah 
+Steven Spielberg;107;The Adventures of Tintin 
+Alfonso Cuarón;142;Harry Potter and the Prisoner of Azkaban 
+Baz Luhrmann;165;Australia 
+M. Night Shyamalan;100;After Earth 
+Eric Leighton;82;Dinosaur 
+Matt Birch;;Harry Potter and the Deathly Hallows: Part II 
+Shawn Levy;98;Night at the Museum: Secret of the Tomb 
+Tom McGrath;95;Megamind 
+Chris Columbus;159;Harry Potter and the Sorcerer's Stone 
+Robert Schwentke;96;R.I.P.D. 
+Hideaki Anno;120;Godzilla Resurgence 
+Gore Verbinski;143;Pirates of the Caribbean: The Curse of the Black Pearl 
+Matt Birch;;Harry Potter and the Deathly Hallows: Part I 
+Francis Lawrence;123;The Hunger Games: Mockingjay - Part 1 
+Ron Howard;174;The Da Vinci Code 
+Carlos Saldanha;101;Rio 2 
+Bryan Singer;134;X-Men 2 
+Justin Lin;132;Fast Five 
+Guy Ritchie;129;Sherlock Holmes: A Game of Shadows 
+Louis Leterrier;106;Clash of the Titans 
+Paul Verhoeven;113;Total Recall 
+John McTiernan;102;The 13th Warrior 
+Tony Gilroy;135;The Bourne Legacy 
+Joel Schumacher;125;Batman & Robin 
+Ron Howard;110;How the Grinch Stole Christmas 
+Roland Emmerich;124;The Day After Tomorrow 
+John Woo;123;Mission: Impossible II 
+Wolfgang Petersen;130;The Perfect Storm 
+Tim Story;92;Fantastic 4: Rise of the Silver Surfer 
+Ang Lee;127;Life of Pi 
+Mark Steven Johnson;123;Ghost Rider 
+Paul Greengrass;123;Jason Bourne 
+McG;107;Charlie's Angels: Full Throttle 
+Ridley Scott;124;Prometheus 
+Rob Minkoff;77;Stuart Little 2 
+Neill Blomkamp;109;Elysium 
+David Twohy;134;The Chronicles of Riddick 
+José Padilha;117;RoboCop 
+Lana Wachowski;135;Speed Racer 
+James L. Brooks;121;How Do You Know 
+James Mangold;117;Knight and Day 
+Joseph Kosinski;124;Oblivion 
+George Lucas;140;Star Wars: Episode III - Revenge of the Sith 
+George Lucas;142;Star Wars: Episode II - Attack of the Clones 
+Pete Docter;92;Monsters, Inc. 
+James Mangold;138;The Wolverine 
+George Lucas;136;Star Wars: Episode I - The Phantom Menace 
+Kirk De Micco;98;The Croods 
+Frédéric Forestier;116;Asterix at the Olympic Games 
+John Woo;153;Windtalkers 
+Cedric Nicolas-Troyan;120;The Huntsman: Winter's War 
+Jonathan Liebesman;101;Teenage Mutant Ninja Turtles 
+Alfonso Cuarón;91;Gravity 
+Roger Donaldson;108;Dante's Peak 
+Dave Green;112;Teenage Mutant Ninja Turtles: Out of the Shadows 
+Josh Trank;100;Fantastic Four 
+Shawn Levy;108;Night at the Museum 
+Brad Peyton;114;San Andreas 
+Roger Spottiswoode;119;Tomorrow Never Dies 
+Roland Emmerich;142;The Patriot 
+Steven Soderbergh;125;Ocean's Twelve 
+Doug Liman;126;Mr. & Mrs. Smith 
+Robert Schwentke;119;Insurgent 
+Martin Scorsese;170;The Aviator 
+Rob Letterman;85;Gulliver's Travels 
+Michel Gondry;119;The Green Hornet 
+;60;The A-Team             
+Noam Murro;102;300: Rise of an Empire 
+Raja Gosnell;103;The Smurfs 
+Will Finn;76;Home on the Range 
+Robert Schwentke;120;Allegiant 
+Shawn Levy;127;Real Steel 
+Raja Gosnell;105;The Smurfs 2 
+Jan de Bont;121;Speed 2: Cruise Control 
+Gavin Hood;114;Ender's Game 
+Len Wiseman;129;Live Free or Die Hard 
+Peter Jackson;171;The Lord of the Rings: The Fellowship of the Ring 
+Frank Coraci;120;Around the World in 80 Days 
+Michael Mann;165;Ali 
+Bo Welch;82;The Cat in the Hat 
+Alex Proyas;115;I, Robot 
+Ridley Scott;194;Kingdom of Heaven 
+Rob Minkoff;84;Stuart Little 
+Ron Clements;97;The Princess and the Frog 
+Ridley Scott;151;The Martian 
+Christopher Barnard;22;10,000 B.C.             
+Michael Bay;136;The Island 
+Peter Chelsom;104;Town & Country 
+Dominic Sena;127;Gone in Sixty Seconds 
+Ridley Scott;171;Gladiator 
+Steven Spielberg;145;Minority Report 
+Chris Columbus;174;Harry Potter and the Chamber of Secrets 
+Martin Campbell;144;Casino Royale 
+Tim Burton;119;Planet of the Apes 
+James Cameron;153;Terminator 2: Judgment Day 
+Michael Mann;140;Public Enemies 
+Ridley Scott;176;American Gangster 
+James Cameron;141;True Lies 
+Tony Scott;106;The Taking of Pelham 1 2 3 
+Paul Weitz;98;Little Fockers 
+Adam McKay;116;The Other Guys 
+Chuck Russell;115;Eraser 
+Quentin Tarantino;165;Django Unchained 
+Gary Trousdale;91;The Hunchback of Notre Dame 
+Mark Dindal;78;The Emperor's New Groove 
+Simon West;103;The Expendables 2 
+Jon Turteltaub;131;National Treasure 
+Stefen Fangmeier;104;Eragon 
+Spike Jonze;101;Where the Wild Things Are 
+Joe Wright;111;Pan 
+Chris Wedge;102;Epic 
+Florian Henckel von Donnersmarck;103;The Tourist 
+Peter Hyams;121;End of Days 
+Edward Zwick;143;Blood Diamond 
+Martin Scorsese;240;The Wolf of Wall Street 
+Joel Schumacher;121;Batman Forever 
+Paul Verhoeven;129;Starship Troopers 
+Tom Tykwer;172;Cloud Atlas 
+Zack Snyder;101;Legend of the Guardians: The Owls of Ga'Hoole 
+Pitof;87;Catwoman 
+Brett Ratner;101;Hercules 
+Ron Clements;95;Treasure Planet 
+Brad Silberling;102;Land of the Lost 
+Patrick Hughes;131;The Expendables 3 
+Ericson Core;114;Point Break 
+Lawrence Guterman;94;Son of the Mask 
+Ron Howard;122;In the Heart of the Sea 
+Ron Underwood;95;The Adventures of Pluto Nash 
+Paul Greengrass;115;Green Zone 
+Steve Martino;88;The Peanuts Movie 
+David Mamet;110;The Spanish Prisoner 
+Stephen Sommers;130;The Mummy Returns 
+Martin Scorsese;216;Gangs of New York 
+Yimou Zhang;146;The Flowers of War 
+Ash Brannon;85;Surf's Up 
+Frank Oz;93;The Stepford Wives 
+Ridley Scott;152;Black Hawk Down 
+Jay Roach;85;The Campaign 
+Luc Besson;126;The Fifth Element 
+Michael Patrick King;146;Sex and the City 2 
+Bibo Bergeron;89;The Road to El Dorado 
+Steve Martino;88;Ice Age: Continental Drift 
+Kenneth Branagh;105;Cinderella 
+Peter Jackson;135;The Lovely Bones 
+Andrew Stanton;100;Finding Nemo 
+Peter Jackson;192;The Lord of the Rings: The Return of the King 
+Peter Jackson;172;The Lord of the Rings: The Two Towers 
+Sergey Bodrov;102;Seventh Son 
+Simon West;100;Lara Croft: Tomb Raider 
+Wally Pfister;119;Transcendence 
+Joe Johnston;92;Jurassic Park III 
+Rupert Wyatt;105;Rise of the Planet of the Apes 
+Mark Waters;107;The Spiderwick Chronicles 
+John Moore;101;A Good Day to Die Hard 
+John Lee Hancock;137;The Alamo 
+Brad Bird;115;The Incredibles 
+Renny Harlin;124;Cutthroat Island 
+Chris Columbus;118;Percy Jackson & the Olympians: The Lightning Thief 
+Barry Sonnenfeld;98;Men in Black 
+John Lasseter;82;Toy Story 2 
+Tony Scott;98;Unstoppable 
+Brett Ratner;90;Rush Hour 2 
+Robert Zemeckis;130;What Lies Beneath 
+Phil Lord;90;Cloudy with a Chance of Meatballs 
+Carlos Saldanha;94;Ice Age: Dawn of the Dinosaurs 
+Ben Stiller;114;The Secret Life of Walter Mitty 
+McG;94;Charlie's Angels 
+Martin Scorsese;151;The Departed 
+Tony Bancroft;88;Mulan 
+Ben Stiller;121;Tropic Thunder 
+David Fincher;158;The Girl with the Dragon Tattoo 
+John McTiernan;128;Die Hard with a Vengeance 
+Guy Ritchie;128;Sherlock Holmes 
+Timur Bekmambetov;141;Ben-Hur 
+Gary Trousdale;95;Atlantis: The Lost Empire 
+Walt Becker;92;Alvin and the Chipmunks: The Road Chip 
+Bryan Singer;121;Valkyrie 
+Dennis Dugan;113;You Don't Mess with the Zohan 
+Chris Columbus;106;Pixels 
+Steven Spielberg;146;A.I. Artificial Intelligence 
+Rob Minkoff;88;The Haunted Mansion 
+Robert Zemeckis;150;Contact 
+Paul Verhoeven;119;Hollow Man 
+Sydney Pollack;128;The Interpreter 
+Thor Freudenthal;106;Percy Jackson: Sea of Monsters 
+Jan de Bont;117;Lara Croft Tomb Raider: The Cradle of Life 
+Jon M. Chu;129;Now You See Me 2 
+Phillip Noyce;116;The Saint 
+Tony Scott;114;Spy Game 
+Brian De Palma;114;Mission to Mars 
+Carlos Saldanha;96;Rio 
+Chris Columbus;132;Bicentennial Man 
+Mick Jackson;104;Volcano 
+Alan J. Pakula;111;The Devil's Own 
+Kathryn Bigelow;138;K-19: The Widowmaker 
+Josh Trank;100;Fantastic Four 
+John Milius;129;Conan the Barbarian 
+Ron Howard;144;Cinderella Man 
+Andrey Konchalovskiy;110;The Nutcracker in 3D 
+Gary Ross;140;Seabiscuit 
+Jan de Bont;113;Twister 
+Rob Cohen;106;The Fast and the Furious 
+Robert Zemeckis;143;Cast Away 
+George Miller;108;Happy Feet 
+Paul Greengrass;108;The Bourne Supremacy 
+Wolfgang Petersen;124;Air Force One 
+Steven Soderbergh;116;Ocean's Eleven 
+Paul W.S. Anderson;110;The Three Musketeers 
+Genndy Tartakovsky;91;Hotel Transylvania 
+Kevin Lima;107;Enchanted 
+;44;Hannibal             
+Daniel Espinosa;115;Safe House 
+Kevin Lima;100;102 Dalmatians 
+Brett Ratner;104;Tower Heist 
+Nancy Meyers;138;The Holiday 
+Tony Scott;140;Enemy of the State 
+Nancy Meyers;120;It's Complicated 
+Steven Soderbergh;122;Ocean's Thirteen 
+Roger Allers;83;Open Season 
+Neil Burger;139;Divergent 
+Jean-Jacques Annaud;131;Enemy at the Gates 
+Peter Berg;104;The Rundown 
+John McTiernan;130;Last Action Hero 
+Rob Marshall;145;Memoirs of a Geisha 
+Justin Lin;104;The Fast and the Furious: Tokyo Drift 
+Sarah Smith;97;Arthur Christmas 
+Martin Brest;178;Meet Joe Black 
+Andrew Davis;108;Collateral Damage 
+Bob Fosse;123;All That Jazz 
+Tarsem Singh;106;Mirror Mirror 
+Edgar Wright;112;Scott Pilgrim vs. the World 
+Jon Amiel;135;The Core 
+Peter Segal;109;Nutty Professor II: The Klumps 
+Raja Gosnell;86;Scooby-Doo 
+Pete Travis;95;Dredd 
+Frank Coraci;107;Click 
+George A. Romero;130;Creepshow 
+Brad Peyton;82;Cats & Dogs: The Revenge of Kitty Galore 
+Doug Liman;88;Jumper 
+Guillermo del Toro;120;Hellboy II: The Golden Army 
+David Fincher;162;Zodiac 
+Roger Spottiswoode;123;The 6th Day 
+Tom Shadyac;101;Bruce Almighty 
+Sylvester Stallone;113;The Expendables 
+Brian De Palma;110;Mission: Impossible 
+Gary Ross;142;The Hunger Games 
+Todd Phillips;102;The Hangover Part II 
+Tim Burton;126;Batman Returns 
+Tim Johnson;83;Over the Hedge 
+Dean DeBlois;85;Lilo & Stitch 
+Gary Winick;97;Charlotte's Web 
+Mimi Leder;120;Deep Impact 
+Dean Parisot;116;RED 2 
+Peter Segal;113;The Longest Yard 
+Mike Mitchell;87;Alvin and the Chipmunks: Chipwrecked 
+Dennis Dugan;101;Grown Ups 2 
+Peter Segal;110;Get Smart 
+Nancy Meyers;128;Something's Gotta Give 
+Martin Scorsese;138;Shutter Island 
+Seth Gordon;88;Four Christmases 
+Chris Wedge;91;Robots 
+John Woo;138;Face/Off 
+Adam Shankman;99;Bedtime Stories 
+Sam Mendes;117;Road to Perdition 
+Dennis Dugan;117;Just Go with It 
+;54;Daredevil             
+Simon West;123;Con Air 
+D.J. Caruso;118;Eagle Eye 
+Anthony Minghella;154;Cold Mountain 
+Albert Hughes;118;The Book of Eli 
+Les Mayfield;90;Flubber 
+Jan de Bont;113;The Haunting 
+Joe Pytka;88;Space Jam 
+Shawn Levy;93;The Pink Panther 
+Scott Derrickson;104;The Day the Earth Stood Still 
+Richard Donner;135;Conspiracy Theory 
+David Ayer;134;Fury 
+Ivan Reitman;98;Six Days Seven Nights 
+Eric Brevig;80;Yogi Bear 
+Kelly Asbury;83;Spirit: Stallion of the Cimarron 
+Frank Coraci;102;Zookeeper 
+Stephen Hopkins;130;Lost in Space 
+Jonathan Demme;129;The Manchurian Candidate 
+Henry Jaglom;117;Déjà Vu 
+Genndy Tartakovsky;89;Hotel Transylvania 2 
+;25;Bewitched             
+James Algar;74;Fantasia 2000 
+Simon Wells;96;The Time Machine 
+Ron Underwood;114;Mighty Joe Young 
+Dominic Sena;99;Swordfish 
+Martin Campbell;129;The Legend of Zorro 
+Vincent Ward;113;What Dreams May Come 
+Steven Brill;90;Little Nicky 
+Terry Gilliam;118;The Brothers Grimm 
+Tim Burton;106;Mars Attacks! 
+Lucile Hadzihalilovic;81;Evolution 
+Lee Tamahori;117;The Edge 
+Jonathan Mostow;89;Surrogates 
+Roger Donaldson;145;Thirteen Days 
+Rob Cohen;114;Daylight 
+Barry Cook;87;Walking with Dinosaurs 3D 
+Roger Christian;119;Battlefield Earth 
+Joe Dante;91;Looney Tunes: Back in Action 
+Rob Marshall;118;Nine 
+Richard Donner;116;Timeline 
+Kevin Costner;177;The Postman 
+George Miller;97;Babe: Pig in the City 
+Breck Eisner;106;The Last Witch Hunter 
+Antony Hoffman;106;Red Planet 
+Luc Besson;94;Arthur and the Invisibles 
+Jacques Perrin;104;Oceans 
+Peter Hyams;102;A Sound of Thunder 
+Paul W.S. Anderson;105;Pompeii 
+Andrés Couturier;89;Top Cat Begins 
+Ron Howard;135;A Beautiful Mind 
+Roger Allers;73;The Lion King 
+Brad Peyton;94;Journey 2: The Mysterious Island 
+Cody Cameron;95;Cloudy with a Chance of Meatballs 2 
+Brett Ratner;124;Red Dragon 
+Joe Johnston;136;Hidalgo 
+Dennis Dugan;91;Jack and Jill 
+John Singleton;107;2 Fast 2 Furious 
+Mark Osborne;108;The Little Prince 
+Oliver Hirschbiegel;99;The Invasion 
+Des McAnuff;92;The Adventures of Rocky & Bullwinkle 
+Yarrow Cheney;87;The Secret Life of Pets 
+Stephen Norrington;110;The League of Extraordinary Gentlemen 
+Pierre Coffin;98;Despicable Me 2 
+Roland Emmerich;154;Independence Day 
+Steven Spielberg;129;The Lost World: Jurassic Park 
+Eric Darnell;86;Madagascar 
+Alfonso Cuarón;109;Children of Men 
+Bryan Singer;104;X-Men 
+Timur Bekmambetov;110;Wanted 
+Michael Bay;136;The Rock 
+Carlos Saldanha;115;Ice Age: The Meltdown 
+Peter Segal;99;50 First Dates 
+Adam Shankman;117;Hairspray 
+Renny Harlin;125;Exorcist: The Beginning 
+David Kellogg;110;Inspector Gadget 
+Louis Leterrier;125;Now You See Me 
+Dennis Dugan;102;Grown Ups 
+Steven Spielberg;128;The Terminal 
+;43;Constantine             
+Thor Freudenthal;100;Hotel for Dogs 
+Martin Campbell;124;Vertical Limit 
+Mike Nichols;102;Charlie Wilson's War 
+Bibo Bergeron;90;Shark Tale 
+Bill Condon;130;Dreamgirls 
+;45;Life             
+F. Gary Gray;118;Be Cool 
+Steven Spielberg;163;Munich 
+Antoine Fuqua;142;Tears of the Sun 
+Robert Luketic;100;Killers 
+Guy Ritchie;116;The Man from U.N.C.L.E. 
+James L. Brooks;131;Spanglish 
+Gil Kenan;91;Monster House 
+Barry Levinson;123;Bandits 
+Jerry Zucker;134;First Knight 
+Andy Tennant;148;Anna and the King 
+Tarsem Singh;110;Immortals 
+Florent-Emilio Siri;113;Hostage 
+Don Bluth;94;Titan A.E. 
+Ron Shelton;116;Hollywood Homicide 
+Paul W.S. Anderson;99;Soldier 
+David Pastor;84;Carriers 
+Henry Selick;93;Monkeybone 
+John Moore;113;Flight of the Phoenix 
+M. Night Shyamalan;106;Unbreakable 
+Kyle Balda;91;Minions 
+Zack Snyder;128;Sucker Punch 
+Brian De Palma;98;Snake Eyes 
+Barry Levinson;134;Sphere 
+Clay Kaytis;97;The Angry Birds Movie 
+Andy Tennant;112;Fool's Gold 
+Judd Apatow;153;Funny People 
+Peter Berg;110;The Kingdom 
+Adam McKay;122;Talladega Nights: The Ballad of Ricky Bobby 
+Steve Carr;87;Dr. Dolittle 2 
+Mel Gibson;178;Braveheart 
+Sam Mendes;125;Jarhead 
+David Silverman;87;The Simpsons Movie 
+Frank Darabont;152;The Majestic 
+Renny Harlin;116;Driven 
+Jean-Jacques Annaud;109;Two Brothers 
+M. Night Shyamalan;108;The Village 
+Betty Thomas;85;Doctor Dolittle 
+M. Night Shyamalan;106;Signs 
+Andrew Adamson;93;Shrek 2 
+John Lasseter;117;Cars 
+Garry Marshall;116;Runaway Bride 
+Rob Cohen;132;xXx 
+Paul Tibbitt;92;The SpongeBob Movie: Sponge Out of Water 
+Ron Howard;139;Ransom 
+Quentin Tarantino;153;Inglourious Basterds 
+Steven Spielberg;142;Hook 
+Brett Ratner;101;Hercules 
+Renny Harlin;124;Die Hard 2 
+Clark Johnson;117;S.W.A.T. 
+;45;Sleepy Hollow             
+Cameron Crowe;141;Vanilla Sky 
+M. Night Shyamalan;110;Lady in the Water 
+Paul W.S. Anderson;109;AVP: Alien vs. Predator 
+Betty Thomas;88;Alvin and the Chipmunks: The Squeakquel 
+Randall Wallace;124;We Were Soldiers 
+Antoine Fuqua;119;Olympus Has Fallen 
+Jonathan Frakes;103;Star Trek: Insurrection 
+Jonathan Liebesman;116;Battle Los Angeles 
+Tim Burton;125;Big Fish 
+Mike Nichols;125;Wolf 
+Steven Spielberg;146;War Horse 
+George Clooney;118;The Monuments Men 
+James Cameron;171;The Abyss 
+Oliver Stone;136;Wall Street: Money Never Sleeps 
+Gary Shore;92;Dracula Untold 
+Edward Zwick;116;The Siege 
+Matthew Vaughn;127;Stardust 
+Jean-Jacques Annaud;136;Seven Years in Tibet 
+Ron Howard;111;The Dilemma 
+Joel Schumacher;116;Bad Company 
+Andrzej Bartkowiak;113;Doom 
+Betty Thomas;97;I Spy 
+Måns Mårlind;88;Underworld: Awakening 
+Adam Shankman;136;Rock of Ages 
+Gregory Hoblit;125;Hart's War 
+Gary McKendry;116;Killer Elite 
+John McTiernan;98;Rollerball 
+Wych Kaosayananda;91;Ballistic: Ecks vs. Sever 
+Mikael Salomon;97;Hard Rain 
+Bobby Farrelly;95;Osmosis Jones 
+Will Finn;88;Legends of Oz: Dorothy's Return 
+Michael Mann;133;Blackhat 
+Kerry Conran;106;Sky Captain and the World of Tomorrow 
+Michael Caton-Jones;116;Basic Instinct 2 
+Mikael Håfström;115;Escape Plan 
+Renny Harlin;99;The Legend of Hercules 
+Phil Alden Robinson;124;The Sum of All Fears 
+David Slade;124;The Twilight Saga: Eclipse 
+Frank Oz;124;The Score 
+Pierre Coffin;87;Despicable Me 
+Joseph Ruben;105;Money Train 
+Seth MacFarlane;125;Ted 2 
+Alejandro Amenábar;141;Agora 
+Kinka Usher;121;Mystery Men 
+Bobby Farrelly;111;Hall Pass 
+Michael Mann;157;The Insider 
+Craig Gillespie;117;The Finest Hours 
+Ridley Scott;128;Body of Lies 
+Jay Roach;114;Dinner for Schmucks 
+Timur Bekmambetov;105;Abraham Lincoln: Vampire Hunter 
+Jon Amiel;113;Entrapment 
+;30;Last Man Standing             
+Rob Bowman;121;The X Files 
+Doug Lefler;102;The Last Legion 
+Steven Spielberg;169;Saving Private Ryan 
+Scott Waugh;132;Need for Speed 
+Nancy Meyers;127;What Women Want 
+Chris Wedge;103;Ice Age 
+Lawrence Kasdan;136;Dreamcatcher 
+Steven Spielberg;150;Lincoln 
+Lana Wachowski;136;The Matrix 
+Ron Howard;140;Apollo 13 
+Paul Verhoeven;113;Total Recall 
+Michael Lembeck;104;The Santa Clause 2 
+Tom Hooper;158;Les Misérables 
+Nora Ephron;119;You've Got Mail 
+Adam McKay;106;Step Brothers 
+Martin Campbell;136;The Mask of Zorro 
+Todd Phillips;95;Due Date 
+Angelina Jolie Pitt;137;Unbroken 
+Clint Eastwood;130;Space Cowboys 
+Renny Harlin;124;Cliffhanger 
+John Woo;108;Broken Arrow 
+Jon Turteltaub;104;The Kid 
+Oliver Stone;129;World Trade Center 
+Mike Newell;117;Mona Lisa Smile 
+Larry Charles;99;The Dictator 
+Stanley Kubrick;159;Eyes Wide Shut 
+Will Gluck;118;Annie 
+Glenn Ficarra;105;Focus 
+McG;103;This Means War 
+David S. Goyer;122;Blade: Trinity 
+John Milius;114;Red Dawn 
+Mike Nichols;143;Primary Colors 
+Paul W.S. Anderson;96;Resident Evil: Retribution 
+Paul W.S. Anderson;111;Death Race 
+Renny Harlin;121;The Long Kiss Goodnight 
+Taylor Hackford;135;Proof of Life 
+Jon Favreau;101;Zathura: A Space Adventure 
+David Fincher;151;Fight Club 
+McG;131;We Are Marshall 
+;60;The Missing             
+Michael Lehmann;100;Hudson Hawk 
+Nora Ephron;105;Lucky Numbers 
+Stuart Beattie;92;I, Frankenstein 
+Roman Polanski;130;Oliver Twist 
+Rob Bowman;100;Elektra 
+Frank Miller;102;Sin City: A Dame to Kill For 
+Sydney Pollack;133;Random Hearts 
+Baltasar Kormákur;121;Everest 
+Tom Tykwer;147;Perfume: The Story of a Murderer 
+Jay Roach;94;Austin Powers in Goldmember 
+David Bowers;94;Astro Boy 
+Steven Spielberg;127;Jurassic Park 
+Lawrence Kasdan;212;Wyatt Earp 
+Phillip Noyce;141;Clear and Present Danger 
+Daniel Lee;103;Dragon Blade 
+Keenen Ivory Wayans;98;Littleman 
+Jonathan Mostow;116;U-571 
+Rob Reiner;114;The American President 
+Marco Schnabel;87;The Love Guru 
+Demian Lichtenstein;125;3000 Miles to Graceland 
+Quentin Tarantino;187;The Hateful Eight 
+Josh Gordon;93;Blades of Glory 
+Tim Hill;95;Hop 
+Zack Snyder;117;300 
+Jay Roach;106;Meet the Fockers 
+David Frankel;115;Marley & Me 
+Frank Darabont;189;The Green Mile 
+Walt Becker;100;Wild Hogs 
+Mark Dindal;81;Chicken Little 
+David Fincher;149;Gone Girl 
+Doug Liman;119;The Bourne Identity 
+Martin Campbell;130;GoldenEye 
+Simon West;116;The General's Daughter 
+Peter Weir;103;The Truman Show 
+Brenda Chapman;99;The Prince of Egypt 
+Steve Carr;92;Daddy Day Care 
+Baltasar Kormákur;109;2 Guns 
+Lawrence Guterman;87;Cats & Dogs 
+F. Gary Gray;111;The Italian Job 
+Marc Lawrence;101;Two Weeks Notice 
+Eric Darnell;83;Antz 
+Peter Billingsley;113;Couples Retreat 
+Tony Scott;107;Days of Thunder 
+Adam Shankman;94;Cheaper by the Dozen 2 
+Wes Ball;132;The Scorch Trials 
+Ryan Murphy;140;Eat Pray Love 
+Brett Ratner;125;The Family Man 
+Robert Schwentke;111;RED 
+Oliver Stone;156;Any Given Sunday 
+Robert Redford;170;The Horse Whisperer 
+Michael Mann;120;Collateral 
+Chuck Russell;100;The Scorpion King 
+Jay Russell;115;Ladder 49 
+Christopher McQuarrie;130;Jack Reacher 
+Renny Harlin;105;Deep Blue Sea 
+Kenny Ortega;111;This Is It 
+Steven Soderbergh;106;Contagion 
+David McNally;89;Kangaroo Jack 
+Henry Selick;100;Coraline 
+M. Night Shyamalan;91;The Happening 
+Tony Scott;146;Man on Fire 
+Brian Robbins;98;The Shaggy Dog 
+Todd Phillips;101;Starsky & Hutch 
+Brian Levant;94;Jingle All the Way 
+Guillermo del Toro;132;Hellboy 
+Steven Zaillian;115;A Civil Action 
+Chris Butler;92;ParaNorman 
+Michael Caton-Jones;124;The Jackal 
+John Woo;119;Paycheck 
+Jon Avnet;124;Up Close & Personal 
+Sam Fell;93;The Tale of Despereaux 
+;22;Rules of Engagement             
+Kevin Donovan;98;The Tuxedo 
+Geoff Murphy;92;Under Siege 2: Dark Territory 
+Kenneth Branagh;105;Jack Ryan: Shadow Recruit 
+David O. Russell;124;Joy 
+Babak Najafi;99;London Has Fallen 
+Jean-Pierre Jeunet;116;Alien: Resurrection 
+Antoine Fuqua;124;Shooter 
+Graham Annable;96;The Boxtrolls 
+Griffin Dunne;104;Practical Magic 
+Phil Lord;100;The Lego Movie 
+John Pasquin;115;Miss Congeniality 2: Armed and Fabulous 
+Rob Bowman;101;Reign of Fire 
+Ruben Fleischer;113;Gangster Squad 
+Harold Ramis;100;Year One 
+Clint Eastwood;134;Invictus 
+Kevin Macdonald;127;State of Play 
+Tony Gilroy;125;Duplicity 
+Donald Petrie;94;My Favorite Martian 
+Clark Johnson;107;The Sentinel 
+Jorge Blanco;91;Planet 51 
+Stuart Baird;116;Star Trek: Nemesis 
+Joel Coen;100;Intolerable Cruelty 
+Robert Lorenz;111;Trouble with the Curve 
+Martin Campbell;117;Edge of Darkness 
+Peter Hyams;110;The Relic 
+Harold Ramis;96;Analyze That 
+Jon Avnet;101;Righteous Kill 
+Harold Becker;111;Mercury Rising 
+Joe Wright;117;The Soloist 
+Robert Redford;126;The Legend of Bagger Vance 
+Cameron Crowe;152;Almost Famous 
+Tim Hill;86;Garfield 2 
+Lee Tamahori;101;xXx: State of the Union 
+Scott Stewart;87;Priest 
+Patrick Gilmore;85;Sinbad: Legend of the Seven Seas 
+Paul W.S. Anderson;130;Event Horizon 
+Joss Whedon;173;The Avengers 
+Tom Shadyac;104;Dragonfly 
+Brian De Palma;121;The Black Dahlia 
+Tony Bill;140;Flyboys 
+Rod Lurie;131;The Last Castle 
+Walter Hill;91;Supernova 
+Akiva Goldsman;118;Winter's Tale 
+Harald Zwart;130;The Mortal Instruments: City of Bones 
+Brian Robbins;90;Meet Dave 
+Walter Salles;103;Dark Water 
+Ron Howard;122;Edtv 
+Iain Softley;106;Inkheart 
+Frank Miller;103;The Spirit 
+David Koepp;107;Mortdecai 
+Uwe Boll;156;In the Name of the King: A Dungeon Siege Tale 
+Martin Campbell;127;Beyond Borders 
+Pou-Soi Cheang;119;Xi you ji zhi: Sun Wukong san da Baigu Jing 
+John Dahl;132;The Great Raid 
+Tim Miller;108;Deadpool 
+Stephen Herek;114;Holy Man 
+Clint Eastwood;133;American Sniper 
+Rob Letterman;103;Goosebumps 
+;22;Sabrina, the Teenage Witch             
+Mark Waters;95;Just Like Heaven 
+Brian Levant;90;The Flintstones in Viva Rock Vegas 
+Peter MacDonald;87;Rambo III 
+George Clooney;114;Leatherheads 
+Frank Coraci;119;The Ridiculous 6 
+Marc Lawrence;103;Did You Hear About the Morgans? 
+Shawn Levy;125;The Internship 
+Paul W.S. Anderson;97;Resident Evil: Afterlife 
+Anthony Hemingway;125;Red Tails 
+;30;Sex and the City             
+Taylor Hackford;136;The Devil's Advocate 
+Sean Anders;116;That's My Boy 
+Rob Cohen;103;DragonHeart 
+Brett Ratner;97;After the Sunset 
+Mark Neveldine;96;Ghost Rider: Spirit of Vengeance 
+John Madden;131;Captain Corelli's Mandolin 
+;22;Anger Management             
+Adam Shankman;95;The Pacifier 
+Kevin Bray;86;Walking Tall 
+Robert Zemeckis;142;Forrest Gump 
+Tim Hill;92;Alvin and the Chipmunks 
+Jay Roach;108;Meet the Parents 
+Mike Gabriel;84;Pocahontas 
+Richard Donner;188;Superman 
+Tom Shadyac;95;The Nutty Professor 
+Andy Tennant;118;Hitch 
+Sam Weisman;92;George of the Jungle 
+Jesse Dylan;74;American Wedding 
+Paul Greengrass;134;Captain Phillips 
+Shawn Levy;101;Date Night 
+Brad Silberling;100;Casper 
+Antoine Fuqua;132;The Equalizer 
+Wayne Wang;105;Maid in Manhattan 
+Tony Scott;123;Crimson Tide 
+Gabriele Muccino;117;The Pursuit of Happyness 
+Robert Schwentke;98;Flightplan 
+Barry Levinson;128;Disclosure 
+Brad Silberling;114;City of Angels 
+Quentin Tarantino;111;Kill Bill: Vol. 1 
+Frank Oz;85;Bowfinger 
+;44;Stargate SG-1             
+Quentin Tarantino;137;Kill Bill: Vol. 2 
+Andrey Konchalovskiy;97;Tango & Cash 
+Robert Zemeckis;104;Death Becomes Her 
+Tom Dey;110;Shanghai Noon 
+Stuart Baird;133;Executive Decision 
+Mark Waters;94;Mr. Popper's Penguins 
+Rob Minkoff;104;The Forbidden Kingdom 
+Jimmy Hayward;91;Free Birds 
+David Fincher;145;Alien 3 
+Alan Parker;135;Evita 
+John Frankenheimer;122;Ronin 
+Stephen Hopkins;110;The Ghost and the Darkness 
+Paul King;95;Paddington 
+Akiva Schaffer;102;The Watch 
+William Friedkin;94;The Hunted 
+Jon Turteltaub;126;Instinct 
+Bobby Farrelly;118;Stuck on You 
+Kent Alterman;99;Semi-Pro 
+Peter Lord;88;The Pirates! Band of Misfits 
+Clint Eastwood;141;Changeling 
+Andrew Davis;107;Chain Reaction 
+Tony Scott;116;The Fan 
+Joel Schumacher;143;The Phantom of the Opera 
+Shekhar Kapur;114;Elizabeth: The Golden Age 
+Karyn Kusama;93;Æon Flux 
+Ron Maxwell;280;Gods and Generals 
+Robert Butler;100;Turbulence 
+Karey Kirkpatrick;107;Imagine That 
+James Bobin;119;Muppets Most Wanted 
+Jonathan Frakes;95;Thunderbirds 
+Steve Antin;119;Burlesque 
+Jean-Pierre Jeunet;133;A Very Long Engagement 
+Stanley Kubrick;152;Lolita 
+Jim Gillespie;96;Eye See You 
+Guillermo del Toro;117;Blade II 
+Gabriele Muccino;123;Seven Pounds 
+Walter Hill;92;Bullet to the Head 
+Francis Ford Coppola;170;The Godfather: Part III 
+Cameron Crowe;123;Elizabethtown 
+Anthony Russo;110;You, Me and Dupree 
+Richard Lester;116;Superman II 
+Martin Brest;121;Gigli 
+Steven Zaillian;128;All the King's Men 
+John Singleton;99;Shaft 
+Don Bluth;94;Anastasia 
+Baz Luhrmann;127;Moulin Rouge! 
+Harold Becker;89;Domestic Disturbance 
+Scott Cooper;123;Black Mass 
+Clint Eastwood;135;Flags of Our Fathers 
+F. Gary Gray;118;Law Abiding Citizen 
+Robert Rodriguez;189;Grindhouse 
+Jonathan Demme;172;Beloved 
+Curtis Hanson;124;Lucky You 
+Steven Spielberg;141;Catch Me If You Can 
+Kathryn Bigelow;157;Zero Dark Thirty 
+Peyton Reed;106;The Break-Up 
+Phyllida Lloyd;108;Mamma Mia! 
+Garry Marshall;125;Valentine's Day 
+Jay Chandrasekhar;107;The Dukes of Hazzard 
+Terrence Malick;215;The Thin Red Line 
+David Dobkin;118;The Change-Up 
+Milos Forman;118;Man on the Moon 
+Martin Scorsese;178;Casino 
+Pierre Morel;92;From Paris with Love 
+Paul Hunter;104;Bulletproof Monk 
+Bobby Farrelly;116;Me, Myself & Irene 
+Steve Oedekerk;90;Barnyard 
+John Whitesell;93;Deck the Halls 
+Chris Weitz;130;The Twilight Saga: New Moon 
+Andrew Adamson;90;Shrek 
+George Nolfi;106;The Adjustment Bureau 
+Kevin Reynolds;155;Robin Hood: Prince of Thieves 
+Cameron Crowe;139;Jerry Maguire 
+Seth MacFarlane;112;Ted 
+James L. Brooks;139;As Good as It Gets 
+Tom Shadyac;115;Patch Adams 
+Adam McKay;143;Anchorman 2: The Legend Continues 
+Steven Brill;96;Mr. Deeds 
+J.J. Abrams;112;Super 8 
+Steven Soderbergh;131;Erin Brockovich 
+Donald Petrie;116;How to Lose a Guy in 10 Days 
+Phil Lord;112;22 Jump Street 
+Neil Jordan;123;Interview with the Vampire: The Vampire Chronicles 
+Peyton Reed;104;Yes Man 
+Rawson Marshall Thurber;107;Central Intelligence 
+Chris Columbus;124;Stepmom 
+Sean Anders;96;Daddy's Home 
+Rob Marshall;125;Into the Woods 
+Spike Lee;129;Inside Man 
+Brian Helgeland;90;Payback 
+Frank Marshall;109;Congo 
+Cameron Crowe;124;We Bought a Zoo 
+Alex Proyas;121;Knowing 
+Tom Dey;95;Failure to Launch 
+Hideo Nakata;128;The Ring Two 
+Glenn Ficarra;118;Crazy, Stupid, Love. 
+Peter Hewitt;80;Garfield 
+Joe Roth;99;Christmas with the Kranks 
+Bennett Miller;133;Moneyball 
+Wolfgang Petersen;127;Outbreak 
+Jaume Collet-Serra;106;Non-Stop 
+Andy Fickman;98;Race to Witch Mountain 
+James McTeigue;132;V for Vendetta 
+David Dobkin;114;Shanghai Knights 
+;45;Unforgotten             
+Matthew O'Callaghan;78;Curious George 
+Angela Robinson;101;Herbie Fully Loaded 
+Gary Fleder;113;Don't Say a Word 
+Tommy Wirkola;98;Hansel & Gretel: Witch Hunters 
+Adrian Lyne;124;Unfaithful 
+D.J. Caruso;109;I Am Number Four 
+Stephen Gaghan;128;Syriana 
+Michael Bay;144;13 Hours 
+Jorge R. Gutiérrez;95;The Book of Life 
+Richard Loncraine;105;Firewall 
+Clint Eastwood;121;Absolute Power 
+Ridley Scott;125;G.I. Jane 
+David Fincher;129;The Game 
+Christophe Gans;132;Silent Hill 
+Howard Deutch;118;The Replacements 
+Jon Hurwitz;113;American Reunion 
+F. Gary Gray;140;The Negotiator 
+Steven Quale;89;Into the Storm 
+John Landis;104;Beverly Hills Cop III 
+Joe Dante;106;Gremlins 2: The New Batch 
+David Dobkin;141;The Judge 
+Mimi Leder;124;The Peacemaker 
+Alexander Witt;98;Resident Evil: Apocalypse 
+Beeban Kidron;108;Bridget Jones: The Edge of Reason 
+Carl Franklin;114;Out of Time 
+Steven Seagal;101;On Deadly Ground 
+Robert Rodriguez;93;The Adventures of Sharkboy and Lavagirl 3-D 
+Danny Boyle;119;The Beach 
+Garry Marshall;119;Raising Helen 
+James McTeigue;99;Ninja Assassin 
+Sam Raimi;137;For Love of the Game 
+;105;A Touch of Frost             
+Andrew Bergman;117;Striptease 
+Tom Dey;87;Marmaduke 
+Clint Eastwood;129;Hereafter 
+Barbet Schroeder;115;Murder by Numbers 
+Richard Donner;132;Assassins 
+Peter Webber;131;Hannibal Rising 
+Rob Reiner;95;The Story of Us 
+Andrew Niccol;125;The Host 
+John McTiernan;98;Basic 
+Clint Eastwood;110;Blood Work 
+Tom Tykwer;118;The International 
+John Carpenter;101;Escape from L.A. 
+;60;Twisted             
+Brad Bird;90;The Iron Giant 
+Wes Anderson;119;The Life Aquatic with Steve Zissou 
+Gary Ross;139;Free State of Jones 
+Alan Parker;130;The Life of David Gale 
+Stephen Herek;100;Man of the House 
+Jaume Collet-Serra;114;Run All Night 
+David Cronenberg;96;Eastern Promises 
+John Stockwell;110;Into the Blue 
+Luc Besson;158;The Messenger: The Story of Joan of Arc 
+David Gordon Green;102;Your Highness 
+Jim Sheridan;84;Dream House 
+Costa-Gavras;115;Mad City 
+Patrick Read Johnson;99;Baby's Day Out 
+Roland Joffé;135;The Scarlet Letter 
+Doug Liman;108;Fair Game 
+;43;Defiance             
+Tony Scott;127;Domino 
+William Friedkin;107;Jade 
+Mark Neveldine;95;Gamer 
+Richard LaGravenese;124;Beautiful Creatures 
+Danny DeVito;109;Death to Smoochy 
+Ben Stiller;102;Zoolander 2 
+George Armitage;88;The Big Bounce 
+Mike Nichols;87;What Planet Are You From? 
+Patrick Lussier;104;Drive Angry 
+Andrzej Bartkowiak;96;Street Fighter: The Legend of Chun-Li 
+James Wong;85;The One 
+;64;Outlander             
+Renny Harlin;104;The Adventures of Ford Fairlane 
+Richard Curtis;135;Pirate Radio 
+Steven Soderbergh;190;Traffic 
+Steven Spielberg;127;Indiana Jones and the Last Crusade 
+Joe Wright;129;Anna Karenina 
+Neill Blomkamp;120;Chappie 
+Phillip Noyce;118;The Bone Collector 
+David Fincher;112;Panic Room 
+Chuck Bowman;89;The Tooth Fairy 
+David O. Russell;114;Three Kings 
+Daniel Espinosa;137;Child 44 
+Jerry Zucker;112;Rat Race 
+Iain Softley;120;K-PAX 
+James Mangold;123;Kate & Leopold 
+Harold Ramis;93;Bedazzled 
+Francis Ford Coppola;123;The Cotton Club 
+James Mangold;122;3:10 to Yuma 
+Olivier Megaton;115;Taken 3 
+Steven Soderbergh;123;Out of Sight 
+Ben Stiller;96;The Cable Guy 
+Deepa Mehta;110;Earth 
+Warren Beatty;105;Dick Tracy 
+John McTiernan;113;The Thomas Crown Affair 
+Penny Marshall;132;Riding in Cars with Boys 
+Ted Kotcheff;93;First Blood 
+Andrei Tarkovsky;115;Solaris 
+Paul Bolger;75;Happily N'Ever After 
+Stephen Frears;108;Mary Reilly 
+P.J. Hogan;105;My Best Friend's Wedding 
+Joe Roth;102;America's Sweethearts 
+Christopher Nolan;118;Insomnia 
+Jonathan Frakes;111;Star Trek: First Contact 
+Jimmy Hayward;81;Jonah Hex 
+Edward Zwick;116;Courage Under Fire 
+Tom Shadyac;86;Liar Liar 
+Brad Furman;127;The Infiltrator 
+Terence Young;140;Inchon 
+Brian Levant;91;The Flintstones 
+Olivier Megaton;98;Taken 2 
+David Zucker;84;Scary Movie 3 
+Donald Petrie;109;Miss Congeniality 
+Eric Brevig;93;Journey to the Center of the Earth 
+Garry Marshall;113;The Princess Diaries 2: Royal Engagement 
+Alan J. Pakula;141;The Pelican Brief 
+Joel Schumacher;119;The Client 
+Rob Reiner;97;The Bucket List 
+Phillip Noyce;117;Patriot Games 
+Robert Luketic;101;Monster-in-Law 
+Denis Villeneuve;153;Prisoners 
+Antoine Fuqua;122;Training Day 
+Dean Parisot;102;Galaxy Quest 
+Keenen Ivory Wayans;83;Scary Movie 2 
+James Bobin;103;The Muppets 
+Stephen Norrington;110;Blade 
+Thomas Carter;136;Coach Carter 
+Roger Michell;91;Changing Lanes 
+Luis Llosa;89;Anaconda 
+David McNally;107;Coyote Ugly 
+Richard Curtis;129;Love Actually 
+John Lasseter;95;A Bug's Life 
+Albert Hughes;122;From Hell 
+Luis Llosa;110;The Specialist 
+Ron Shelton;135;Tin Cup 
+Melville Shavelson;111;Yours, Mine and Ours 
+Jesse Dylan;95;Kicking & Screaming 
+Garth Jennings;109;The Hitchhiker's Guide to the Galaxy 
+Joel Zwick;93;Fat Albert 
+Russell Mulcahy;94;Resident Evil: Extinction 
+Frank Coraci;117;Blended 
+Wayne Wang;112;Last Holiday 
+Curtis Hanson;111;The River Wild 
+Frank Oz;96;The Indian in the Cupboard 
+Oliver Stone;141;Savages 
+David R. Ellis;94;Cellular 
+Peter Howitt;87;Johnny English 
+John A. Davis;88;The Ant Bully 
+David Lynch;177;Dune 
+Julie Taymor;133;Across the Universe 
+Sam Mendes;119;Revolutionary Road 
+Richard Donner;102;16 Blocks 
+Mathieu Kassovitz;101;Babylon A.D. 
+John Gray;91;The Glimmer Man 
+Harold Ramis;117;Multiplicity 
+John Schultz;86;Aliens in the Attic 
+Sean Penn;124;The Pledge 
+Susan Stroman;134;The Producers 
+Pete Travis;95;Dredd 
+Simon Wincer;100;The Phantom 
+Billy Bob Thornton;220;All the Pretty Horses 
+Oliver Stone;212;Nixon 
+Roman Polanski;128;The Ghost Writer 
+Stephen Sommers;106;Deep Rising 
+Spike Lee;160;Miracle at St. Anna 
+Yimou Zhang;114;Curse of the Golden Flower 
+Danny Pang;99;Bangkok Dangerous 
+Barry Sonnenfeld;74;Big Trouble 
+Mike Newell;139;Love in the Time of Cholera 
+;52;The Returned             
+George P. Cosmatos;103;Shadow Conspiracy 
+Oliver Parker;101;Johnny English Reborn 
+Lawrence Kasanoff;91;Foodfight! 
+Ben Affleck;130;Argo 
+Andrew Davis;130;The Fugitive 
+Andy Tennant;110;The Bounty Hunter 
+Barry Levinson;147;Sleepers 
+George P. Cosmatos;96;Rambo: First Blood Part II 
+Brian Gibson;118;The Juror 
+Norman Ferguson;88;Pinocchio 
+Michael Cimino;325;Heaven's Gate 
+Len Wiseman;102;Underworld: Evolution 
+Paul McGuigan;110;Victor Frankenstein 
+Gus Van Sant;136;Finding Forrester 
+Betty Thomas;103;28 Days 
+Louis Leterrier;103;Unleashed 
+Roger Kumble;90;The Sweetest Thing 
+Sydney Pollack;154;The Firm 
+Burr Steers;99;Charlie St. Cloud 
+Simon West;93;The Mechanic 
+Phil Lord;109;21 Jump Street 
+Roger Michell;124;Notting Hill 
+Peter Lord;84;Chicken Run 
+John Hamburg;90;Along Came Polly 
+Reginald Hudlin;117;Boomerang 
+Paul Feig;123;The Heat 
+Joseph L. Mankiewicz;251;Cleopatra 
+Frank Coraci;105;Here Comes the Boom 
+Carl Franklin;115;High Crimes 
+Barbra Streisand;122;The Mirror Has Two Faces 
+Mark Pellington;119;The Mothman Prophecies 
+Larry Charles;81;Brüno 
+John Glen;133;Licence to Kill 
+Catherine Hardwicke;100;Red Riding Hood 
+John Herzfeld;120;15 Minutes 
+Annabel Jankel;104;Super Mario Bros. 
+Andrew Niccol;122;Lord of War 
+Yimou Zhang;80;Hero 
+Julie Anne Robinson;91;One for the Money 
+Evan Goldberg;112;The Interview 
+Sngmoo Lee;100;The Warrior's Way 
+;30;McHale's Navy             
+Jean-Pierre Jeunet;105;Micmacs 
+Curtis Hanson;110;8 Mile 
+Jamel Debbouze;101;Animal Kingdom: Let's go Ape 
+Brian Helgeland;144;A Knight's Tale 
+Gordon Chan;108;The Medallion 
+M. Night Shyamalan;107;The Sixth Sense 
+Asger Leth;102;Man on a Ledge 
+David Frankel;100;The Big Year 
+John G. Avildsen;126;The Karate Kid 
+David O. Russell;138;American Hustle 
+Anne Fletcher;108;The Proposal 
+Bruce Beresford;105;Double Jeopardy 
+Robert Zemeckis;108;Back to the Future Part II 
+Luc Besson;89;Lucy 
+Sam Taylor-Johnson;129;Fifty Shades of Grey 
+Robert Rodriguez;84;Spy Kids 3-D: Game Over 
+Joel Schumacher;149;A Time to Kill 
+Shawn Levy;94;Cheaper by the Dozen 
+Peter Berg;121;Lone Survivor 
+Penny Marshall;128;A League of Their Own 
+James Wan;134;The Conjuring 2 
+David Fincher;120;The Social Network 
+Ken Kwapis;129;He's Just Not That Into You 
+David Zucker;89;Scary Movie 4 
+Wes Craven;116;Scream 3 
+Robert Zemeckis;118;Back to the Future Part III 
+Etan Cohen;107;Get Hard 
+Francis Ford Coppola;155;Bram Stoker's Dracula 
+Nora Ephron;123;Julie & Julia 
+Brian Helgeland;128;42 
+Anthony Minghella;139;The Talented Mr. Ripley 
+Bobby Farrelly;109;Dumb and Dumber To 
+Frank Marshall;120;Eight Below 
+Nancy Meyers;121;The Intern 
+Tim Story;102;Ride Along 2 
+Michael Mann;117;The Last of the Mohicans 
+Taylor Hackford;178;Ray 
+Frank Miller;147;Sin City 
+Pete Travis;90;Vantage Point 
+John Hamburg;105;I Love You, Man 
+Bobby Farrelly;114;Shallow Hal 
+Oliver Stone;206;JFK 
+John Whitesell;99;Big Momma's House 2 
+Gore Verbinski;123;The Mexican 
+Angelina Jolie Pitt;137;Unbroken 
+Burr Steers;102;17 Again 
+Nick Cassavetes;109;The Other Woman 
+David R. Ellis;82;The Final Destination 
+Steven Spielberg;142;Bridge of Spies 
+John Moore;106;Behind Enemy Lines 
+Nicholas Stoller;114;Get Him to the Greek 
+Peter Chelsom;106;Shall We Dance 
+Joe Dante;108;Small Soldiers 
+Mark A.Z. Dippé;98;Spawn 
+Kevin Reynolds;131;The Count of Monte Cristo 
+Brad Furman;118;The Lincoln Lawyer 
+Jaume Collet-Serra;113;Unknown 
+Christopher Nolan;130;The Prestige 
+Sean Anders;116;Horrible Bosses 2 
+Cal Brunker;89;Escape from Planet Earth 
+Mel Gibson;139;Apocalypto 
+John Glen;130;The Living Daylights 
+Nimród Antal;107;Predators 
+Ivan Reitman;116;Legal Eagles 
+David Koepp;96;Secret Window 
+Alejandro Agresti;99;The Lake House 
+Iain Softley;104;The Skeleton Key 
+Peter Hedges;105;The Odd Life of Timothy Green 
+Paul Weiland;101;Made of Honor 
+Clint Eastwood;134;Jersey Boys 
+Francis Ford Coppola;135;The Rainmaker 
+Mathieu Kassovitz;98;Gothika 
+Steven Spielberg;155;Amistad 
+John McTiernan;106;Medicine Man 
+Colin Strause;102;Aliens vs. Predator: Requiem 
+Donald Petrie;95;Ri¢hie Ri¢h 
+Joan Chen;103;Autumn in New York 
+Marc Lawrence;95;Music and Lyrics 
+Greg Mottola;109;Paul 
+Anne Fletcher;95;The Guilt Trip 
+Wes Craven;111;Scream 4 
+Joel Schumacher;123;8MM 
+Oliver Stone;140;The Doors 
+Jake Kasdan;94;Sex Tape 
+Diane Keaton;94;Hanging Up 
+Steven Quale;92;Final Destination 5 
+Kelly Makin;102;Mickey Blue Eyes 
+Mimi Leder;123;Pay It Forward 
+Bobby Farrelly;104;Fever Pitch 
+;30;Arthur             
+Steven Brill;102;Drillbit Taylor 
+Seth MacFarlane;136;A Million Ways to Die in the West 
+Russell Mulcahy;93;The Shadow 
+Stephen Daldry;129;Extremely Loud & Incredibly Close 
+Roger Michell;107;Morning Glory 
+Jim Sheridan;117;Get Rich or Die Tryin' 
+Christian Duguay;116;The Art of War 
+Chris Columbus;135;Rent 
+Chuck Russell;107;Bless the Child 
+Sam Weisman;90;The Out-of-Towners 
+John Frankenheimer;99;The Island of Dr. Moreau 
+Peter Hyams;104;The Musketeer 
+Justin Chadwick;115;The Other Boleyn Girl 
+Pat O'Connor;119;Sweet November 
+Stephen Hopkins;99;The Reaping 
+Martin Scorsese;112;Mean Streets 
+Penny Marshall;128;Renaissance Man 
+Olivier Megaton;112;Colombiana 
+Frederik Du Chau;86;The Magic Sword: Quest for Camelot 
+Michael Caton-Jones;108;City by the Sea 
+Irwin Winkler;128;At First Sight 
+Joseph Kahn;84;Torque 
+Harold Becker;111;City Hall 
+Paul Verhoeven;131;Showgirls 
+Sofia Coppola;123;Marie Antoinette 
+Barbet Schroeder;101;Kiss of Death 
+Stephen Kay;102;Get Carter 
+J.A. Bayona;114;The Impossible 
+Elaine May;107;Ishtar 
+Wes Anderson;87;Fantastic Mr. Fox 
+Stephen Herek;103;Life or Something Like It 
+John Carpenter;99;Memoirs of an Invisible Man 
+Jean-Pierre Jeunet;122;Amélie 
+Dennie Gordon;91;New York Minute 
+Charles Shyer;103;Alfie 
+Ken Kwapis;107;Big Miracle 
+Ulu Grosbard;106;The Deep End of the Ocean 
+William Malone;101;Feardotcom 
+Paul Weitz;109;Cirque du Freak: The Vampire's Assistant 
+Paul McGuigan;110;Victor Frankenstein 
+Danny DeVito;89;Duplex 
+Malcolm D. Lee;100;Soul Men 
+Jerry Jameson;119;Raise the Titanic 
+Mic Rodgers;83;Universal Soldier: The Return 
+Christian Alvart;108;Pandorum 
+Gary Fleder;102;Impostor 
+Christian Duguay;93;Extreme Ops 
+Jean-Marie Poiré;84;Just Visiting 
+Danny Boyle;107;Sunshine 
+Brian Robbins;91;A Thousand Words 
+Marc F. Adler;94;Delgo 
+Pierre Morel;115;The Gunman 
+Geoffrey Sax;93;Alex Rider: Operation Stormbreaker 
+D.J. Caruso;105;Disturbia 
+Iain Softley;107;Hackers 
+Richard Shepard;101;The Hunting Party 
+Joel Coen;111;The Hudsucker Proxy 
+Peter Ho-Sun Chan;113;The Warlords 
+Sergey Bodrov;112;Nomad: The Warrior 
+Joon-ho Bong;126;Snowpiercer 
+Bibo Bergeron;90;A Monster in Paris 
+Jeff Nathanson;93;The Last Shot 
+Alex Proyas;98;The Crow 
+S.S. Rajamouli;159;Baahubali: The Beginning 
+Robert Schwentke;107;The Time Traveler's Wife 
+Michael Lehmann;102;Because I Said So 
+Rob Cohen;106;The Fast and the Furious 
+Tim Burton;87;Frankenweenie 
+Joss Whedon;119;Serenity 
+Charles S. Dutton;110;Against the Ropes 
+Richard Lester;125;Superman III 
+Peter Segal;113;Grudge Match 
+John Woo;150;Red Cliff 
+Andy Tennant;108;Sweet Home Alabama 
+Robert Luketic;96;The Ugly Truth 
+Jonathan Lynn;93;Sgt. Bilko 
+Robert Rodriguez;100;Spy Kids 2: Island of Lost Dreams 
+David Carson;118;Star Trek: Generations 
+Kar-Wai Wong;122;The Grandmaster 
+Francis Lawrence;120;Water for Elephants 
+;60;3rd Rock from the Sun             
+Yuefeng Song;88;Dragon Nest: Warriors' Dawn 
+Norman Jewison;146;The Hurricane 
+Michael Apted;115;Enough 
+David Mirkin;123;Heartbreakers 
+Andy Fickman;94;Paul Blart: Mall Cop 2 
+Luis Mandoki;102;Angel Eyes 
+John Pasquin;98;Joe Somebody 
+Roman Polanski;133;The Ninth Gate 
+Michael Apted;118;Extreme Measures 
+Stephen Herek;105;Rock Star 
+Lee Daniels;109;Precious 
+Ridley Scott;129;White Squall 
+John Carpenter;109;The Thing 
+David Twohy;127;Riddick 
+Jeb Stuart;118;Switchback 
+Steve Miner;110;Texas Rangers 
+Gil Kenan;90;City of Ember 
+Paul Thomas Anderson;144;The Master 
+David Leland;97;Virgin Territory 
+Gary Fleder;130;The Express 
+J Blakeson;112;The 5th Wave 
+Ryan Coogler;133;Creed 
+Ben Affleck;150;The Town 
+Kirk Jones;110;What to Expect When You're Expecting 
+Ethan Coen;96;Burn After Reading 
+Jennifer Flackett;96;Nim's Island 
+Ron Howard;123;Rush 
+Paul Thomas Anderson;188;Magnolia 
+Kevin Smith;107;Cop Out 
+Christian Ditter;110;How to Be Single 
+Charles Martin Smith;113;Dolphin Tale 
+Catherine Hardwicke;122;Twilight 
+Nick Cassavetes;116;John Q 
+Les Mayfield;93;Blue Streak 
+Rawson Marshall Thurber;118;We're the Millers 
+Fedor Bondarchuk;115;Obitaemyy ostrov 
+Jonathan Mostow;93;Breakdown 
+Irvin Kershner;121;Never Say Never Again 
+Steve Pink;101;Hot Tub Time Machine 
+Charles Martin Smith;107;Dolphin Tale 2 
+John Frankenheimer;124;Reindeer Games 
+F. Gary Gray;109;A Man Apart 
+Cameron Crowe;105;Aloha 
+Rob Reiner;130;Ghosts of Mississippi 
+Scott Hicks;127;Snow Falling on Cedars 
+Mikael Håfström;114;The Rite 
+Andrew Niccol;106;Gattaca 
+Andrew Bergman;95;Isn't She Great 
+Kirk De Micco;81;Space Chimps 
+Chris Rock;95;Head of State 
+Todd Phillips;108;The Hangover 
+Wilson Yip;105;Ip Man 3 
+Jay Roach;95;Austin Powers: The Spy Who Shagged Me 
+Tim Burton;126;Batman 
+Roland Joffé;102;There Be Dragons 
+Richard Donner;121;Lethal Weapon 3 
+John Lee Hancock;129;The Blind Side 
+;43;Rush Hour             
+Robert Rodriguez;88;Spy Kids 
+Seth Gordon;106;Horrible Bosses 
+Ethan Coen;110;True Grit 
+David Frankel;109;The Devil Wears Prada 
+Robert Wise;143;Star Trek: The Motion Picture 
+Seth Gordon;120;Identity Thief 
+Martin Scorsese;128;Cape Fear 
+Robert Luketic;123;21 
+Judd Apatow;129;Trainwreck 
+Kevin Rodney Sullivan;105;Guess Who 
+Anthony Minghella;162;The English Patient 
+Curtis Hanson;138;L.A. Confidential 
+Mike Mitchell;100;Sky High 
+Frank Oz;90;In & Out 
+Roger Donaldson;108;Species 
+Wes Craven;101;A Nightmare on Elm Street 
+Tarsem Singh;109;The Cell 
+Randall Wallace;132;The Man in the Iron Mask 
+Randall Wallace;123;Secretariat 
+Kevin Munroe;87;TMNT 
+Michael Tollin;109;Radio 
+Will Gluck;109;Friends with Benefits 
+Nicholas Stoller;92;Neighbors 2: Sorority Rising 
+John Lee Hancock;125;Saving Mr. Banks 
+Spike Lee;202;Malcolm X 
+Judd Apatow;134;This Is 40 
+Walt Becker;88;Old Dogs 
+Patrick Tatopoulos;92;Underworld: Rise of the Lycans 
+Ken Kwapis;91;License to Wed 
+Dennis Dugan;75;The Benchwarmers 
+Gary David Goldberg;98;Must Love Dogs 
+Mike Newell;147;Donnie Brasco 
+Paul W.S. Anderson;100;Resident Evil 
+Tobe Hooper;120;Poltergeist 
+Ethan Coen;104;The Ladykillers 
+John Moore;103;Max Payne 
+Andrew Niccol;109;In Time 
+Alan Poul;104;The Back-up Plan 
+Luke Greenfield;112;Something Borrowed 
+;60;Hit the Floor             
+Gil Junger;95;Black Knight 
+Michael Ritchie;102;The Bad News Bears 
+Steven E. de Souza;102;Street Fighter 
+Roman Polanski;150;The Pianist 
+Albert Hughes;122;From Hell 
+Catherine Hardwicke;101;The Nativity Story 
+Jaume Collet-Serra;108;House of Wax 
+Mike Nichols;98;Closer 
+Clint Eastwood;137;J. Edgar 
+Alexandre Aja;112;Mirrors 
+Michael Rymer;101;Queen of the Damned 
+Stephen Hopkins;103;Predator 2 
+Gregory Hoblit;101;Untraceable 
+Hugh Wilson;112;Blast from the Past 
+Mike Hodges;111;Flash Gordon 
+Kevin Smith;102;Jersey Girl 
+Rob Cohen;101;Alex Cross 
+Clint Eastwood;155;Midnight in the Garden of Good and Evil 
+Scott Mann;93;Heist 
+Susanna White;109;Nanny McPhee Returns 
+Danny DeVito;140;Hoffa 
+Chris Carter;108;The X Files: I Want to Believe 
+Tommy O'Haver;96;Ella Enchanted 
+Peter Landesman;123;Concussion 
+John Singleton;106;Abduction 
+Gary Chapman;76;Valiant 
+Curtis Hanson;107;Wonder Boys 
+Craig Mazin;82;Superhero Movie 
+Allen Hughes;109;Broken City 
+Wes Craven;99;Cursed 
+David Koepp;91;Premium Rush 
+Anne Fletcher;87;Hot Pursuit 
+Shekhar Kapur;125;The Four Feathers 
+Taylor Hackford;118;Parker 
+Richard Loncraine;98;Wimbledon 
+Roger Kumble;92;Furry Vengeance 
+Kimble Rendall;93;Bait 
+Peter Yates;116;Krull 
+Robert Redford;92;Lions for Lambs 
+John Milius;115;Flight of the Intruder 
+Jake Kasdan;120;Walk Hard: The Dewey Cox Story 
+Lasse Hallström;111;The Shipping News 
+Les Mayfield;94;American Outlaws 
+Jean-Marc Vallée;100;The Young Victoria 
+Dominic Sena;101;Whiteout 
+Terrence Malick;139;The Tree of Life 
+Hark Tsui;91;Knock Off 
+David Ayer;109;Sabotage 
+Brian Helgeland;102;The Order 
+Lexi Alexander;103;Punisher: War Zone 
+Peter Hewitt;83;Zoom 
+Robert Zemeckis;123;The Walk 
+Ronny Yu;101;Warriors of Virtue 
+Ridley Scott;117;A Good Year 
+;60;Luther             
+Richard Donner;114;Radio Flyer 
+Taylor Hackford;330;Blood In, Blood Out 
+Bille August;121;Smilla's Sense of Snow 
+Brian De Palma;114;Femme Fatale 
+Moustapha Akkad;156;Lion of the Desert 
+Jean-Paul Rappeneau;135;The Horseman on the Roof 
+Ang Lee;148;Ride with the Devil 
+Alejandro G. Iñárritu;148;Biutiful 
+Roland Joffé;109;The Lovers 
+Joachim Rønning;93;Bandidas 
+Tony Kaye;;Black Water Transit 
+Wes Ball;113;The Maze Runner 
+Ken Scott;91;Unfinished Business 
+Martin Scorsese;139;The Age of Innocence 
+Darren Aronofsky;96;The Fountain 
+Hugh Johnson;102;Chill Factor 
+Simon West;96;Stolen 
+Hayao Miyazaki;101;Ponyo 
+George Tillman Jr.;128;The Longest Ride 
+Rand Ravich;109;The Astronaut's Wife 
+Hugh Hudson;114;I Dreamed of Africa 
+Gabriele Muccino;105;Playing for Keeps 
+Justin Chadwick;141;Mandela: Long Walk to Freedom 
+Warren Beatty;195;Reds 
+Rob Reiner;138;A Few Good Men 
+Andrzej Bartkowiak;101;Exit Wounds 
+Raja Gosnell;99;Big Momma's House 
+Jeremy Degruson;85;Thunder and the House of Magic 
+Chris Gorak;89;The Darkest Hour 
+Scott Speer;99;Step Up Revolution 
+David R. Ellis;105;Snakes on a Plane 
+Joe Charbanic;97;The Watcher 
+Jonathan Hensleigh;140;The Punisher 
+Danny Cannon;118;Goal! The Dream Begins 
+Boaz Yakin;94;Safe 
+Mike Newell;124;Pushing Tin 
+Richard Marquand;134;Star Wars: Episode VI - Return of the Jedi 
+Neil Marshall;113;Doomsday 
+Stephen Daldry;124;The Reader 
+David Wain;98;Wanderlust 
+Jon Favreau;97;Elf 
+Jon Turteltaub;123;Phenomenon 
+Brian Levant;99;Snow Dogs 
+Richard Donner;101;Scrooged 
+Jared Hess;92;Nacho Libre 
+Paul Feig;131;Bridesmaids 
+Evan Goldberg;107;This Is the End 
+Rupert Wainwright;103;Stigmata 
+George Tillman Jr.;129;Men of Honor 
+John Luessenhop;107;Takers 
+Justin Zackham;89;The Big Wedding 
+John Whitesell;113;Big Mommas: Like Father, Like Son 
+Duncan Jones;93;Source Code 
+Frank Marshall;120;Alive 
+Joel Schumacher;98;The Number 23 
+Jean-Pierre Jeunet;105;The Young and Prodigious T.S. Spivet 
+Steven Spielberg;142;1941 
+John Gatins;98;Dreamer: Inspired by a True Story 
+David Cronenberg;96;A History of Violence 
+Louis Leterrier;87;Transporter 2 
+Sam Raimi;107;The Quick and the Dead 
+Peter Howitt;90;Laws of Attraction 
+Martin Scorsese;121;Bringing Out the Dead 
+Miguel Sapochnik;119;Repo Men 
+Hyung-rae Shim;107;Dragon Wars: D-War 
+Norman Jewison;110;Bogus 
+Don Scardino;100;The Incredible Burt Wonderstone 
+Mark Dindal;75;Cats Don't Dance 
+Tim Robbins;132;Cradle Will Rock 
+Steven Soderbergh;105;The Good German 
+Tom Reeve;93;George and the Dragon 
+Francis Ford Coppola;289;Apocalypse Now 
+Nanette Burstein;102;Going the Distance 
+Stephen Herek;143;Mr. Holland's Opus 
+Ariel Vromen;113;Criminal 
+Sydney Pollack;161;Out of Africa 
+Robert Zemeckis;138;Flight 
+Lewis Gilbert;126;Moonraker 
+Wes Anderson;99;The Grand Budapest Hotel 
+Scott Hicks;101;Hearts in Atlantis 
+Frank Marshall;103;Arachnophobia 
+Gregory Hoblit;118;Frequency 
+Paul Feig;116;Ghostbusters 
+John Francis Daley;99;Vacation 
+Barry Sonnenfeld;105;Get Shorty 
+Rob Marshall;113;Chicago 
+Dennis Dugan;93;Big Daddy 
+J.B. Rogers;108;American Pie 2 
+John Lasseter;74;Toy Story 
+Jan de Bont;116;Speed 
+Michael Sucsy;104;The Vow 
+Tom Vaughan;106;Extraordinary Measures 
+Boaz Yakin;120;Remember the Titans 
+John McTiernan;135;The Hunt for Red October 
+Lee Daniels;132;Lee Daniels' The Butler 
+Rawson Marshall Thurber;92;Dodgeball: A True Underdog Story 
+Barry Sonnenfeld;99;The Addams Family 
+Steve Oedekerk;90;Ace Ventura: When Nature Calls 
+Garry Marshall;111;The Princess Diaries 
+Hugh Wilson;103;The First Wives Club 
+David Fincher;127;Se7en 
+Neill Blomkamp;112;District 9 
+Stephen Hillenburg;87;The SpongeBob SquarePants Movie 
+Clint Eastwood;138;Mystic River 
+Clint Eastwood;132;Million Dollar Baby 
+Harold Ramis;103;Analyze This 
+Nick Cassavetes;123;The Notebook 
+Anne Fletcher;111;27 Dresses 
+Peter Chelsom;102;Hannah Montana: The Movie 
+Stig Bergqvist;78;Rugrats in Paris: The Movie 
+Barbra Streisand;132;The Prince of Tides 
+Edward Zwick;133;Legends of the Fall 
+Jason Reitman;108;Up in the Air 
+Alexander Payne;125;About Schmidt 
+Jonathan Levine;98;Warm Bodies 
+Rian Johnson;119;Looper 
+Chris Weitz;87;Down to Earth 
+Chris Noonan;91;Babe 
+David Frankel;100;Hope Springs 
+Nicholas Stoller;118;Forgetting Sarah Marshall 
+;44;Friday Night Lights             
+John Singleton;109;Four Brothers 
+Michael McCullers;99;Baby Mama 
+Forest Whitaker;114;Hope Floats 
+Gary Winick;89;Bride Wars 
+Steven Brill;95;Without a Paddle 
+Gary Winick;98;13 Going on 30 
+Woody Allen;94;Midnight in Paris 
+Peter Lepeniotis;85;The Nut Job 
+Ted Demme;124;Blow 
+Luis Mandoki;131;Message in a Bottle 
+William Shatner;107;Star Trek V: The Final Frontier 
+John Schultz;99;Like Mike 
+Peter Segal;83;Naked Gun 33 1/3: The Final Insult 
+John Glen;131;A View to a Kill 
+Steve Box;85;The Curse of the Were-Rabbit 
+Richard LaGravenese;126;P.S. I Love You 
+Frederik Du Chau;102;Racing Stripes 
+Joe Wright;123;Atonement 
+Gary Winick;105;Letters to Juliet 
+Ridley Scott;125;Black Rain 
+Bobby Farrelly;92;The Three Stooges 
+Tim Burton;77;Corpse Bride 
+James Gartner;118;Glory Road 
+Denis Villeneuve;121;Sicario 
+Antoine Fuqua;124;Southpaw 
+Sam Raimi;99;Drag Me to Hell 
+Lee Toland Krieger;112;The Age of Adaline 
+Tim McCanlies;111;Secondhand Lions 
+Jon M. Chu;107;Step Up 3D 
+John Stockwell;104;Blue Crush 
+Marc Forster;113;Stranger Than Fiction 
+David Slade;113;30 Days of Night 
+Drew Goddard;95;The Cabin in the Woods 
+Jason Friedberg;86;Meet the Spartans 
+Martin Brest;126;Midnight Run 
+Paul Michael Glaser;101;The Running Man 
+Frank Oz;102;Little Shop of Horrors 
+Joe Wright;111;Hanna 
+;60;The Family             
+John R. Leonetti;95;Mortal Kombat: Annihilation 
+Tom Hanks;98;Larry Crowne 
+Kimberly Peirce;100;Carrie 
+Liz Friedlander;118;Take the Lead 
+;28;Entourage             
+Phil Joanou;125;Gridiron Gang 
+Sam Weisman;94;What's the Worst That Could Happen? 
+Shane Acker;79;9 
+Steven Soderbergh;106;Side Effects 
+Martha Coolidge;111;The Prince and Me 
+Stephen J. Anderson;63;Winnie the Pooh 
+Troy Miller;85;Dumb and Dumberer: When Harry Met Lloyd 
+Warren Beatty;108;Bulworth 
+Tate Taylor;139;Get on Up 
+Carl Franklin;127;One True Thing 
+Brett Leonard;106;Virtuosity 
+Ivan Reitman;95;My Super Ex-Girlfriend 
+Scott Derrickson;118;Deliver Us from Evil 
+Alister Grierson;108;Sanctum 
+Nick Hurran;105;Little Black Book 
+Nicholas Stoller;131;The Five-Year Engagement 
+Charles Stone III;104;Mr 3000 
+Paul Haggis;133;The Next Three Days 
+Kurt Wimmer;94;Ultraviolet 
+Jean-François Richet;109;Assault on Precinct 13 
+Antoine Fuqua;96;The Replacement Killers 
+Kevin Hooks;105;Fled 
+Ellory Elkayem;99;Eight Legged Freaks 
+Edward Zwick;112;Love & Other Drugs 
+Jon Avnet;108;88 Minutes 
+Niki Caro;126;North Country 
+Howard Deutch;98;The Whole Ten Yards 
+Vincenzo Natali;104;Splice 
+Willard Huyck;110;Howard the Duck 
+Gavin O'Connor;130;Pride and Glory 
+Bruce Hunt;93;The Cave 
+Rob Reiner;96;Alex & Emma 
+Paul McGuigan;114;Wicker Park 
+Craig Gillespie;106;Fright Night 
+Terrence Malick;150;The New World 
+Chris Roberts;100;Wing Commander 
+Neil Jordan;100;In Dreams 
+James Wong;100;Dragonball: Evolution 
+Jee-woon Kim;107;The Last Stand 
+Nick Hamm;102;Godsend 
+Andy Cadiff;101;Chasing Liberty 
+Mike Disa;86;Hoodwinked Too! Hood vs. Evil 
+Lasse Hallström;108;An Unfinished Life 
+Terry Gilliam;123;The Imaginarium of Doctor Parnassus 
+Richard J. Lewis;134;Barney's Version 
+;511;Trapped             
+Brad Furman;88;Runner Runner 
+Peter Howitt;109;Antitrust 
+Edward Zwick;122;Glory 
+Sergio Leone;251;Once Upon a Time in America 
+Niels Arden Oplev;118;Dead Man Down 
+Michael Radford;131;The Merchant of Venice 
+Neil Jordan;109;The Good Thief 
+Steve Boyum;80;Supercross 
+Chris Noonan;88;Miss Potter 
+Kaige Chen;103;The Promise 
+Corey Yuen;87;DOA: Dead or Alive 
+Andrew Dominik;160;The Assassination of Jesse James by the Coward Robert Ford 
+Li Zhang;121;1911 
+Laurent Tirard;91;Little Nicholas 
+Simon West;92;Wild Card 
+Marc Forster;129;Machine Gun Preacher 
+Reinhard Klooss;93;Animals United 
+Bille August;118;The Color of Freedom 
+Frédéric Auburtin;110;United Passions 
+Olivier Dahan;103;Grace of Monaco 
+Maksim Fadeev;85;A Warrior's Tail 
+Liliana Cavani;110;Ripley's Game 
+Greg Tiernan;89;Sausage Party 
+Elizabeth Banks;115;Pitch Perfect 2 
+James Mangold;153;Walk the Line 
+;42;12 Monkeys             
+Edward Norton;128;Keeping the Faith 
+Peter Hewitt;89;The Borrowers 
+Ron Howard;122;Frost/Nixon 
+George Clooney;113;Confessions of a Dangerous Mind 
+Reginald Hudlin;99;Serving Sara 
+Ben Falcone;99;The Boss 
+Richard Attenborough;147;Cry Freedom 
+Lawrence Kasdan;112;Mumford 
+Don Mancini;88;Seed of Chucky 
+John Maybury;94;The Jacket 
+Ron Clements;90;Aladdin 
+F. Gary Gray;167;Straight Outta Compton 
+Steven Spielberg;118;Indiana Jones and the Temple of Doom 
+Igor Kovalyov;83;The Rugrats Movie 
+Lee Tamahori;104;Along Came a Spider 
+Stephen Frears;110;Florence Foster Jenkins 
+Robert Rodriguez;102;Once Upon a Time in Mexico 
+John McTiernan;131;Die Hard 
+David Wain;101;Role Models 
+Adam McKay;130;The Big Short 
+Ang Lee;120;Taking Woodstock 
+Gavin O'Connor;135;Miracle 
+Zack Snyder;110;Dawn of the Dead 
+Adam Shankman;103;The Wedding Planner 
+Shinji Aramaki;115;Harlock: Space Pirate 
+Wes Anderson;110;The Royal Tenenbaums 
+James Mangold;91;Identity 
+Jon Turteltaub;105;Last Vegas 
+John Glen;127;For Your Eyes Only 
+Peter Chelsom;82;Serendipity 
+Peter Hyams;99;Timecop 
+Ben Stiller;90;Zoolander 
+Lasse Hallström;115;Safe Haven 
+Kenny Ortega;96;Hocus Pocus 
+Scott Hicks;104;No Reservations 
+Matthew Vaughn;117;Kick-Ass 
+Ruben Fleischer;83;30 Minutes or Less 
+Patrick Lussier;99;Dracula 2000 
+Miguel Arteta;81;Alexander and the Terrible, Horrible, No Good, Very Bad Day 
+Joe Wright;135;Pride & Prejudice 
+Ridley Scott;117;Blade Runner 
+Michael Caton-Jones;139;Rob Roy 
+McG;123;3 Days to Kill 
+James Gray;117;We Own the Night 
+Janusz Kaminski;97;Lost Souls 
+Jacques Perrin;81;Winged Migration 
+Donald Petrie;103;Just My Luck 
+Jay Roach;119;Mystery, Alaska 
+Brian Levant;94;The Spy Next Door 
+Michael Ritchie;89;A Simple Wish 
+John Carpenter;98;Ghosts of Mars 
+David Gordon Green;107;Our Brand Is Crisis 
+Burr Steers;108;Pride and Prejudice and Zombies 
+Martin Scorsese;134;Kundun 
+Robert B. Weide;110;How to Lose Friends & Alienate People 
+Jeff Wadlow;103;Kick-Ass 2 
+Agustín Díaz Yanes;145;Captain Alatriste: The Spanish Musketeer 
+Camille Delamarre;100;Brick Mansions 
+John Glen;131;Octopussy 
+Judd Apatow;133;Knocked Up 
+Nick Cassavetes;109;My Sister's Keeper 
+Malcolm D. Lee;114;Welcome Home, Roscoe Jenkins 
+David Lean;164;A Passage to India 
+Richard Eyre;92;Notes on a Scandal 
+Gavin Hood;122;Rendition 
+;42;Limitless             
+Nicholas Meyer;110;Star Trek VI: The Undiscovered Country 
+Callie Khouri;116;Divine Secrets of the Ya-Ya Sisterhood 
+Jon Favreau;106;The Jungle Book 
+Gary Fleder;115;Kiss the Girls 
+John Landis;148;The Blues Brothers 
+Sanaa Hamri;119;The Sisterhood of the Traveling Pants 2 
+Todd Graff;118;Joyful Noise 
+Chris Weitz;101;About a Boy 
+Steve Miner;82;Lake Placid 
+Paul McGuigan;110;Lucky Number Slevin 
+Philip Kaufman;193;The Right Stuff 
+Roland Emmerich;130;Anonymous 
+Wolfgang Petersen;94;The NeverEnding Story 
+Alex Proyas;111;Dark City 
+Saul Dibb;110;The Duchess 
+;30;The Honeymooners             
+Walter Murch;109;Return to Oz 
+Richard Linklater;123;The Newton Boys 
+Christian Alvart;109;Case 39 
+E. Elias Merhige;99;Suspect Zero 
+Menno Meyjes;106;Martian Child 
+Robert Rodriguez;89;Spy Kids: All the Time in the World in 4D 
+Jodie Foster;98;Money Monster 
+Ronny Yu;93;Formula 51 
+Joel Schumacher;112;Flawless 
+Renny Harlin;101;Mindhunters 
+Barry Levinson;104;What Just Happened 
+Norman Jewison;120;The Statement 
+Kenneth Branagh;135;The Magic Flute 
+Steve Carr;91;Paul Blart: Mall Cop 
+Mark Waters;97;Freaky Friday 
+Judd Apatow;133;The 40-Year-Old Virgin 
+John Madden;123;Shakespeare in Love 
+Scott Frank;114;A Walk Among the Tombstones 
+Ivan Reitman;111;Kindergarten Cop 
+David Gordon Green;117;Pineapple Express 
+Andy Tennant;121;Ever After: A Cinderella Story 
+Kevin Costner;139;Open Range 
+Joel Schumacher;115;Flatliners 
+;22;It's Always Sunny in Philadelphia             
+Richard Attenborough;175;A Bridge Too Far 
+Wes Craven;85;Red Eye 
+David R. Ellis;90;Final Destination 2 
+Joel Coen;107;O Brother, Where Art Thou? 
+Scott Stewart;100;Legion 
+Michael Bay;129;Pain & Gain 
+Paul Weitz;109;In Good Company 
+Jonathan Frakes;94;Clockstoppers 
+Lawrence Kasdan;133;Silverado 
+Jim Sheridan;105;Brothers 
+Kevin Allen;100;Agent Cody Banks 2: Destination London 
+Garry Marshall;113;New Year's Eve 
+Michael Cristofer;118;Original Sin 
+James McTeigue;110;The Raven 
+Donald Petrie;110;Welcome to Mooseport 
+Andrew Morahan;99;Highlander: The Final Dimension 
+Bob Rafelson;101;Blood and Wine 
+Michael Cohn;100;Snow White: A Tale of Terror 
+Woody Allen;103;The Curse of the Jade Scorpion 
+David O. Russell;100;Accidental Love 
+Alan Shapiro;95;Flipper 
+Tarsem Singh;117;Self/less 
+Fernando Meirelles;129;The Constant Gardener 
+Mel Gibson;120;The Passion of the Christ 
+Chris Columbus;125;Mrs. Doubtfire 
+Barry Levinson;133;Rain Man 
+Clint Eastwood;116;Gran Torino 
+Oliver Stone;129;W. 
+Pierre Morel;93;Taken 
+Michael Hoffman;118;The Best of Me 
+Mick Jackson;129;The Bodyguard 
+Steven Spielberg;185;Schindler's List 
+Tate Taylor;146;The Help 
+Bill Condon;128;The Fifth Estate 
+Raja Gosnell;93;Scooby-Doo 2: Monsters Unleashed 
+Oleg Stepchenko;107;Viy 
+Ronny Yu;97;Freddy vs. Jason 
+Michael Winterbottom;101;The Face of an Angel 
+John A. Davis;82;Jimmy Neutron: Boy Genius 
+Matt Reeves;85;Cloverfield 
+Michael Pressman;88;Teenage Mutant Ninja Turtles II: The Secret of the Ooze 
+Brian De Palma;119;The Untouchables 
+Ethan Coen;122;No Country for Old Men 
+Tim Story;99;Ride Along 
+Sharon Maguire;97;Bridget Jones's Diary 
+Lasse Hallström;121;Chocolat 
+Charles Herman-Wurmfeld;95;Legally Blonde 2: Red, White & Blonde 
+Andy Fickman;105;Parental Guidance 
+Ivan Reitman;108;No Strings Attached 
+George P. Cosmatos;134;Tombstone 
+Andrzej Bartkowiak;115;Romeo Must Die 
+Richard Donner;107;The Omen 
+James Wong;86;Final Destination 3 
+Scott Hicks;101;The Lucky One 
+Gabor Csupo;96;Bridge to Terabithia 
+Marc Forster;101;Finding Neverland 
+Tyler Perry;100;A Madea Christmas 
+Joe Carnahan;117;The Grey 
+John Polson;101;Hide and Seek 
+Adam McKay;98;Anchorman: The Legend of Ron Burgundy 
+Martin Scorsese;146;Goodfellas 
+Harald Zwart;102;Agent Cody Banks 
+Kirk Jones;97;Nanny McPhee 
+Brian De Palma;142;Scarface 
+Steve Oedekerk;98;Nothing to Lose 
+Bernardo Bertolucci;219;The Last Emperor 
+Baltasar Kormákur;109;Contraband 
+Brett Ratner;97;Money Talks 
+Paul Thomas Anderson;158;There Will Be Blood 
+Cathy Malkasian;85;The Wild Thornberrys Movie 
+John Eng;80;Rugrats Go Wild 
+Malcolm D. Lee;86;Undercover Brother 
+Ken Kwapis;119;The Sisterhood of the Traveling Pants 
+Chris Nahon;98;Kiss of the Dragon 
+Fred Wolf;97;The House Bunny 
+Bille Woodruff;105;Beauty Shop 
+Craig Gillespie;124;Million Dollar Arm 
+Phillip Noyce;97;The Giver 
+Dennie Gordon;105;What a Girl Wants 
+Victor Salva;104;Jeepers Creepers II 
+Mark Helfrich;101;Good Luck Chuck 
+Andrzej Bartkowiak;101;Cradle 2 the Grave 
+Stephen Daldry;114;The Hours 
+Andy Fickman;105;She's the Man 
+Steve Bendelack;90;Mr. Bean's Holiday 
+Dwight H. Little;97;Anacondas: The Hunt for the Blood Orchid 
+Guillaume Canet;144;Blood Ties 
+Kirsten Sheridan;114;August Rush 
+Shekhar Kapur;124;Elizabeth 
+Ronny Yu;89;Bride of Chucky 
+Richard Fleischer;160;Tora! Tora! Tora! 
+Bob Spiers;93;Spice World 
+David Gordon Green;87;The Sitter 
+Damien Dante Wayans;88;Dance Flick 
+Frank Darabont;142;The Shawshank Redemption 
+Simon Wincer;92;Crocodile Dundee in Los Angeles 
+Bobby Farrelly;117;Kingpin 
+Rupert Wyatt;111;The Gambler 
+John Wells;121;August: Osage County 
+Tim Fywell;98;Ice Princess 
+Nigel Cole;107;A Lot Like Love 
+Dexter Fletcher;106;Eddie the Eagle 
+Spike Lee;136;He Got Game 
+Jeremy Leven;97;Don Juan DeMarco 
+;7;Shaun the Sheep             
+Lasse Hallström;108;Dear John 
+Sylvain White;97;The Losers 
+Troy Nixey;99;Don't Be Afraid of the Dark 
+Philip G. Atwell;103;War 
+Paul Thomas Anderson;95;Punch-Drunk Love 
+Jeff Schaffer;93;EuroTrip 
+Don Michael Paul;98;Half Past Dead 
+Paul Feig;90;Unaccompanied Minors 
+James Bridges;107;Bright Lights, Big City 
+Steve Barron;90;The Adventures of Pinocchio 
+Bill Paxton;120;The Greatest Game Ever Played 
+Richard Kelly;115;The Box 
+Carter Smith;93;The Ruins 
+John Schlesinger;99;The Next Best Thing 
+Wes Craven;107;My Soul to Take 
+Luke Greenfield;110;The Girl Next Door 
+Ringo Lam;101;Maximum Risk 
+Bruce McCulloch;85;Stealing Harvard 
+Brian Helgeland;132;Legend 
+Akiva Schaffer;88;Hot Rod 
+David R. Ellis;90;Shark Night 3D 
+Alan Parker;145;Angela's Ashes 
+Ivan Reitman;110;Draft Day 
+Tobe Hooper;101;Lifeforce 
+;30;The Powerpuff Girls             
+Robert Redford;122;The Conspirator 
+Catherine Hardwicke;107;Lords of Dogtown 
+Patricia Riggen;127;The 33 
+John Carpenter;99;Big Trouble in Little China 
+Pascal Chaumeil;104;A Perfect Plan 
+Gavin O'Connor;140;Warrior 
+Neil Jordan;133;Michael Collins 
+Ron Maxwell;271;Gettysburg 
+Kimberly Peirce;112;Stop-Loss 
+Stephen Gaghan;99;Abandon 
+Jonathan Kaplan;100;Brokedown Palace 
+Ole Bornedal;92;The Possession 
+Richard Benjamin;105;Mrs. Winterbourne 
+Rod Lurie;110;Straw Dogs 
+Lasse Hallström;116;The Hoax 
+Craig R. Baxley;88;Stone Cold 
+John Hillcoat;111;The Road 
+John Guillermin;117;Sheena 
+Marcos Siega;95;Underclassman 
+J.B. Rogers;95;Say It Isn't So 
+Roger Donaldson;127;The World's Fastest Indian 
+David R. Ellis;105;Snakes on a Plane 
+Rachel Talalay;104;Tank Girl 
+Jeffrey W. Byrd;95;King's Ransom 
+Fernando Meirelles;121;Blindness 
+Uwe Boll;92;BloodRayne 
+Roman Polanski;80;Carnage 
+Atom Egoyan;107;Where the Truth Lies 
+Andrew Adamson;91;Cirque du Soleil: Worlds Away 
+Robert Towne;117;Without Limits 
+Richard Linklater;107;Me and Orson Welles 
+Giuseppe Tornatore;131;The Best Offer 
+Werner Herzog;122;Bad Lieutenant: Port of Call New Orleans 
+Ben Stassen;88;A Turtle's Tale: Sammy's Adventures 
+Guillaume Canet;134;Little White Lies 
+Taylor Hackford;117;Love Ranch 
+Jérôme Deschamps;80;The True Story of Puss'N Boots 
+Inna Evlannikova;85;Space Dogs 
+Ridley Scott;138;The Counselor 
+Jonathan English;121;Ironclad 
+Sergey Bondarchuk;134;Waterloo 
+Teddy Chan;100;Kung Fu Killer 
+Mario Van Peebles;100;Red Sky 
+Stephen Frears;119;Dangerous Liaisons 
+Walter Salles;137;On the Road 
+Leonard Nimoy;119;Star Trek IV: The Voyage Home 
+Sylvester Stallone;139;Rocky Balboa 
+Ericson Core;114;Point Break 
+Wes Craven;120;Scream 2 
+Gavin O'Connor;98;Jane Got a Gun 
+Tim Story;106;Think Like a Man Too 
+Jonathan Lynn;98;The Whole Nine Yards 
+Herbert Ross;107;Footloose 
+Todd Phillips;88;Old School 
+Terry Gilliam;137;The Fisher King 
+Danny Cannon;100;I Still Know What You Did Last Summer 
+Bonnie Hunt;115;Return to Me 
+Kevin Smith;101;Zack and Miri Make a Porno 
+Neil LaBute;110;Nurse Betty 
+Grant Heslov;94;The Men Who Stare at Goats 
+George Gallo;88;Double Take 
+James Mangold;127;Girl, Interrupted 
+Robert Luketic;95;Win a Date with Tad Hamilton! 
+Tim Hill;87;Muppets from Space 
+Sidney Lumet;118;The Wiz 
+Brian Robbins;107;Ready to Rumble 
+Ron Shelton;124;Play It to the Bone 
+Douglas McGrath;89;I Don't Know How She Does It 
+Alexandre Aja;88;Piranha 3D 
+Kevin Spacey;118;Beyond the Sea 
+Steve Boyum;93;Meet the Deedles 
+Richard Williams;80;The Princess and the Cobbler 
+Mary McGuckian;120;The Bridge of San Luis Rey 
+George Tillman Jr.;98;Faster 
+Hayao Miyazaki;119;Howl's Moving Castle 
+Ruben Fleischer;88;Zombieland 
+Peter Jackson;201;King Kong 
+Frank Coraci;90;The Waterboy 
+Irvin Kershner;127;Star Wars: Episode V - The Empire Strikes Back 
+Michael Bay;119;Bad Boys 
+David Zucker;85;The Naked Gun 2½: The Smell of Fear 
+James Wong;98;Final Destination 
+George Clooney;101;The Ides of March 
+David Twohy;112;Pitch Black 
+Tony Goldwyn;97;Someone Like You... 
+Spike Jonze;126;Her 
+Dexter Fletcher;106;Eddie the Eagle 
+John Dahl;97;Joy Ride 
+Jonathan Newman;100;The Adventurer: The Curse of the Midas Box 
+Wayne Wang;114;Anywhere But Here 
+Andy Cadiff;101;Chasing Liberty 
+Michael Dinner;88;The Crew 
+Steven Soderbergh;93;Haywire 
+Joseph Sargent;92;Jaws: The Revenge 
+Jerry Zaks;98;Marvin's Room 
+Fred Durst;94;The Longshots 
+Neil Jordan;102;The End of the Affair 
+Simon Wincer;98;Harley Davidson and the Marlboro Man 
+Paul Haggis;121;In the Valley of Elah 
+Anne Fontaine;111;Coco Before Chanel 
+Jon Cassar;90;Forsaken 
+Stephen Frears;100;Chéri 
+;50;Rogue             
+Mira Nair;141;Vanity Fair 
+Teddy Chan;139;Bodyguards and Assassins 
+Mikael Håfström;114;1408 
+Mel Brooks;96;Spaceballs 
+Russell Crowe;111;The Water Diviner 
+Jerry Zucker;127;Ghost 
+Bobby Farrelly;107;There's Something About Mary 
+John Pasquin;97;The Santa Clause 
+John Lee Hancock;127;The Rookie 
+Andy Fickman;110;The Game Plan 
+Clint Eastwood;135;The Bridges of Madison County 
+Luke Greenfield;84;The Animal 
+Richard Attenborough;240;Gandhi 
+Lasse Hallström;122;The Hundred-Foot Journey 
+Irwin Winkler;114;The Net 
+Jessie Nelson;132;I Am Sam 
+Christopher Spencer;170;Son of God 
+Len Wiseman;133;Underworld 
+Mikael Håfström;112;Derailed 
+Steven Soderbergh;108;The Informant! 
+Richard Attenborough;115;Shadowlands 
+Mike Bigelow;83;Deuce Bigalow: European Gigolo 
+Ken Scott;105;Delivery Man 
+Paul McGuigan;110;Victor Frankenstein 
+Susanna White;108;Our Kind of Traitor 
+Dennis Dugan;96;Saving Silverman 
+David Bowers;94;Diary of a Wimpy Kid: Dog Days 
+Spike Lee;142;Summer of Sam 
+Kevin Smith;104;Jay and Silent Bob Strike Back 
+Michael Bay;136;The Island 
+Daniel Sackheim;106;The Glass House 
+Ethan Coen;106;Hail, Caesar! 
+Harry Elfont;98;Josie and the Pussycats 
+Gary Fleder;100;Homefront 
+Uli Edel;95;The Little Vampire 
+David O. Russell;107;I Heart Huckabees 
+Fred Dekker;104;RoboCop 3 
+Brian Trenchard-Smith;104;Megiddo: The Omega Code 2 
+Blake Edwards;143;Darling Lili 
+Hugh Wilson;77;Dudley Do-Right 
+Camille Delamarre;96;The Transporter Refueled 
+Laurence Dunmore;114;The Libertine 
+Paul Verhoeven;145;Black Book 
+Christian Carion;116;Joyeux Noel 
+David Palmer;100;Hit and Run 
+Callie Khouri;104;Mad Money 
+Rowan Joffe;92;Before I Go to Sleep 
+William Friedkin;92;Sorcerer 
+John Curran;105;Stone 
+Laurent Tirard;120;Molière 
+Scott Cooper;116;Out of the Furnace 
+Tony Gilroy;119;Michael Clayton 
+Peter Segal;101;My Fellow Americans 
+Mark Pellington;117;Arlington Road 
+Juan José Campanella;106;Underdogs 
+Woody Allen;112;To Rome with Love 
+Clint Eastwood;136;Firefox 
+Trey Parker;81;South Park: Bigger Longer & Uncut 
+Frank Oz;87;Death at a Funeral 
+Stuart Gillard;96;Teenage Mutant Ninja Turtles III 
+Brian Robbins;106;Hardball 
+David O. Russell;122;Silver Linings Playbook 
+Richard LaGravenese;123;Freedom Writers 
+Tyler Perry;133;For Colored Girls 
+Louis Leterrier;92;The Transporter 
+Jeff Wadlow;110;Never Back Down 
+Katt Shea;104;The Rage: Carrie 2 
+;60;The Bachelor             
+Sam Mendes;98;Away We Go 
+Joshua Michael Stern;120;Swing Vote 
+Brad Silberling;112;Moonlight Mile 
+Tomas Alfredson;127;Tinker Tailor Soldier Spy 
+John Duigan;102;Molly 
+Jodie Foster;91;The Beaver 
+Colin Higgins;114;The Best Little Whorehouse in Texas 
+David Cronenberg;115;eXistenZ 
+Steven Spielberg;115;Raiders of the Lost Ark 
+Chris Columbus;120;Home Alone 2: Lost in New York 
+Steven Spielberg;135;Close Encounters of the Third Kind 
+Jim Sonzero;90;Pulse 
+Tony Scott;100;Beverly Hills Cop II 
+Adam Shankman;105;Bringing Down the House 
+Jonathan Demme;138;The Silence of the Lambs 
+Penelope Spheeris;94;Wayne's World 
+Jeff Tremaine;101;Jackass 3D 
+Jeannot Szwarc;131;Jaws 2 
+Raja Gosnell;91;Beverly Hills Chihuahua 
+James Wan;112;The Conjuring 
+Brian Levant;95;Are We There Yet? 
+Ben Falcone;100;Tammy 
+D.J. Caruso;105;Disturbia 
+Richard Linklater;108;School of Rock 
+Paul W.S. Anderson;101;Mortal Kombat 
+Paul McGuigan;114;Wicker Park 
+Keenen Ivory Wayans;109;White Chicks 
+Alexander Payne;115;The Descendants 
+Andrew Davis;117;Holes 
+Julie Anne Robinson;107;The Last Song 
+Steve McQueen;134;12 Years a Slave 
+Charles Stone III;118;Drumline 
+Tyler Perry;121;Why Did I Get Married Too? 
+Tim Burton;105;Edward Scissorhands 
+Thea Sharrock;110;Me Before You 
+Tyler Perry;114;Madea's Witness Protection 
+William Friedkin;104;The French Connection 
+Jon Lucas;100;Bad Moms 
+Aaron Seltzer;85;Date Movie 
+Robin Budd;72;Return to Never Land 
+Ava DuVernay;128;Selma 
+Steve Trenbirth;72;The Jungle Book 2 
+Stephen Kay;89;Boogeyman 
+Mennan Yapo;96;Premonition 
+Jun Falkenstein;77;The Tigger Movie 
+Jaume Collet-Serra;123;Orphan 
+Boaz Yakin;111;Max 
+;30;Meet the Browns             
+Jason Friedberg;93;Epic Movie 
+John Milius;129;Conan the Barbarian 
+Tom McCarthy;128;Spotlight 
+Neil LaBute;110;Lakeview Terrace 
+Takashi Shimizu;137;The Grudge 2 
+Kevin Rodney Sullivan;124;How Stella Got Her Groove Back 
+Peter Hewitt;93;Bill & Ted's Bogus Journey 
+Barry Levinson;115;Man of the Year 
+Gary Nelson;98;The Black Hole 
+Anton Corbijn;105;The American 
+Gregory Nava;127;Selena 
+Jason Friedberg;82;Vampires Suck 
+Alejandro G. Iñárritu;143;Babel 
+Shawn Levy;103;This Is Where I Leave You 
+John Patrick Shanley;104;Doubt 
+Trey Parker;98;Team America: World Police 
+John Luessenhop;92;Texas Chainsaw 3D 
+Jon Amiel;123;Copycat 
+Malcolm D. Lee;88;Scary Movie 5 
+Joshua Logan;158;Paint Your Wagon 
+Gus Van Sant;128;Milk 
+Kevin Reynolds;107;Risen 
+Steve Beck;91;Ghost Ship 
+Todd Strauss-Schulson;90;A Very Harold & Kumar 3D Christmas 
+John McNaughton;115;Wild Things 
+Nelson McCormick;101;The Stepfather 
+John Madden;113;The Debt 
+Stephen Frears;113;High Fidelity 
+Eric Valette;87;One Missed Call 
+John Schlesinger;101;Eye for an Eye 
+Roger Donaldson;111;The Bank Job 
+Michel Gondry;108;Eternal Sunshine of the Spotless Mind 
+Andy Fickman;105;You Again 
+David Ayer;109;Street Kings 
+Edgar Wright;109;The World's End 
+Andrew Fleming;99;Nancy Drew 
+Michael Spierig;98;Daybreakers 
+Jim Field Smith;104;She's Out of My League 
+Thomas Bezucha;109;Monte Carlo 
+William Brent Bell;75;Stay Alive 
+Simon Wincer;119;Quigley Down Under 
+Anthony Bell;90;Alpha and Omega 
+Renny Harlin;97;The Covenant 
+Jessica Bendinger;103;Stick It 
+Robert Rodriguez;89;Shorts 
+Gus Van Sant;106;To Die For 
+Henry Joost;96;Nerve 
+Ed Harris;115;Appaloosa 
+John Carpenter;104;Vampires 
+;24;Yu-Gi-Oh! Duel Monsters             
+Alfred Hitchcock;108;Psycho 
+Howard Deutch;112;My Best Friend's Girl 
+Shana Feste;104;Endless Love 
+Garry Marshall;113;Georgia Rule 
+Steve Rash;98;Under the Rainbow 
+Richard Donner;121;Ladyhawke 
+Mark Steven Johnson;114;Simon Birch 
+Mike Binder;124;Reign Over Me 
+Sean Penn;148;Into the Wild 
+Todd Phillips;108;School for Scoundrels 
+Michael J. Bassett;95;Silent Hill: Revelation 3D 
+Robert Rodriguez;108;From Dusk Till Dawn 
+Frank Nissen;68;Pooh's Heffalump Movie 
+Jodie Foster;103;Home for the Holidays 
+Stephen Chow;99;Kung Fu Hustle 
+;30;Fired Up             
+Peter Hastings;88;The Country Bears 
+Marc Forster;128;The Kite Runner 
+Alejandro G. Iñárritu;124;21 Grams 
+Paul Abascal;84;Paparazzi 
+Catherine Hardwicke;122;Twilight 
+Chris Koch;101;A Guy Thing 
+Amy Heckerling;98;Loser 
+Michael Moore;105;Capitalism: A Love Story 
+George Stevens;225;The Greatest Story Ever Told 
+Billy Ray;111;Secret in Their Eyes 
+Jason Friedberg;88;Disaster Movie 
+Nimród Antal;88;Armored 
+Jon Amiel;94;The Man Who Knew Too Little 
+Mark Mylod;117;What's Your Number? 
+James Mather;95;Lockout 
+Barry Levinson;99;Envy 
+Mark Neveldine;96;Crank: High Voltage 
+Woody Allen;98;Bullets Over Broadway 
+Michael O. Sajbel;123;One Night with the King 
+Phillip Noyce;101;The Quiet American 
+Gore Verbinski;102;The Weather Man 
+Walter Hill;94;Undisputed 
+David Koepp;102;Ghost Town 
+Renny Harlin;108;12 Rounds 
+Matt Reeves;116;Let Me In 
+Charles T. Kanganis;93;3 Ninjas Kick Back 
+Michel Gondry;102;Be Kind Rewind 
+Stephen Frears;103;Mrs Henderson Presents 
+John Hillcoat;115;Triple 9 
+Woody Allen;96;Deconstructing Harry 
+Damon Santostefano;98;Three to Tango 
+John Wells;101;Burnt 
+Neil Jordan;106;We're No Angels 
+Woody Allen;101;Everyone Says I Love You 
+Frank Oz;87;Death at a Funeral 
+James Wan;111;Death Sentence 
+Kirk Jones;99;Everybody's Fine 
+Bob Clark;88;Superbabies: Baby Geniuses 2 
+Les Mayfield;83;The Man 
+Les Mayfield;91;Code Name: The Cleaner 
+Michael Lembeck;108;Connie and Carla 
+Bob Fosse;154;Sweet Charity 
+Paul Thomas Anderson;148;Inherent Vice 
+Dave Borthwick;77;Doogal 
+Benson Lee;110;Battle of the Year 
+;42;Perception             
+David Zucker;83;An American Carol 
+Robert Rodriguez;107;Machete Kills 
+Glen Morgan;100;Willard 
+Fred Wolf;87;Strange Wilderness 
+Mike Leigh;154;Topsy-Turvy 
+Alejandro Monteverde;106;Little Boy 
+David Cronenberg;99;A Dangerous Method 
+Richard Linklater;100;A Scanner Darkly 
+Michael Apted;116;Chasing Mavericks 
+Uwe Boll;94;Alone in the Dark 
+Todd Graff;111;Bandslam 
+Jonathan Glazer;100;Birth 
+J.C. Chandor;125;A Most Violent Year 
+Paul Gross;114;Passchendaele 
+Marc Abraham;119;Flash of Genius 
+Todd Haynes;135;I'm Not There. 
+Mabrouk El Mechri;93;The Cold Light of Day 
+Rian Johnson;114;The Brothers Bloom 
+Charlie Kaufman;124;Synecdoche, New York 
+Hayao Miyazaki;134;Princess Mononoke 
+Jean-Paul Rappeneau;114;Bon voyage 
+Nancy Walker;124;Can't Stop the Music 
+John Hillcoat;104;The Proposition 
+Angelo Pizzo;118;Courage 
+Richard Benjamin;80;Marci X 
+Kurt Wimmer;107;Equilibrium 
+Roger Spottiswoode;125;The Children of Huang Shi 
+James Gray;115;The Yards 
+Matthew Diamond;88;The Oogieloves in the Big Balloon Adventure 
+Angelina Jolie Pitt;122;By the Sea 
+Katsuhiro Ôtomo;103;Steamboy 
+David Anspaugh;101;The Game of Their Lives 
+Andrew Jarecki;101;All Good Things 
+Kevin Reynolds;107;Rapa Nui 
+Stephen Chow;86;CJ7 
+Jean-Marie Poiré;118;Les couloirs du temps: Les visiteurs II 
+Kevin Munroe;107;Dylan Dog: Dead of Night 
+Daniel Algrant;100;People I Know 
+;30;The Doombolt Chase             
+Julie Taymor;110;The Tempest 
+Alejandro Amenábar;106;Regression 
+Jane Clark;7;The Touch 
+Daniel Lee;102;Three Kingdoms: Resurrection of the Dragon 
+Mike Barker;98;Shattered 
+Wayne Thornley;83;Zambezia 
+Gnana Rajasekaran;153;Ramanujan 
+Tom Walsh;98;Dwegons and Leprechauns 
+Jonathan Jakubowicz;105;Hands of Stone 
+James McTeigue;96;Survivor 
+Scott Walker;105;The Frozen Ground 
+John Curran;125;The Painted Veil 
+Uli Edel;184;The Baader Meinhof Complex 
+Kevin Costner;236;Dances with Wolves 
+Jake Kasdan;97;Bad Teacher 
+Harold Becker;113;Sea of Love 
+Mark Rosman;95;A Cinderella Story 
+Wes Craven;103;Scream 
+Steve Beck;91;Thir13en Ghosts 
+Stanley Kubrick;146;The Shining 
+Robert Zemeckis;116;Back to the Future 
+William Malone;93;House on Haunted Hill 
+Tyler Perry;113;I Can Do Bad All by Myself 
+Rob Hawk;90;Fight Valley 
+Josh Gordon;101;The Switch 
+Shawn Levy;95;Just Married 
+Lee Tamahori;109;The Devil's Double 
+;43;Gone, Baby, Gone             
+Britt Allcroft;85;Thomas and the Magic Railroad 
+Breck Eisner;101;The Crazies 
+Hayao Miyazaki;125;Spirited Away 
+Alan Yuen;118;Firestorm 
+Roger Donaldson;132;The Bounty 
+Brian Percival;131;The Book Thief 
+Sean Anders;129;Sex Drive 
+Anand Tucker;100;Leap Year 
+Anthony Mann;172;The Fall of the Roman Empire 
+Michael Dowse;97;Take Me Home Tonight 
+Daniel Barnz;121;Won't Back Down 
+Emile Ardolino;92;The Nutcracker 
+Robert Altman;116;Kansas City 
+James Schamus;110;Indignation 
+Andrew Douglas;90;The Amityville Horror 
+Spike Jonze;81;Adaptation. 
+George A. Romero;97;Land of the Dead 
+Danny Pang;107;Out of Inferno 
+Terry Gilliam;118;Fear and Loathing in Las Vegas 
+Ricky Gervais;100;The Invention of Lying 
+Nicholas Stoller;97;Neighbors 
+Chuck Russell;114;The Mask 
+Penny Marshall;130;Big 
+Larry Charles;82;Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan 
+Robert Luketic;96;Legally Blonde 
+Leonard Nimoy;105;Star Trek III: The Search for Spock 
+Scott Derrickson;122;The Exorcism of Emily Rose 
+Mike Mitchell;88;Deuce Bigalow: Male Gigolo 
+Vic Armstrong;110;Left Behind 
+Thomas Bezucha;103;The Family Stone 
+Kevin Rodney Sullivan;106;Barbershop 2: Back in Business 
+Terry Zwigoff;98;Bad Santa 
+Jay Roach;68;Austin Powers: International Man of Mystery 
+Kirk Jones;94;My Big Fat Greek Wedding 2 
+David Bowers;99;Diary of a Wimpy Kid: Rodrick Rules 
+John McTiernan;107;Predator 
+Milos Forman;180;Amadeus 
+Nelson McCormick;89;Prom Night 
+Mark Waters;97;Mean Girls 
+Audrey Wells;113;Under the Tuscan Sun 
+Robert Altman;131;Gosford Park 
+;44;The O.C.             
+Francis Ford Coppola;103;Peggy Sue Got Married 
+Alejandro G. Iñárritu;119;Birdman or (The Unexpected Virtue of Ignorance) 
+Woody Allen;98;Blue Jasmine 
+Paul Greengrass;111;United 93 
+Bille Woodruff;94;Honey 
+Edward Zwick;122;Glory 
+Rick Friedberg;81;Spy Hard 
+John Carpenter;89;The Fog 
+Sean McNamara;106;Soul Surfer 
+Mike Nichols;122;Catch-22 
+Jody Hill;86;Observe and Report 
+Richard Fleischer;103;Conan the Destroyer 
+Martin Scorsese;121;Raging Bull 
+Brandon Camp;109;Love Happens 
+Barry Levinson;109;Young Sherlock Holmes 
+Kevin Tancharoen;123;Fame 
+Danny Boyle;94;127 Hours 
+Woody Allen;94;Small Time Crooks 
+Nicholas Hytner;115;Center Stage 
+Jessie Nelson;107;Love the Coopers 
+Bart Freundlich;91;Catch That Kid 
+Irwin Winkler;125;Life as a House 
+Danny Boyle;122;Steve Jobs 
+Chris Columbus;102;I Love You, Beth Cooper 
+Miguel Arteta;90;Youth in Revolt 
+William A. Fraker;98;The Legend of the Lone Ranger 
+John Boorman;109;The Tailor of Panama 
+Brian De Palma;107;Blow Out 
+Courtney Solomon;90;Getaway 
+Ang Lee;112;The Ice Storm 
+Rob Reiner;94;And So It Goes 
+Jeff Kanew;105;Troop Beverly Hills 
+István Szabó;104;Being Julia 
+Adrian Lyne;112;9½ Weeks 
+Matthew Robbins;108;Dragonslayer 
+Michael Hoffman;112;The Last Station 
+Tim Burton;127;Ed Wood 
+Jason Reitman;111;Labor Day 
+Sergey Bodrov;126;Mongol: The Rise of Genghis Khan 
+Guy Ritchie;114;RocknRolla 
+Hal Needham;99;Megaforce 
+Kenneth Branagh;150;Hamlet 
+Bruce Beresford;117;Mao's Last Dancer 
+Jeff Nichols;112;Midnight Special 
+Woody Allen;108;Anything Else 
+Jonathan Teplitzky;116;The Railway Man 
+;60;Unforgettable             
+Michael Haneke;144;The White Ribbon 
+Zack Ward;92;Restoration 
+Mike Marvin;93;The Wraith 
+D.J. Caruso;103;The Salton Sea 
+Nimród Antal;93;Metallica Through the Never 
+Gregor Jordan;98;The Informers 
+;334;Carlos             
+Tran Anh Hung;114;I Come with the Rain 
+Lance Hool;121;One Man's Hero 
+George A. Romero;87;Day of the Dead 
+Chuck Russell;92;I Am Wrath 
+Christian Volckman;105;Renaissance 
+Jon Cassar;90;Forsaken 
+Richard Fleischer;89;Red Sonja 
+Rodrigo Cortés;114;Red Lights 
+Greg Mottola;119;Superbad 
+Tyler Perry;103;Madea Goes to Jail 
+David Hayter;91;Wolves 
+Jon M. Chu;98;Step Up 2: The Streets 
+Cory Edwards;80;Hoodwinked! 
+Terry George;121;Hotel Rwanda 
+Xavier Gens;94;Hitman 
+Kasi Lemmons;93;Black Nativity 
+Brian A Miller;93;The Prince 
+Matt Dillon;116;City of Ghosts 
+Alejandro Amenábar;101;The Others 
+James Cameron;154;Aliens 
+George Cukor;170;My Fair Lady 
+Jim Gillespie;99;I Know What You Did Last Summer 
+Luke Greenfield;104;Let's Be Cops 
+Alexander Payne;126;Sideways 
+Jay Chandrasekhar;110;Beerfest 
+John Carpenter;101;Halloween 
+Yimou Zhang;80;Hero 
+John Hoffman;87;Good Boy! 
+Malcolm D. Lee;123;The Best Man Holiday 
+Joe Carnahan;109;Smokin' Aces 
+Kevin Greutert;90;Saw 3D: The Final Chapter 
+Michael Lehmann;96;40 Days and 40 Nights 
+Joseph Kosinski;125;TRON: Legacy 
+John Fortenberry;82;A Night at the Roxbury 
+Daniel Barnz;86;Beastly 
+Alexandre Aja;108;The Hills Have Eyes 
+Sam Weisman;98;Dickie Roberts: Former Child Star 
+Niki Caro;129;McFarland, USA 
+Erik White;99;Lottery Ticket 
+Chris Robinson;105;ATL 
+Jason Moore;112;Pitch Perfect 
+Michael Tollin;108;Summer Catch 
+Sam Raimi;121;A Simple Plan 
+Robert Harmon;89;They 
+Trent Cooper;89;Larry the Cable Guy: Health Inspector 
+Gary Halvorson;73;The Adventures of Elmo in Grouchland 
+Antoine Fuqua;132;Brooklyn's Finest 
+Nicholas Ray;154;55 Days at Peking 
+Fede Alvarez;96;Evil Dead 
+Donald Petrie;98;My Life in Ruins 
+Paul Weitz;107;American Dreamz 
+Sidney J. Furie;134;Superman IV: The Quest for Peace 
+Ian Iqbal Rashid;94;How She Move 
+Wayne Kramer;122;Running Scared 
+Rowdy Herrington;128;Bobby Jones: Stroke of Genius 
+Jim Goddard;97;Shanghai Surprise 
+Neil Burger;110;The Illusionist 
+Noel Marshall;102;Roar 
+Joel Schumacher;98;Veronica Guerin 
+Andrea Di Stefano;120;Escobar: Paradise Lost 
+Richard Kelly;160;Southland Tales 
+Guillaume Ivernel;80;Dragon Hunters 
+Jack Smight;91;Damnation Alley 
+Todd Lincoln;83;The Apparition 
+Howard Zieff;102;My Girl 
+Steven Shainberg;122;Fur: An Imaginary Portrait of Diane Arbus 
+Neil Burger;110;The Illusionist 
+Oliver Stone;126;Wall Street 
+Ang Lee;136;Sense and Sensibility 
+Julian Jarrold;120;Becoming Jane 
+Joe Nussbaum;108;Sydney White 
+Vadim Perelman;126;House of Sand and Fog 
+Peter Weir;128;Dead Poets Society 
+Peter Farrelly;113;Dumb & Dumber 
+Rob Reiner;89;When Harry Met Sally... 
+Sidney Lumet;129;The Verdict 
+Todd Phillips;94;Road Trip 
+Brian Robbins;106;Varsity Blues 
+Michel Hazanavicius;100;The Artist 
+David S. Goyer;89;The Unborn 
+Wes Anderson;94;Moonrise Kingdom 
+Jonathan Liebesman;83;The Texas Chainsaw Massacre: The Beginning 
+Cyrus Nowrasteh;111;The Young Messiah 
+Perry Andelin Blake;80;The Master of Disguise 
+Guillermo del Toro;112;Pan's Labyrinth 
+;60;The Messengers             
+John Whitesell;94;See Spot Run 
+John Singleton;130;Baby Boy 
+Christian E. Christiansen;91;The Roommate 
+Dennie Gordon;91;Joe Dirt 
+Sheldon Lettich;110;Double Impact 
+Edgar Wright;121;Hot Fuzz 
+Diane English;114;The Women 
+Woody Allen;96;Vicky Cristina Barcelona 
+Peter Flinth;270;Arn: The Knight Templar 
+Jon Lucas;100;Bad Moms 
+Robert Iscove;94;Boys and Girls 
+Peter Kosminsky;109;White Oleander 
+Karyn Kusama;107;Jennifer's Body 
+Nick Gomez;96;Drowning Mona 
+Woody Allen;88;Radio Days 
+Vic Armstrong;110;Left Behind 
+Allen Coulter;113;Remember Me 
+Clare Kilner;101;How to Deal 
+Richard Benjamin;105;My Stepmother Is an Alien 
+Jonathan Demme;125;Philadelphia 
+Josef Rusnak;100;The Thirteenth Floor 
+Lance Rivera;97;The Cookout 
+Ronald Neame;108;Meteor 
+Bruce Paltrow;112;Duets 
+Woody Allen;112;Hollywood Ending 
+Adam Rifkin;95;Detroit Rock City 
+Russell Mulcahy;110;Highlander 
+Susanne Bier;118;Things We Lost in the Fire 
+Kenneth Johnson;97;Steel 
+James Gray;120;The Immigrant 
+James Ivory;135;The White Countess 
+Danny Boyle;101;Trance 
+Jessy Terrero;92;Soul Plane 
+Dany Boon;106;Welcome to the Sticks 
+Vicente Amorim;92;Good 
+Gaspar Noé;161;Enter the Void 
+Amy Heckerling;92;Vamps 
+Lasse Hallström;93;Hachi: A Dog's Tale 
+Jérôme Salle;110;Zulu 
+Tommy Lee Jones;122;The Homesman 
+Jesse Vaughan;91;Juwanna Mann 
+;45;Lilyhammer             
+Atom Egoyan;115;Ararat 
+William Bindley;94;Madison 
+Wayne Beach;93;Slow Burn 
+Gérard Krawczyk;94;Wasabi 
+James Gunn;95;Slither 
+Martin Brest;105;Beverly Hills Cop 
+Chris Columbus;103;Home Alone 
+Leonard Nimoy;102;3 Men and a Baby 
+Sydney Pollack;116;Tootsie 
+Tony Scott;110;Top Gun 
+Ang Lee;120;Crouching Tiger, Hidden Dragon 
+Sam Mendes;122;American Beauty 
+Tom Hooper;118;The King's Speech 
+Ivan Reitman;107;Twins 
+;45;Scream: The TV Series             
+Udayan Prasad;102;The Yellow Handkerchief 
+Steven Spielberg;154;The Color Purple 
+JK Youn;103;Tidal Wave 
+Timur Bekmambetov;141;Ben-Hur 
+Morten Tyldum;114;The Imitation Game 
+Howard Zieff;109;Private Benjamin 
+Michael Apted;124;Coal Miner's Daughter 
+Thor Freudenthal;94;Diary of a Wimpy Kid 
+Andrés Muschietti;100;Mama 
+John Carpenter;101;Halloween 
+Harold Ramis;98;National Lampoon's Vacation 
+Jeff Tremaine;102;Bad Grandpa 
+Stephen Frears;94;The Queen 
+Tim Burton;92;Beetlejuice 
+Tyler Perry;113;Why Did I Get Married? 
+Gillian Armstrong;115;Little Women 
+James Watkins;95;The Woman in Black 
+Simon West;87;When a Stranger Calls 
+Shawn Levy;88;Big Fat Liar 
+Michael Cimino;183;The Deer Hunter 
+Barry Levinson;97;Wag the Dog 
+Jim Fall;94;The Lizzie McGuire Movie 
+Ric Roman Waugh;112;Snitch 
+Michael Dougherty;98;Krampus 
+Robert Rodriguez;104;The Faculty 
+Brian Gibson;118;What's Love Got to Do with It 
+James Mangold;120;Cop Land 
+Joel Gallen;99;Not Another Teen Movie 
+David Ayer;109;End of Watch 
+Cameron Crowe;105;Aloha 
+Rob Cohen;106;The Skulls 
+James Marsh;123;The Theory of Everything 
+John Whitesell;86;Malibu's Most Wanted 
+Matt Williams;120;Where the Heart Is 
+David Lean;227;Lawrence of Arabia 
+Rob Zombie;119;Halloween II 
+Jean-Marc Vallée;115;Wild 
+Dennis Iliadis;114;The Last House on the Left 
+Clare Kilner;90;The Wedding Date 
+Rick Rosenthal;94;Halloween: Resurrection 
+Louis Leterrier;106;Clash of the Titans 
+Rob Reiner;98;The Princess Bride 
+Denzel Washington;126;The Great Debaters 
+Nicolas Winding Refn;100;Drive 
+Sara Sugarman;89;Confessions of a Teenage Drama Queen 
+Nicholas Hytner;111;The Object of My Affection 
+Juan Carlos Fresnadillo;100;28 Weeks Later 
+Thomas Carter;115;When the Game Stands Tall 
+Wayne Wang;106;Because of Winn-Dixie 
+Gina Prince-Bythewood;124;Love & Basketball 
+George Armitage;107;Grosse Pointe Blank 
+Phil Traill;99;All About Steve 
+Joe Berlinger;90;Book of Shadows: Blair Witch 2 
+Andrew Fleming;101;The Craft 
+Woody Allen;119;Match Point 
+Elizabeth Allen Rosenbaum;103;Ramona and Beezus 
+James Ivory;134;The Remains of the Day 
+Paul Thomas Anderson;155;Boogie Nights 
+Robert Harmon;94;Nowhere to Run 
+Michael Mayer;95;Flicka 
+Martin Weisz;89;The Hills Have Eyes II 
+John Ottman;97;Urban Legends: Final Cut 
+Jay Russell;90;Tuck Everlasting 
+John Bonito;92;The Marine 
+Peter Atencio;100;Keanu 
+Shana Feste;117;Country Strong 
+David Nutter;84;Disturbing Behavior 
+Derek Cianfrance;140;The Place Beyond the Pines 
+Roger Donaldson;108;The November Man 
+Stephan Elliott;109;Eye of the Beholder 
+Kathryn Bigelow;131;The Hurt Locker 
+Mark L. Lester;114;Firestarter 
+Andrew Dominik;97;Killing Them Softly 
+Anton Corbijn;122;A Most Wanted Man 
+Tom Green;87;Freddy Got Fingered 
+Mike Nawrocki;85;The Pirates Who Don't Do Anything: A VeggieTales Movie 
+Catherine Owens;85;U2 3D 
+Douglas Aarniokoski;101;Highlander: Endgame 
+Bryan Barber;121;Idlewild 
+Lone Scherfig;107;One Day 
+Drew Barrymore;111;Whip It 
+Brian Koppelman;92;Knockaround Guys 
+James Foley;97;Confidence 
+Albert Brooks;97;The Muse 
+Irwin Winkler;125;De-Lovely 
+Woody Allen;124;New York Stories 
+Steve Gomer;76;Barney's Great Adventure 
+RZA;107;The Man with the Iron Fists 
+Dean Parisot;91;Home Fries 
+Mark Piznarski;96;Here on Earth 
+Terry Gilliam;142;Brazil 
+Sean McNamara;103;Raise Your Voice 
+;60;The Dead Zone             
+Joel Coen;117;The Big Lebowski 
+Craig Brewer;116;Black Snake Moan 
+Ron Shelton;118;Dark Blue 
+Michael Winterbottom;108;A Mighty Heart 
+David Raynr;94;Whatever It Takes 
+Mort Nathan;97;Boat Trip 
+Oliver Parker;97;The Importance of Being Earnest 
+Dan Curtis;99;The Love Letter 
+Wil Shriner;91;Hoot 
+Martin McDonagh;107;In Bruges 
+Tina Gordon Chism;95;Peeples 
+Peter Cattaneo;102;The Rocker 
+Vicky Jenson;88;Post Grad 
+Gus Van Sant;106;Promised Land 
+Woody Allen;92;Whatever Works 
+Mary Lambert;105;The In Crowd 
+Tommy Lee Jones;107;Three Burials 
+Peter Kassovitz;120;Jakob the Liar 
+Shane Black;103;Kiss Kiss Bang Bang 
+Rodman Flender;92;Idle Hands 
+David Lynch;147;Mulholland Drive 
+Katja von Garnier;98;Blood and Chocolate 
+Woody Allen;98;You Will Meet a Tall Dark Stranger 
+Mark Romanek;103;Never Let Me Go 
+;286;The Company             
+Brad Anderson;111;Transsiberian 
+Michael Chapman;98;The Clan of the Cave Bear 
+Antonio Banderas;111;Crazy in Alabama 
+Michael Haneke;111;Funny Games 
+Khalil Sullins;100;Listening 
+Atom Egoyan;116;Felicia's Journey 
+Fritz Lang;145;Metropolis 
+Pierre Morel;84;District B13 
+Gary Fleder;115;Things to Do in Denver When You're Dead 
+Hsiao-Hsien Hou;105;The Assassin 
+Gregor Jordan;98;Buffalo Soldiers 
+Andrey Zvyagintsev;99;The Return 
+Tony Jaa;110;Ong-bak 2 
+Neil Marshall;97;Centurion 
+Russell Mulcahy;88;Silent Trigger 
+Ryûhei Kitamura;103;The Midnight Meat Train 
+Darrell Roodt;104;Winnie Mandela 
+Dito Montiel;90;The Son of No One 
+Stefan Ruzowitzky;105;All the Queen's Men 
+Jake Paltrow;93;The Good Night 
+Juraj Jakubisko;141;Bathory: Countess of Blood 
+Anthony Silverston;85;Khumba 
+Gabe Ibáñez;109;Automata 
+Gerry Lively;105;Dungeons & Dragons: Wrath of the Dragon God 
+Daniele Luchetti;98;Chiamatemi Francesco - Il Papa della gente 
+Tung-Shing Yee;119;Shinjuku Incident 
+Julien Temple;124;Pandaemonium 
+Harold Ramis;101;Groundhog Day 
+Gregory Jacobs;115;Magic Mike XXL 
+Baz Luhrmann;120;Romeo + Juliet 
+Gilles Paquet-Brenner;111;Sarah's Key 
+Peter Cousens;94;Freedom 
+Clint Eastwood;131;Unforgiven 
+Lars von Trier;139;Manderlay 
+Danny Boyle;120;Slumdog Millionaire 
+Adrian Lyne;119;Fatal Attraction 
+Garry Marshall;125;Pretty Woman 
+John Blanchard;65;Towering Inferno             
+John Cornell;108;Crocodile Dundee II 
+Vidhu Vinod Chopra;101;Broken Horses 
+Oliver Stone;145;Born on the Fourth of July 
+Jon Turteltaub;98;Cool Runnings 
+Patrick Lussier;101;My Bloody Valentine 
+Ole Bornedal;92;The Possession 
+Ted Kotcheff;93;First Blood 
+Sylvain White;109;Stomp the Yard 
+Lewis Gilbert;123;The Spy Who Loved Me 
+;60;Ghost Hunters             
+Jamie Blanks;99;Urban Legend 
+Stephen Frears;119;Dangerous Liaisons 
+Tyler Perry;110;Good Deeds 
+Randal Kleiser;107;White Fang 
+Bruce McCulloch;81;Superstar 
+Phyllida Lloyd;105;The Iron Lady 
+Mike Nawrocki;82;Jonah: A VeggieTales Movie 
+John Singleton;109;Poetic Justice 
+Kevin Bray;95;All About the Benjamins 
+Wes Craven;100;Vampire in Brooklyn 
+John Boorman;118;Exorcist II: The Heretic 
+Courtney Solomon;91;An American Haunting 
+David Zucker;90;My Boss's Daughter 
+David Twohy;108;A Perfect Getaway 
+Rick Famuyiwa;103;Our Family Wedding 
+Alan Cohn;96;Dead Man on Campus 
+Franco Zeffirelli;117;Tea with Mussolini 
+Tom Holland;93;Thinner 
+Martin Scorsese;136;New York, New York 
+Spike Lee;115;Crooklyn 
+Chris Rock;94;I Think I Love My Wife 
+James Isaac;85;Jason X 
+Shawn Levy;88;Big Fat Liar 
+Emilio Estevez;112;Bobby 
+Mark Waters;86;Head Over Heels 
+Josh Schwartz;86;Fun Size 
+Julian Schnabel;112;The Diving Bell and the Butterfly 
+Todd Field;137;Little Children 
+Davis Guggenheim;90;Gossip 
+Tony Goldwyn;107;A Walk on the Moon 
+Phillip Noyce;98;Catch a Fire 
+Stephen Carpenter;84;Soul Survivors 
+James Ivory;139;Jefferson in Paris 
+Stephan Elliott;97;Easy Virtue 
+James Fargo;127;Caravans 
+Mike Leigh;150;Mr. Turner 
+Alain Resnais;104;Wild Grass 
+Costa-Gavras;132;Amen. 
+Chao-Bin Su;117;Reign of Assassins 
+Neil Burger;115;The Lucky Ones 
+Kenneth Lonergan;186;Margaret 
+Bo Zenga;90;Stan Helsing 
+Rob Reiner;90;Flipped 
+Ang Lee;134;Brokeback Mountain 
+Jonathan Liebesman;101;Teenage Mutant Ninja Turtles 
+Amy Heckerling;97;Clueless 
+Todd Haynes;107;Far from Heaven 
+Steve Pink;99;Hot Tub Time Machine 2 
+;55;Dekalog             
+Philip Kaufman;124;Quills 
+Martin McDonagh;110;Seven Psychopaths 
+Kasi Lemmons;105;The Caveman's Valentine 
+;41;The Border             
+Oliver Hirschbiegel;178;Downfall 
+Alejandro Amenábar;125;The Sea Inside 
+Jonathan Glazer;108;Under the Skin 
+Barry Levinson;121;Good Morning, Vietnam 
+Hyung-rae Shim;100;The Last Godfather 
+Jon M. Chu;115;Justin Bieber: Never Say Never 
+Darren Aronofsky;108;Black Swan 
+José Padilha;117;RoboCop 
+Francis Ford Coppola;220;The Godfather: Part II 
+Thomas Carter;112;Save the Last Dance 
+Renny Harlin;99;A Nightmare on Elm Street 4: The Dream Master 
+Patricia Riggen;109;Miracles from Heaven 
+Danny Leiner;83;Dude, Where's My Car? 
+Christopher Cain;107;Young Guns 
+Theodore Melfi;102;St. Vincent 
+Steve Pink;100;About Last Night 
+Gil Junger;97;10 Things I Hate About You 
+Ed Decter;92;The New Guy 
+Gene Quintano;84;Loaded Weapon 1 
+Jaume Collet-Serra;86;The Shallows 
+Eric Bress;120;The Butterfly Effect 
+Chris Koch;89;Snow Day 
+Preston A. Whitmore II;117;This Christmas 
+Bob Clark;97;Baby Geniuses 
+Kirk Wong;91;The Big Hit 
+Bronwen Hughes;100;Harriet the Spy 
+John Lafia;72;Child's Play 2 
+Sam Miller;84;No Good Deed 
+Frank Darabont;126;The Mist 
+Alex Garland;108;Ex Machina 
+Spike Jonze;112;Being John Malkovich 
+Mark Brown;90;Two Can Play That Game 
+Dave Green;91;Earth to Echo 
+John Stockwell;135;Crazy/Beautiful 
+Clint Eastwood;141;Letters from Iwo Jima 
+Michael Polish;104;The Astronaut Farmer 
+Daisy von Scherler Mayer;84;Woo 
+Lenny Abrahamson;118;Room 
+Bob Saget;82;Dirty Work 
+John Waters;95;Serial Mom 
+Andrew Fleming;94;Dick 
+Niels Arden Oplev;88;Del 1 - Män som hatar kvinnor             
+Craig Bolotin;99;Light It Up 
+Mark Christopher;121;54 
+Blair Hayes;84;Bubble Boy 
+Jez Butterworth;93;Birthday Girl 
+Jon Lucas;93;21 & Over 
+Olivier Assayas;120;Paris, je t'aime 
+Rod Lurie;112;Resurrecting the Champ 
+Paul Weitz;107;Admission 
+Patrice Leconte;112;The Widow of Saint-Pierre 
+Atom Egoyan;96;Chloe 
+Paul Mazursky;91;Faithful 
+Jim Sheridan;105;Brothers 
+Sidney Lumet;125;Find Me Guilty 
+Stephen Chbosky;102;The Perks of Being a Wallflower 
+Jon Hess;87;Excessive Force 
+Douglas McGrath;118;Infamous 
+Michael Winterbottom;115;The Claim 
+Mark Neveldine;91;The Vatican Tapes 
+Joe Cornish;88;Attack the Block 
+Angelina Jolie Pitt;127;In the Land of Blood and Honey 
+Brad Anderson;94;The Call 
+John H. Lee;115;Operation Chromite 
+John Stainton;90;The Crocodile Hunter: Collision Course 
+Glenn Ficarra;102;I Love You Phillip Morris 
+Jean-Jacques Annaud;100;Quest for Fire 
+Denzel Washington;117;Antwone Fisher 
+Michael Hoffman;109;The Emperor's Club 
+Tony Scott;121;True Romance 
+Benedek Fliegauf;111;Womb 
+James Foley;100;Glengarry Glen Ross 
+Michael Winterbottom;109;The Killer Inside Me 
+Paul Schrader;93;Cat People 
+Stewart Hendler;101;Sorority Row 
+John Cromwell;101;The Prisoner of Zenda 
+Craig Gillespie;106;Lars and the Real Girl 
+Mark Herman;94;The Boy in the Striped Pajamas 
+Lars von Trier;140;Dancer in the Dark 
+Gillian Armstrong;132;Oscar and Lucinda 
+Abel Ferrara;99;The Funeral 
+Brian Koppelman;90;Solitary Man 
+Ethan Maniquis;105;Machete 
+George Hickenlooper;108;Casino Jack 
+Don Bluth;69;The Land Before Time 
+Je-kyu Kang;148;Tae Guk Gi: The Brotherhood of War 
+William Dear;118;The Perfect Game 
+William Friedkin;132;The Exorcist 
+Steven Spielberg;130;Jaws 
+Paul Weitz;95;American Pie 
+Stéphane Aubier;80;Ernest & Celestine 
+Michael Ritchie;94;The Golden Child 
+Tim Story;122;Think Like a Man 
+Tim Story;102;Barbershop 
+Nicholas Meyer;116;Star Trek II: The Wrath of Khan 
+Tom Shadyac;78;Ace Ventura: Pet Detective 
+John Badham;114;WarGames 
+Peter Weir;112;Witness 
+Mike McCoy;110;Act of Valor 
+Anne Fletcher;104;Step Up 
+Mike Judge;81;Beavis and Butt-Head Do America 
+Quentin Tarantino;154;Jackie Brown 
+Jon Hurwitz;102;Harold & Kumar Escape from Guantanamo Bay 
+Josh Trank;89;Chronicle 
+Barbra Streisand;132;Yentl 
+Terry Gilliam;103;Time Bandits 
+Tamra Davis;93;Crossroads 
+Nima Nourizadeh;93;Project X 
+Franklin J. Schaffner;172;Patton 
+Mark Romanek;96;One Hour Photo 
+John Erick Dowdle;89;Quarantine 
+David Moreau;92;The Eye 
+Christopher Erskin;97;Johnson Family Vacation 
+Jesse Dylan;93;How High 
+Brian Henson;89;The Muppet Christmas Carol 
+Martin Campbell;144;Casino Royale 
+Julie Taymor;123;Frida 
+Dan Cutforth;93;Katy Perry: Part of Me 
+Josh Boone;133;The Fault in Our Stars 
+John Dahl;121;Rounders 
+Chris Rock;102;Top Five 
+John Frankenheimer;102;Prophecy 
+David Koepp;99;Stir of Echoes 
+;55;Spartacus: War of the Damned             
+Stephen Frears;98;Philomena 
+Mike Binder;118;The Upside of Anger 
+Franklin J. Schaffner;125;The Boys from Brazil 
+Elizabeth Allen Rosenbaum;104;Aquamarine 
+Jake Schreier;109;Paper Towns 
+Cheryl Dunye;86;My Baby's Daddy 
+Alexander Payne;115;Nebraska 
+Ernest R. Dickerson;92;Tales from the Crypt: Demon Knight 
+Tim Hill;91;Max Keeble's Big Move 
+Jason Reitman;94;Young Adult 
+Mark Neveldine;93;Crank 
+Lionel C. Martin;93;How to Be a Player 
+Richard LaGravenese;100;Living Out Loud 
+Sanaa Hamri;100;Just Wright 
+Jonathan Demme;113;Rachel Getting Married 
+Bob Rafelson;122;The Postman Always Rings Twice 
+Peter Webber;100;Girl with a Pearl Earring 
+Wolfgang Petersen;293;Das Boot 
+John Lee Hancock;137;The Alamo 
+Wallace Wolodarsky;93;Sorority Boys 
+Richard Curtis;123;About Time 
+Yimou Zhang;119;House of Flying Daggers 
+Nicholas Jarecki;107;Arbitrage 
+Dean Israelite;106;Project Almanac 
+Darnell Martin;109;Cadillac Records 
+Scott Alexander;81;Screwed 
+Stuart Gordon;95;Fortress 
+Christopher Guest;86;For Your Consideration 
+Woody Allen;113;Celebrity 
+Ryan Murphy;122;Running with Scissors 
+Robert Iscove;90;From Justin to Kelly 
+Spike Lee;108;Girl 6 
+Jane Campion;113;In the Cut 
+James Gray;110;Two Lovers 
+Fred Schepisi;109;Last Orders 
+Joon-ho Bong;110;The Host 
+Roger Spottiswoode;100;The Pursuit of D.B. Cooper 
+Antonia Bird;101;Ravenous 
+Jon Poll;97;Charlie Bartlett 
+Paolo Sorrentino;172;The Great Beauty 
+Peter Care;104;The Dangerous Lives of Altar Boys 
+Chan-wook Park;99;Stoker 
+Kar-Wai Wong;129;2046 
+Ira Sachs;91;Married Life 
+Carroll Ballard;100;Duma 
+Neil Jordan;111;Ondine 
+Takeshi Kitano;114;Brother 
+Anthony Russo;86;Welcome to Collinwood 
+Sidney Lumet;107;Critical Care 
+Vadim Perelman;90;The Life Before Her Eyes 
+Lawrence Kasdan;103;Darling Companion 
+Marco Kreuzpaintner;120;Trade 
+Lajos Koltai;134;Fateless 
+Alan Rudolph;110;Breakfast of Champions 
+Yimou Zhang;95;A Woman, a Gun and a Noodle Shop 
+Vincenzo Natali;95;Cypher 
+Chuan Lu;132;City of Life and Death 
+Tim Johnson;94;Home 
+Lijun Sun;89;Legend of Kung Fu Rabbit 
+Takashi Yamazaki;138;Space Battleship Yamato 
+Renny Harlin;113;5 Days of War 
+Christopher Smith;99;Triangle 
+Timothy Hines;111;10 Days in a Madhouse 
+Randall Wallace;99;Heaven Is for Real 
+Guy Ritchie;104;Snatch 
+David Winters;89;Dancin' It's On 
+Mary Lambert;103;Pet Sematary 
+Akira Kurosawa;134;Madadayo 
+Jamie Thraves;100;The Cry of the Owl 
+Mabel Cheung;130;A Tale of Three Cities 
+Joe Dante;106;Gremlins 
+George Lucas;125;Star Wars: Episode IV - A New Hope 
+Dan Mazer;109;Dirty Grandpa 
+David Lean;200;Doctor Zhivago 
+Stephen Daldry;114;Trash 
+Kenny Ortega;112;High School Musical 3: Senior Year 
+David O. Russell;116;The Fighter 
+Jeff Tremaine;92;Jackass Number Two 
+Jonathan Lynn;120;My Cousin Vinny 
+R.J. Cutler;107;If I Stay 
+Brian Trenchard-Smith;92;Drive Hard 
+David S. Ward;107;Major League 
+Oliver Parker;100;St. Trinian's 
+Joel Schumacher;81;Phone Booth 
+Adam Shankman;101;A Walk to Remember 
+Tim Robbins;122;Dead Man Walking 
+Roger Kumble;97;Cruel Intentions 
+Kevin Greutert;92;Saw VI 
+Mel Brooks;92;History of the World: Part I 
+Gina Prince-Bythewood;110;The Secret Life of Bees 
+Rob Pritts;86;Corky Romano 
+Brian De Palma;91;Raising Cain 
+Norman Jewison;145;F.I.S.T. 
+Tobe Hooper;100;Invaders from Mars 
+John Crowley;111;Brooklyn 
+Stanley Kubrick;184;Barry Lyndon 
+Brendan Malloy;89;Out Cold 
+Reginald Hudlin;84;The Ladies Man 
+Dustin Hoffman;98;Quartet 
+Gregory Poirier;95;Tomcats 
+Bill Paxton;100;Frailty 
+Simon Curtis;109;Woman in Gold 
+Bill Condon;118;Kinsey 
+Sam Raimi;88;Army of Darkness 
+Dewey Nicks;86;Slackers 
+Lasse Hallström;118;What's Eating Gilbert Grape 
+Philip Saville;125;The Visual Bible: The Gospel of John 
+Mike Leigh;125;Vera Drake 
+Daisy von Scherler Mayer;94;The Guru 
+Mira Nair;113;The Perez Family 
+Ethan Coen;104;Inside Llewyn Davis 
+Tim Blake Nelson;95;O 
+William A. Graham;102;Return to the Blue Lagoon 
+Martin Ritt;124;The Molly Maguires 
+John Turturro;105;Romance & Cigarettes 
+Agnieszka Holland;104;Copying Beethoven 
+Tobe Hooper;120;Poltergeist 
+Rowan Joffe;111;Brighton Rock 
+David Hackl;95;Saw V 
+Giuliano Montaldo;96;Machine Gun McCain 
+Lisa Azuelos;97;LOL 
+Ray Lawrence;118;Jindabyne 
+Karan Johar;193;Kabhi Alvida Naa Kehna 
+Oliver Parker;97;An Ideal Husband 
+Ruairi Robinson;98;The Last Days on Mars 
+Jaume Balagueró;103;Darkness 
+Stanley Kubrick;161;2001: A Space Odyssey 
+Steven Spielberg;120;E.T. the Extra-Terrestrial 
+Jon Kasdan;97;In the Land of Women 
+Léa Pool;97;The Blue Butterfly 
+Floyd Mutrux;99;There Goes My Baby 
+;24;Lovesick             
+Sajid Khan;144;Housefull 
+Christopher Cain;111;September Dawn 
+Dean Wright;145;For Greater Glory: The True Story of Cristiada 
+Eric Lartigau;106;La Famille Bélier 
+Gus Van Sant;126;Good Will Hunting 
+Shintaro Shimosawa;106;Misconduct 
+Darren Lynn Bousman;121;Saw III 
+Ivan Reitman;117;Stripes 
+Peyton Reed;98;Bring It On 
+James DeMonaco;109;The Purge: Election Year 
+Robert Iscove;95;She's All That 
+Lee Daniels;109;Precious 
+Darren Lynn Bousman;96;Saw IV 
+Geoffrey Sax;101;White Noise 
+Tyler Perry;107;Madea's Family Reunion 
+Martin Scorsese;119;The Color of Money 
+Ken Annakin;178;The Longest Day 
+Stephen Herek;100;The Mighty Ducks 
+Takashi Shimizu;98;The Grudge 
+Dennis Dugan;92;Happy Gilmore 
+Victor Salva;90;Jeepers Creepers 
+Stephen Herek;90;Bill & Ted's Excellent Adventure 
+Carol Reed;153;Oliver! 
+John Madden;124;The Best Exotic Marigold Hotel 
+Chuck Sheetz;82;Recess: School's Out 
+George Miller;107;Mad Max Beyond Thunderdome 
+Mark L. Lester;75;Commando 
+William Brent Bell;97;The Boy 
+John Erick Dowdle;80;Devil 
+Marcus Raboy;85;Friday After Next 
+Leigh Whannell;97;Insidious: Chapter 3 
+Michael Schultz;109;The Last Dragon 
+Guy Ritchie;104;Snatch 
+Brett Leonard;140;The Lawnmower Man 
+Peter Sollett;90;Nick and Norah's Infinite Playlist 
+Kevin Smith;130;Dogma 
+Bob Dolman;98;The Banger Sisters 
+Joe Dante;101;Twilight Zone: The Movie 
+Rowdy Herrington;114;Road House 
+Keenen Ivory Wayans;100;A Low Down Dirty Shame 
+John Polson;85;Swimfan 
+Greg Coolidge;103;Employee of the Month 
+Harry Elfont;100;Can't Hardly Wait 
+Francis Ford Coppola;114;The Outsiders 
+David Lowery;102;Pete's Dragon 
+David Cronenberg;103;The Dead Zone 
+Ciarán Foy;97;Sinister 2 
+Salim Akil;116;Sparkle 
+Jamie Blanks;96;Valentine 
+Olatunde Osunsanmi;98;The Fourth Kind 
+Robert Altman;105;A Prairie Home Companion 
+Leon Ichaso;123;Sugar Hill 
+Joseph Zito;107;Invasion U.S.A. 
+Malcolm D. Lee;112;Roll Bounce 
+Wes Anderson;93;Rushmore 
+Colin Strause;97;Skyline 
+John Madden;122;The Second Best Exotic Marigold Hotel 
+Patricia Rozema;101;Kit Kittredge: An American Girl 
+Mark Rosman;100;The Perfect Man 
+Spike Lee;129;Mo' Better Blues 
+Steve Oedekerk;81;Kung Pow: Enter the Fist 
+Ron Underwood;96;Tremors 
+Rob Schmidt;84;Wrong Turn 
+Walter Hill;100;The Long Riders 
+James Foley;110;The Corruptor 
+Jeff Nichols;130;Mud 
+Robert Ben Garant;84;Reno 911!: Miami 
+Morgan Spurlock;106;One Direction: This Is Us 
+Neal Brennan;89;The Goods: Live Hard, Sell Hard 
+Tuck Tucker;76;Hey Arnold! The Movie 
+Simon Curtis;99;My Week with Marilyn 
+Richard Shepard;96;The Matador 
+Theodore Witcher;104;Love Jones 
+Joel Edgerton;108;The Gift 
+Jim Hanon;108;End of the Spear 
+Tommy O'Haver;87;Get Over It 
+Mike Judge;89;Office Space 
+Michael Patrick Jann;97;Drop Dead Gorgeous 
+Tim Burton;106;Big Eyes 
+Peter Berg;100;Very Bad Things 
+Joe Nussbaum;89;Sleepover 
+Brian De Palma;114;Body Double 
+Jorma Taccone;95;MacGruber 
+Stephen Frears;97;Dirty Pretty Things 
+Elizabeth Banks;94;Movie 43 
+Florian Henckel von Donnersmarck;103;The Tourist 
+Jeff Lowell;95;Over Her Dead Body 
+Lorene Scafaria;101;Seeking a Friend for the End of the World 
+Miguel Arteta;87;Cedar Rapids 
+;40;Bones             
+Tony Kaye;101;American History X 
+Marcus Dunstan;82;The Collection 
+Timothy Björklund;74;Teacher's Pet 
+François Girard;130;The Red Violin 
+David Lynch;112;The Straight Story 
+Scott Kalvert;96;Deuces Wild 
+Jason Bateman;89;Bad Words 
+David Schwimmer;100;Run, Fatboy, Run 
+Allan Arkush;78;Heartbeeps 
+Mike Binder;121;Black or White 
+Eric Bross;85;On the Line 
+Werner Herzog;120;Rescue Dawn 
+Dan Fogelman;106;Danny Collins 
+Jay Duplass;83;Jeff, Who Lives at Home 
+Luca Guadagnino;120;I Am Love 
+John Putch;111;Atlas Shrugged II: The Strike 
+Peter Medak;100;Romeo Is Bleeding 
+Steven Soderbergh;89;The Limey 
+Paul Haggis;115;Crash 
+Terence Davies;135;The House of Mirth 
+Harley Cokeliss;92;Malone 
+Victor Salva;120;Peaceful Warrior 
+Tom Brady;97;Bucky Larson: Born to Be a Star 
+Spike Lee;135;Bamboozled 
+Jason Zada;93;The Forest 
+Franklin J. Schaffner;118;Sphinx 
+Noah Baumbach;97;While We're Young 
+Chris Weitz;98;A Better Life 
+David Cronenberg;98;Spider 
+Eric Blakeney;101;Gun Shy 
+Douglas McGrath;132;Nicholas Nickleby 
+Ariel Vromen;106;The Iceman 
+;55;Dekalog             
+Rakesh Roshan;168;Krrish 
+John Waters;87;Cecil B. DeMented 
+William Friedkin;98;Killer Joe 
+Derrick Borte;96;The Joneses 
+Richard Kwietniowski;104;Owning Mahowny 
+Bob Odenkirk;93;The Brothers Solomon 
+Kar-Wai Wong;95;My Blueberry Nights 
+John Turturro;119;Illuminata 
+Guy Ritchie;89;Swept Away 
+Joshua Seftel;107;War, Inc. 
+Stephen Chow;85;Shaolin Soccer 
+Vincent Gallo;93;The Brown Bunny 
+Claude Chabrol;101;The Swindle 
+Jon Stewart;103;Rosewater 
+Bigas Luna;101;The Chambermaid on the Titanic 
+Ralph Fiennes;123;Coriolanus 
+Dan Harris;111;Imaginary Heroes 
+Mel Smith;86;High Heels and Low Lifes 
+Bobcat Goldthwait;99;World's Greatest Dad 
+Christopher Smith;90;Severance 
+Stuart Gordon;82;Edmond 
+Jake Scott;110;Welcome to the Rileys 
+Alan Metter;83;Police Academy: Mission to Moscow 
+Jeb Stuart;128;Blood Done Sign My Name 
+Rafa Lara;125;Cinco de Mayo, La Batalla 
+Michael Radford;97;Elsa & Fred 
+Arthur Hiller;86;An Alan Smithee Film: Burn Hollywood Burn 
+Michael Meredith;91;The Open Road 
+Julio DePietro;90;The Good Guy 
+Katherine Dieckmann;90;Motherhood 
+William Dear;94;Free Style 
+Kim Farrant;112;Strangerland 
+Marcus Raboy;85;The Janky Promoters 
+Scott Marshall;93;Blonde Ambition 
+Álex de la Iglesia;104;The Oxford Murders 
+Andrew Traucki;94;The Reef 
+Michael Clancy;85;Eulogy 
+Patrick Lussier;99;White Noise 2: The Light 
+Robert Adetuyi;91;You Got Served: Beat the World 
+Kari Skogland;117;Fifty Dead Men Walking 
+Taedong Park;85;Jungle Shuffle 
+Paul Schrader;106;Adam Resurrected 
+Benedikt Erlingsson;81;Of Horses and Men 
+Gurinder Chadha;100;It's a Wonderful Afterlife 
+Jason Connery;90;The Devil's Tomb 
+Vic Sarin;116;Partition 
+Jim Issa;84;Good Intentions 
+Jee-woon Kim;135;The Good, the Bad, the Weird 
+Douglas Aarniokoski;84;Nurse 3D 
+William Phillips;89;Gunless 
+Greg Mottola;107;Adventureland 
+Andy Garcia;144;The Lost City 
+Steve Carr;98;Next Friday 
+Sarik Andreasyan;94;American Heist 
+Lewis Gilbert;117;You Only Live Twice 
+Julian Gilbey;102;Plastic 
+Michael Haneke;127;Amour 
+Gary Sherman;98;Poltergeist III 
+Valeri Milev;88;Re-Kill 
+Stanley Kramer;197;It's a Mad, Mad, Mad, Mad World 
+Pedro Almodóvar;121;Volver 
+Gerald Potterton;90;Heavy Metal 
+Jared Hess;89;Gentlemen Broncos 
+Richard Loncraine;104;Richard III 
+David Hackl;94;Into the Grizzly Maze 
+Anurag Basu;90;Kites 
+Lars von Trier;130;Melancholia 
+Kriv Stenders;92;Red Dog 
+Yash Chopra;176;Jab Tak Hai Jaan 
+Ridley Scott;116;Alien 
+Tobe Hooper;88;The Texas Chain Saw Massacre 
+Floria Sigismondi;106;The Runaways 
+Norman Jewison;181;Fiddler on the Roof 
+Terence Young;130;Thunderball 
+Joseph Kahn;93;Detention 
+Ferzan Ozpetek;110;Loose Cannons 
+F. Gary Gray;123;Set It Off 
+Malcolm D. Lee;120;The Best Man 
+Tom Holland;87;Child's Play 
+Michael Moore;123;Sicko 
+James DeMonaco;103;The Purge: Anarchy 
+Kris Isacsson;91;Down to You 
+Danny Leiner;88;Harold & Kumar Go to White Castle 
+Rod Lurie;126;The Contender 
+Ben Younger;120;Boiler Room 
+John Landis;116;Trading Places 
+Glen Morgan;94;Black Christmas 
+Daniel Taplitz;85;Breakin' All the Rules 
+Kenneth Branagh;137;Henry V 
+Tamara Jenkins;114;The Savages 
+Linda Mendoza;76;Chasing Papi 
+Christopher McQuarrie;119;The Way of the Gun 
+Burr Steers;99;Igby Goes Down 
+Hart Bochner;79;PCU 
+Michael O. Sajbel;114;The Ultimate Gift 
+;30;The Bold and the Beautiful             
+Stewart Raffill;91;The Ice Pirates 
+Davis Guggenheim;95;Gracie 
+Bart Freundlich;103;Trust the Man 
+Andrew Fleming;92;Hamlet 2 
+Todd Haynes;124;Velvet Goldmine 
+Hong-jin Na;156;The Wailing 
+Kevin Tancharoen;84;Glee: The 3D Concert Movie 
+Chatrichalerm Yukol;300;The Legend of Suriyothai 
+Dario Argento;120;Two Evil Eyes 
+Eric Lavaine;98;Barbecue 
+Mike Leigh;121;All or Nothing 
+Marc Forby;97;Princess Kaiulani 
+Peter Cattaneo;86;Opal Dream 
+Scott Mann;93;Heist 
+Ole Christian Madsen;45;Flame and Citron 
+Meiert Avis;97;Undiscovered 
+Julian Jarrold;102;Red Riding: In the Year of Our Lord 1974 
+André Téchiné;105;The Girl on the Train 
+Emily Young;103;Veronika Decides to Die 
+Peter Faiman;93;Crocodile Dundee 
+Martyn Pick;76;Ultramarines: A Warhammer 40,000 Movie 
+Roland Suso Richter;90;The I Inside 
+Jeremy Sims;122;Beneath Hill 60 
+Maïwenn;127;Polisse 
+Joby Harold;84;Awake 
+;23;Star Wars: The Clone Wars             
+Ekachai Uekrongtham;96;Skin Trade 
+Joel Schumacher;97;The Lost Boys 
+Scott Cooper;112;Crazy Heart 
+Mark Rydell;125;The Rose 
+David E. Talbert;96;Baggage Claim 
+Roger Vadim;98;Barbarella 
+Nils Gaup;92;Shipwrecked 
+Alexander Payne;103;Election 
+Mira Nair;122;The Namesake 
+Ari Sandel;101;The DUFF 
+Vondie Curtis-Hall;104;Glitter 
+Tom Elkins;101;The Haunting in Connecticut 2: Ghosts of Georgia 
+Woo-Suk Kang;135;Silmido 
+Jane Campion;119;Bright Star 
+Karan Johar;128;My Name Is Khan 
+Herbert Ross;107;Footloose 
+J.C. Chandor;106;All Is Lost 
+John Sayles;126;Limbo 
+Vipul Amrutlal Shah;128;Namastey London 
+Ken Loach;127;The Wind That Shakes the Barley 
+Ayan Mukerji;160;Yeh Jawaani Hai Deewani 
+John G. Avildsen;126;The Karate Kid 
+Mervyn LeRoy;171;Quo Vadis 
+Darren Lynn Bousman;150;Repo! The Genetic Opera 
+Serdar Akar;122;Valley of the Wolves: Iraq 
+Quentin Tarantino;178;Pulp Fiction 
+James Frawley;95;The Muppet Movie 
+Dan Gilroy;117;Nightcrawler 
+Jay Chandrasekhar;119;Club Dread 
+Robert Wise;174;The Sound of Music 
+Ron Howard;111;Splash 
+Jonathan Dayton;101;Little Miss Sunshine 
+Rob Reiner;89;Stand by Me 
+Danny Boyle;113;28 Days Later... 
+Chris Stokes;95;You Got Served 
+Don Siegel;112;Escape from Alcatraz 
+Rick Famuyiwa;109;Brown Sugar 
+Martin Lawrence;108;A Thin Line Between Love and Hate 
+Jonathan Levine;100;50/50 
+Masayuki Ochiai;90;Shutter 
+George A. Romero;130;Creepshow 
+Tom Gormican;94;That Awkward Moment 
+Ken Shapiro;93;Modern Problems 
+Justin Tipping;80;Kicks 
+Kenneth Branagh;111;Much Ado About Nothing 
+Peter R. Hunt;142;On Her Majesty's Secret Service 
+;60;The Player             
+Wes Craven;107;New Nightmare 
+John Schultz;91;Drive Me Crazy 
+Doug Atchison;112;Akeelah and the Bee 
+Tamra Davis;82;Half Baked 
+Jonas Elmer;97;New in Town 
+Stephen Gaghan;128;Syriana 
+Mary Harron;102;American Psycho 
+Miguel Arteta;93;The Good Girl 
+Erik Canuel;116;Bon Cop Bad Cop 
+Troy Duffy;138;The Boondock Saints II: All Saints Day 
+James Ivory;117;The City of Your Final Destination 
+Nicole Holofcener;93;Enough Said 
+Will Gluck;92;Easy A 
+Matty Rich;110;The Inkwell 
+E. Elias Merhige;92;Shadow of the Vampire 
+Joe Nussbaum;104;Prom 
+Matt Reeves;98;The Pallbearer 
+Steve Rash;89;Held Up 
+Fina Torres;92;Woman on Top 
+James Ivory;140;Howards End 
+;60;Preacher             
+Duke Johnson;90;Anomalisa 
+Mike Leigh;129;Another Year 
+François Ozon;111;8 Women 
+Mark L. Lester;79;Showdown in Little Tokyo 
+David Dobkin;104;Clay Pigeons 
+Anna Boden;101;It's Kind of a Funny Story 
+Nigel Cole;113;Made in Dagenham 
+Anand Tucker;92;When Did You Last See Your Father? 
+Steve James;106;Prefontaine 
+Michael Winner;98;The Wicked Lady 
+Tomm Moore;75;The Secret of Kells 
+John Carney;104;Begin Again 
+David Jacobson;108;Down in the Valley 
+Michael Corrente;99;Brooklyn Rules 
+Edward Hall;180;Restless 
+Keith Gordon;109;The Singing Detective 
+David Leland;111;The Land Girls 
+Andrew Currie;93;Fido 
+Andrew Wilson;99;The Wendell Baker Story 
+Jonathan Lynn;98;Wild Target 
+Marc Schölermann;95;Pathology 
+;142;Wuthering Heights             
+Robert Moresco;107;10th & Wolf 
+Thomas Vinterberg;102;Dear Wendy 
+Claudia Llosa;97;Aloft 
+Katsuhiro Ôtomo;124;Akira 
+John Herzfeld;97;The Death and Life of Bobby Z 
+Charles Binamé;124;The Rocket: The Legend of Rocket Richard 
+Keith Parmer;96;Swelter 
+Dennie Gordon;114;My Lucky Star 
+Ol Parker;90;Imagine Me & You 
+Bruce Beresford;104;Mr. Church 
+François Ozon;102;Swimming Pool 
+James Nunn;93;Green Street 3: Never Back Down 
+David Webb Peoples;90;The Blood of Heroes 
+Michael Winnick;106;Code of Honor 
+Bruce Beresford;99;Driving Miss Daisy 
+George Tillman Jr.;115;Soul Food 
+Stanley Tong;89;Rumble in the Bronx 
+David Oelhoffen;101;Far from Men 
+Jason Reitman;92;Thank You for Smoking 
+Eli Roth;94;Hostel: Part II 
+Lone Scherfig;100;An Education 
+Anand Tucker;106;Shopgirl 
+Tony Richardson;109;The Hotel New Hampshire 
+Joe Carnahan;105;Narc 
+Paul Gross;102;Men with Brooms 
+Charles Robert Carner;97;Witless Protection 
+Russell Holt;118;The Work and the Glory 
+Mike Judge;92;Extract 
+Larry Charles;112;Masked and Anonymous 
+Claude Miller;103;Alias Betty 
+Michael Winterbottom;93;Code 46 
+Sacha Bennett;101;Outside Bet 
+Paul Haggis;115;Crash 
+Rodrigo García;113;Albert Nobbs 
+Jeta Amata;95;Black November 
+Siddharth Anand;153;Ta Ra Rum Pum 
+Vincent Paronnaud;89;Persepolis 
+Joe Dante;92;The Hole 
+Dennis Gansel;107;The Wave 
+Nicolas Winding Refn;118;The Neon Demon 
+Daniel Barber;97;Harry Brown 
+Sam Raimi;156;Spider-Man 3 
+Robert Marcarelli;100;The Omega Code 
+Jason Reitman;96;Juno 
+Ernie Barbarash;104;Pound of Flesh 
+Guy Hamilton;120;Diamonds Are Forever 
+Francis Ford Coppola;175;The Godfather 
+Adrian Lyne;95;Flashdance 
+Marc Webb;95;500 Days of Summer 
+Jane Campion;121;The Piano 
+Steven Soderbergh;110;Magic Mike 
+Jonathan Liebesman;96;Darkness Falls 
+Guy Hamilton;121;Live and Let Die 
+Jay Russell;95;My Dog Skip 
+Adam Brooks;112;Definitely, Maybe 
+Salim Akil;112;Jumping the Broom 
+Baz Luhrmann;143;The Great Gatsby 
+George Clooney;93;Good Night, and Good Luck. 
+Bennett Miller;110;Capote 
+Robert Rodriguez;104;Desperado 
+Michael Winterbottom;115;The Claim 
+;53;Fargo             
+Michael Anderson;119;Logan's Run 
+Guy Hamilton;125;The Man with the Golden Gun 
+Craig R. Baxley;96;Action Jackson 
+Neil Marshall;100;The Descent 
+Don Kempf;46;Michael Jordan to the Max 
+Matt Bettinelli-Olpin;89;Devil's Due 
+David O. Russell;92;Flirting with Disaster 
+Rob Zombie;109;The Devil's Rejects 
+;44;Buffy the Vampire Slayer             
+Rick Famuyiwa;103;Dope 
+Michael Rymer;95;In Too Deep 
+Sam Mendes;143;Skyfall 
+Rob Zombie;105;House of 1000 Corpses 
+Sharron Miller;79;Alien Zone 
+Ethan Coen;106;A Serious Man 
+Aaron Schneider;100;Get Low 
+Steve Miner;103;Warlock 
+Gina Prince-Bythewood;116;Beyond the Lights 
+Tom Ford;99;A Single Man 
+Martin Scorsese;164;The Last Temptation of Christ 
+Michael Corrente;96;Outside Providence 
+Gurinder Chadha;122;Bride & Prejudice 
+Phillip Noyce;94;Rabbit-Proof Fence 
+Don Michael Paul;93;Who's Your Caddy? 
+Tony Maylam;96;Split Second 
+;60;Nikita             
+Mitch Davis;113;The Other Side of Heaven 
+;60;Dark Angel             
+Yash Chopra;192;Veer-Zaara 
+David Mamet;99;Redbelt 
+Jay Duplass;91;Cyrus 
+Kevin Brodie;100;A Dog of Flanders 
+Paul Schrader;105;Auto Focus 
+George Hickenlooper;99;Factory Girl 
+Lynne Ramsay;112;We Need to Talk About Kevin 
+John Stephenson;100;The Christmas Candle 
+Tim Chambers;99;The Mighty Macs 
+Curtis Hanson;100;Losin' It 
+Rodrigo García;125;Mother and Child 
+Dick Richards;107;March or Die 
+Jean-Marie Poiré;107;Les visiteurs 
+Sofia Coppola;97;Somewhere 
+Bob Gosse;105;I Hope They Serve Beer in Hell 
+Alex Zamm;95;Chairman of the Board 
+Spencer Susser;106;Hesher 
+Richard Shepard;93;Dom Hemingway 
+Gus Van Sant;103;Gerry 
+Thaddeus O'Sullivan;96;The Heart of Me 
+Peter Sollett;103;Freeheld 
+Shari Springer Berman;108;The Extra Man 
+Aleksey German;177;Hard to Be a God 
+Stephen Milburn Anderson;118;Ca$h 
+Richard E. Grant;97;Wah-Wah 
+Troy Duffy;102;The Boondock Saints 
+David Lam;92;Z Storm 
+Francis Ford Coppola;88;Twixt 
+Vladlen Barbe;80;Snow Queen 
+Richard Rich;45;Alpha and Omega 4: The Legend of the Saw Toothed Cave 
+Clint Eastwood;115;Pale Rider 
+Robert C. Cooper;97;Stargate: The Ark of Truth 
+Richard Linklater;102;Dazed and Confused 
+Kenny Ortega;111;High School Musical 2 
+Kim Nguyen;96;Two Lovers and a Bear 
+Jackie Earle Haley;94;Criminal Activities 
+Max Färberböck;125;Aimee & Jaguar 
+Arie Posin;108;The Chumscrubber 
+Damian Nieman;101;Shade 
+Mark Tonderai;101;House at the End of the Street 
+Denis Villeneuve;139;Incendies 
+Gabriele Muccino;125;Remember Me, My Love 
+Ian Fitzgibbon;88;Perrier's Bounty 
+José Padilha;115;Elite Squad 
+John R. Leonetti;99;Annabelle 
+Rachel Perkins;88;Bran Nue Dae 
+John Singleton;112;Boyz n the Hood 
+Luis Valdez;108;La Bamba 
+Alan Alda;107;The Four Seasons 
+Brian De Palma;104;Dressed to Kill 
+Stephen Sommers;108;The Adventures of Huck Finn 
+Doug Liman;102;Go 
+Nicole Holofcener;88;Friends with Money 
+Robert Wise;115;The Andromeda Strain 
+Louis Morneau;91;Bats 
+Caroline Link;141;Nowhere in Africa 
+Steve McQueen;101;Shame 
+Matthew Vaughn;105;Layer Cake 
+Sterling Van Wagenen;100;The Work and the Glory II: American Zion 
+Zal Batmanglij;116;The East 
+Michael Mayer;97;A Home at the End of the World 
+Hans Petter Moland;106;Aberdeen 
+Oren Moverman;105;The Messenger 
+Ian Sharp;102;Tracker 
+Anton Corbijn;122;Control 
+James Cameron;107;The Terminator 
+Wolfgang Becker;121;Good Bye Lenin! 
+Tom Hooper;98;The Damned United 
+Dan O'Bannon;108;The Return of the Living Dead 
+;55;Gomorrah             
+Kevin Smith;123;Mallrats 
+Randal Kleiser;110;Grease 
+Oliver Stone;120;Platoon 
+Michael Moore;122;Fahrenheit 9/11 
+George Roy Hill;110;Butch Cassidy and the Sundance Kid 
+Robert Stevenson;139;Mary Poppins 
+Robert Redford;124;Ordinary People 
+Frank Coraci;120;Around the World in 80 Days 
+Jerome Robbins;152;West Side Story 
+Harold Ramis;98;Caddyshack 
+Gary Hardwick;106;The Brothers 
+Rick Famuyiwa;106;The Wood 
+Bryan Singer;106;The Usual Suspects 
+Stephen Hopkins;89;A Nightmare on Elm Street 5: The Dream Child 
+Walt Becker;94;Van Wilder: Party Liaison 
+Darren Aronofsky;109;The Wrestler 
+King Vidor;144;Duel in the Sun 
+Christopher Guest;90;Best in Show 
+John Carpenter;106;Escape from New York 
+Spike Lee;121;School Daze 
+Fred Savage;89;Daddy Day Camp 
+Sammo Kam-Bo Hung;86;Mr. Nice Guy 
+Christopher Guest;91;A Mighty Wind 
+Donald Petrie;104;Mystic Pizza 
+;;War & Peace             
+Peter Howitt;99;Sliding Doors 
+Rusty Cundieff;98;Tales from the Hood 
+Kevin Macdonald;121;The Last King of Scotland 
+Dominique Othenin-Girard;96;Halloween 5 
+Richard Linklater;99;Bernie 
+Jean-Jacques Mantello;42;Dolphins and Whales 3D: Tribes of the Ocean 
+Ed Harris;122;Pollock 
+Risa Bramon Garcia;101;200 Cigarettes 
+Brian Klugman;102;The Words 
+Matt Piedmont;84;Casa de mi Padre 
+Raymond De Felitta;104;City Island 
+John Michael McDonagh;96;The Guard 
+Deb Hagan;94;College 
+Sofia Coppola;90;The Virgin Suicides 
+Mark Herman;97;Little Voice 
+Zach Cregger;90;Miss March 
+Zach Braff;106;Wish I Was Here 
+Mark Tarlov;96;Simply Irresistible 
+;44;Veronica Mars             
+John Cameron Mitchell;95;Hedwig and the Angry Inch 
+Sheldon Lettich;99;Only the Strong 
+Jon Knautz;93;Goddess of Love 
+Billy Ray;99;Shattered Glass 
+David Atkins;95;Novocaine 
+Patrick Stettner;84;The Business of Strangers 
+Sam Peckinpah;144;The Wild Bunch 
+Jonathan Levine;99;The Wackness 
+Michael Crichton;110;The Great Train Robbery 
+Lynne Ramsay;97;Morvern Callar 
+Sylvio Tabet;107;Beastmaster 2: Through the Portal of Time 
+Rick Bieber;90;The 5th Quarter 
+Claude Chabrol;104;The Flower of Evil 
+Shana Feste;96;The Greatest 
+Wayne Wang;104;Snow Flower and the Secret Fan 
+Joey Lauren Adams;97;Come Early Morning 
+Peter Cattaneo;107;Lucky Break 
+Fred Zinnemann;117;Julia 
+S.R. Bindler;85;Surfer, Dude 
+Tony Kaye;152;Lake of Fire 
+Greg Marcks;85;11:14 
+Perry Lang;76;Men of War 
+Jake Goldberger;87;Don McKay 
+Stefan Ruzowitzky;95;Deadfall 
+Vic Sarin;101;A Shine of Rainbows 
+William Kaufman;90;The Hit List 
+;240;Emma             
+David Cronenberg;89;Videodrome 
+Cédric Klapisch;111;L'auberge espagnole 
+Kate Barker-Froyland;86;Song One 
+Barbet Schroeder;115;Murder by Numbers 
+Martin Koolhoven;103;Winter in Wartime 
+Charles Matthau;90;Freaky Deaky 
+John Frankenheimer;133;The Train 
+Christopher M. Bessette;88;Trade of Innocents 
+Prachya Pinkaew;111;The Protector 
+Gary Sinyor;94;Stiff Upper Lips 
+;25;The Inbetweeners             
+Gurinder Chadha;112;Bend It Like Beckham 
+John Sayles;141;Sunshine State 
+Preston A. Whitmore II;95;Crossover 
+Ashish R. Mohan;141;Khiladi 786 
+Jaume Balagueró;85;[Rec] 2 
+Stewart Raffill;105;Standing Ovation 
+George Roy Hill;129;The Sting 
+Hugh Hudson;125;Chariots of Fire 
+Darren Grant;116;Diary of a Mad Black Woman 
+Scott Hicks;105;Shine 
+Joseph Gordon-Levitt;90;Don Jon 
+Clint Eastwood;105;High Plains Drifter 
+Terry Zwigoff;111;Ghost World 
+Richard Eyre;91;Iris 
+William Sachs;95;Galaxina 
+Christophe Barratier;97;The Chorus 
+Émile Gaudreault;92;Mambo Italiano 
+James Cox;104;Wonderland 
+Spike Lee;120;Do the Right Thing 
+James Toback;99;Harvard Man 
+Aki Kaurismäki;93;Le Havre 
+Gaspar Noé;99;Irreversible 
+Hitoshi Matsumoto;99;R100 
+Rakeysh Omprakash Mehra;157;Rang De Basanti 
+Collin Schiffli;90;Animals 
+George Ratliff;96;Salvation Boulevard 
+David Wain;96;The Ten 
+Shane Meadows;90;A Room for Romeo Brass 
+Morten Tyldum;100;Headhunters 
+Jon Wright;94;Grabbers 
+Michael McGowan;98;Saint Ralph 
+Liv Ullmann;129;Miss Julie 
+Jeannot Szwarc;103;Somewhere in Time 
+Rohan Sippy;128;Dum Maaro Dum 
+James Wan;106;Insidious: Chapter 2 
+Darren Lynn Bousman;95;Saw II 
+Dan Trachtenberg;104;10 Cloverfield Lane 
+Jeff Tremaine;87;Jackass: The Movie 
+David F. Sandberg;81;Lights Out 
+Henry Joost;94;Paranormal Activity 3 
+Stiles White;89;Ouija 
+Chuck Russell;88;A Nightmare on Elm Street 3: Dream Warriors 
+Joel Edgerton;108;The Gift 
+Eugenio Derbez;115;Instructions Not Included 
+Henry Joost;96;Paranormal Activity 4 
+Henry Koster;135;The Robe 
+Blake Edwards;113;The Return of the Pink Panther 
+Rachel Talalay;93;Freddy's Dead: The Final Nightmare 
+Patty Jenkins;109;Monster 
+Richard Fleischer;127;20,000 Leagues Under the Sea 
+Christopher Landon;101;Paranormal Activity: The Marked Ones 
+David Lynch;124;The Elephant Man 
+Jean-Marc Vallée;117;Dallas Buyers Club 
+David Gelb;83;The Lazarus Effect 
+Christopher Nolan;113;Memento 
+Mike Flanagan;104;Oculus 
+Kevin Smith;97;Clerks II 
+Stephen Daldry;110;Billy Elliot 
+Nat Faxon;103;The Way Way Back 
+George Jackson;94;House Party 2 
+George Miller;102;The Man from Snowy River 
+Maurice Joyce;77;Doug's 1st Movie 
+Robert Duvall;134;The Apostle 
+Frank Perry;129;Mommie Dearest 
+Jesse Peretz;90;Our Idiot Brother 
+Stephen Hopkins;134;Race 
+Ice Cube;104;The Players Club 
+Tim Blake Nelson;95;O 
+John Erick Dowdle;93;As Above, So Below 
+Bille Woodruff;106;Addicted 
+Kasi Lemmons;109;Eve's Bayou 
+Richard Glatzer;101;Still Alice 
+Michael Curtiz;139;The Egyptian 
+Bruce Malmuth;99;Nighthawks 
+Rob Hedden;100;Friday the 13th Part VIII: Jason Takes Manhattan 
+Joel Zwick;95;My Big Fat Greek Wedding 
+Harmony Korine;94;Spring Breakers 
+Joe Chappelle;93;Halloween: The Curse of Michael Myers 
+Alfonso Cuarón;106;Y Tu Mamá También 
+Edgar Wright;99;Shaun of the Dead 
+Mickey Liddell;82;The Haunting of Molly Hartley 
+John Sayles;135;Lone Star 
+Dwight H. Little;88;Halloween 4: The Return of Michael Myers 
+Fred Walton;89;April Fool's Day 
+Barry Levinson;110;Diner 
+Steve Carver;107;Lone Wolf McQuade 
+Gonzalo López-Gallego;86;Apollo 18 
+Christine Jeffs;91;Sunshine Cleaning 
+John Erick Dowdle;103;No Escape 
+Don Coscarelli;90;The Beastmaster 
+King Vidor;141;Solomon and Sheba 
+Michael Tiddes;92;Fifty Shades of Black 
+Bill Duke;99;Not Easily Broken 
+Frank Borzage;79;A Farewell to Arms 
+Bille Woodruff;96;The Perfect Match 
+Mamoru Hosoda;82;Digimon: The Movie 
+Brian Dannelly;92;Saved! 
+Denys Arcand;112;The Barbarian Invasions 
+Richard Lester;106;Robin and Marian 
+J.S. Cardone;90;The Forsaken 
+Guy Hamilton;126;Force 10 from Navarone 
+Jay Levey;150;UHF 
+Nicholaus Goossen;90;Grandma's Boy 
+Tamara Jenkins;91;Slums of Beverly Hills 
+Sergio Leone;145;Once Upon a Time in the West 
+Jon Favreau;95;Made 
+Duncan Jones;97;Moon 
+Scott Marshall;90;Keeping Up with the Steins 
+Ronan Chapalain;41;Sea Rex 3D: Journey to a Prehistoric World 
+Atom Egoyan;112;The Sweet Hereafter 
+Xavier Beauvois;122;Of Gods and Men 
+Randall Miller;110;Bottle Shock 
+Jerry Belson;87;Jekyll and Hyde... Together Again 
+Peter Jackson;108;Heavenly Creatures 
+Michael Polish;121;90 Minutes in Heaven 
+Dan Rush;97;Everything Must Go 
+Jake Kasdan;116;Zero Effect 
+Brad Anderson;94;The Machinist 
+Paul Schrader;103;Light Sleeper 
+Michael Cuesta;112;Kill the Messenger 
+John Cameron Mitchell;91;Rabbit Hole 
+Fenton Bailey;98;Party Monster 
+Jeremy Saulnier;95;Green Room 
+Billy Kent;88;The Oh in Ohio 
+James Manera;99;Atlas Shrugged: Who Is John Galt? 
+Wes Anderson;91;Bottle Rocket 
+Kevin Spacey;97;Albino Alligator 
+Feroz Abbas Khan;136;Gandhi, My Father 
+Errol Morris;118;Standard Operating Procedure 
+Dennis Hopper;94;Out of the Blue 
+Eli Craig;89;Tucker and Dale vs Evil 
+Nicholas Fackler;90;Lovely, Still 
+Richard Wallace;95;Tycoon 
+Morgan J. Freeman;90;Desert Blue 
+Matthew Hastings;95;Decoys 
+M. Night Shyamalan;94;The Visit 
+Brian De Palma;90;Redacted 
+Klaus Menzel;103;Fascination 
+;60;Saving Grace             
+Oren Peli;91;Area 51 
+Jaume Balagueró;102;Sleep Tight 
+Paul Andrew Williams;92;The Cottage 
+Stephen Herek;87;Dead Like Me: Life After Death 
+Bob Saget;80;Farce of the Penguins 
+Jim Amatulli;90;Flying By 
+;44;Psych             
+William H. Macy;105;Rudderless 
+Barrett Esposito;67;Henry & Me 
+Mitch Davis;95;Christmas Eve 
+Eric Bross;87;We Have Your Husband 
+Paul Schrader;94;Dying of the Light 
+Vicky Jewson;109;Born of War 
+Peter Hyams;130;Capricorn One 
+Marc Bennett;;Should've Been Romeo 
+Mike Mayhall;88;Running Forever 
+Kevin Smith;88;Yoga Hosers 
+Stanton Barrett;97;Navy Seals vs. Zombies 
+Jirí Menzel;113;I Served the King of England 
+Fatih Akin;99;Soul Kitchen 
+Billy Bob Thornton;148;Sling Blade 
+Nick Murphy;107;The Awakening 
+Eli Roth;93;Hostel 
+Michael Winterbottom;94;Tristram Shandy: A Cock and Bull Story 
+Jeff Nichols;121;Take Shelter 
+Frank LaLoggia;118;Lady in White 
+Jeremy Brock;98;Driving Lessons 
+Scott Foley;82;Let's Kill Ward's Wife 
+Tobe Hooper;101;The Texas Chainsaw Massacre 2 
+Sam Peckinpah;106;Pat Garrett & Billy the Kid 
+Nicolas Winding Refn;90;Only God Forgives 
+Christophe Ali;79;Camping sauvage 
+Gabriela Tagliavini;87;Without Men 
+Shekar;;Barfi 
+Shona Auerbach;105;Dear Frankie 
+Leonard Farlinger;89;All Hat 
+Michel Leclerc;100;The Names of Love 
+Analeine Cal y Mayor;92;Treading Water 
+Tom Kalin;97;Savage Grace 
+Robert Sarkies;100;Out of the Blue 
+Hugh Wilson;96;Police Academy 
+Randal Kleiser;104;The Blue Lagoon 
+Mike Newell;117;Four Weddings and a Funeral 
+Amy Heckerling;90;Fast Times at Ridgemont High 
+John Huston;115;Moby Dick 
+Spike Lee;108;25th Hour 
+;43;Secrets and Lies             
+Lana Wachowski;109;Bound 
+Darren Aronofsky;102;Requiem for a Dream 
+Walter Lang;100;State Fair 
+Carlos Saura;115;Tango 
+Oliver Stone;122;Salvador 
+Andrew Erwin;98;Moms' Night Out 
+Richard Kelly;133;Donnie Darko 
+Beto Gómez;105;Saving Private Perez 
+Mike van Diem;122;Character 
+Jonas Åkerlund;106;Spun 
+Todd Solondz;98;Life During Wartime 
+Chan-wook Park;112;Lady Vengeance 
+René Féret;120;Mozart's Sister 
+Barry Skolnick;99;Mean Machine 
+Johnnie To;110;Exiled 
+Mateo Gil;102;Blackthorn 
+Lukas Moodysson;109;Lilya 4-Ever 
+Agnieszka Wojtowicz-Vosloo;104;After.Life 
+Kabir Sadanand;134;Fugly 
+Milos Forman;133;One Flew Over the Cuckoo's Nest 
+Peter DeLuise;85;R.L. Stine's Monsterville: The Cabinet of Souls 
+Mel Brooks;87;Silent Movie 
+Raja Menon;130;Airlift 
+;199;Anne of Green Gables             
+Ernie Barbarash;103;Falcon Rising 
+Nick Love;112;The Sweeney 
+Jonathan Glazer;89;Sexy Beast 
+Daniel Espinosa;124;Easy Money 
+Niki Caro;101;Whale Rider 
+R. Balki;133;Paa 
+Ivan Engler;112;Cargo 
+Joe Wright;111;Pan 
+Kenny Ortega;98;High School Musical 
+;60;Animal Kingdom             
+Richard Kwietniowski;93;Love and Death on Long Island 
+Timur Bekmambetov;104;Night Watch 
+Neil Jordan;112;The Crying Game 
+Bob Clark;94;Porky's 
+George A. Romero;90;Survival of the Dead 
+George A. Romero;96;Night of the Living Dead 
+Sofia Coppola;101;Lost in Translation 
+Woody Allen;93;Annie Hall 
+Cecil B. DeMille;152;The Greatest Show on Earth 
+Ridley Scott;150;Exodus: Gods and Kings 
+Marc Forster;112;Monster's Ball 
+Henry Hobson;95;Maggie 
+Mike Figgis;111;Leaving Las Vegas 
+Duane Journey;86;Hansel & Gretel Get Baked 
+Dan O'Bannon;108;The Return of the Living Dead 
+Billy Wilder;105;The Front Page 
+Rob Cohen;91;The Boy Next Door 
+Carol Reed;105;Trapeze 
+;60;Saving Grace             
+Lisa Cholodenko;106;The Kids Are All Right 
+John Carpenter;93;They Live 
+John Sturges;172;The Great Escape 
+William Arntz;109;What the #$*! Do We (K)now!? 
+Ed Gass-Donnelly;93;The Last Exorcism Part II 
+Richard Linklater;165;Boyhood 
+Woody Allen;96;Scoop 
+Tim Burton;119;Planet of the Apes 
+DJ Pooh;93;The Wash 
+DJ Pooh;82;3 Strikes 
+Wayne Kramer;101;The Cooler 
+John Huston;120;The Misfits 
+Patrick Stettner;81;The Night Listener 
+James Melkonian;82;The Jerky Boys 
+Wes Craven;107;My Soul to Take 
+J.A. Bayona;105;The Orphanage 
+Michael Tiddes;86;A Haunted House 2 
+Roger Avary;110;The Rules of Attraction 
+Alfred Hitchcock;127;Topaz 
+Bob Odenkirk;90;Let's Go to Prison 
+Allison Anders;110;Four Rooms 
+Steven Shainberg;104;Secretary 
+Rick de Oliveira;96;The Real Cancun 
+Oliver Stone;110;Talk Radio 
+Christopher Guest;84;Waiting for Guffman 
+Jeff Franklin;94;Love Stinks 
+John Dahl;93;You Kill Me 
+Mike Mills;96;Thumbsucker 
+Kevin Smith;88;Red State 
+Dave McKean;101;Mirrormask 
+Ron Fricke;102;Samsara 
+Ruggero Deodato;87;The Barbarians 
+Gavin Wiesen;83;The Art of Getting By 
+Mora Stephens;103;Zipper 
+Mars Callahan;99;Poolhall Junkies 
+Mike Figgis;106;The Loss of Sexual Innocence 
+Leos Carax;115;Holy Motors 
+David Gordon Green;117;Joe 
+Stefan Schwartz;99;Shooting Fish 
+Renny Harlin;102;Prison 
+Robert Lee King;85;Psycho Beach Party 
+Kevin Allen;86;The Big Tease 
+Jorge Ramírez Suárez;120;Buen Día, Ramón 
+David Schwimmer;106;Trust 
+Barry Levinson;103;An Everlasting Piece 
+Sam Miller;93;Among Giants 
+Anne Fontaine;112;Adore 
+Dan Ireland;100;The Velocity of Gary 
+Fernando León de Aranoa;113;Mondays in the Sun 
+Jim Mickle;98;Stake Land 
+;23;Sonny with a Chance             
+Stephen Kay;92;The Last Time I Committed Suicide 
+Karim Aïnouz;106;Futuro Beach 
+Sam Levinson;119;Another Happy Day 
+Julian Gilbey;99;A Lonely Place to Die 
+Vincenzo Natali;90;Nothing 
+Aleksandr Veledinskiy;120;The Geographer Drank His Globe Away 
+Peter H. Hunt;168;1776 
+Ruba Nadda;93;Inescapable 
+Howard Hughes;96;Hell's Angels 
+Edward Burns;103;Purple Violets 
+Phil Joanou;93;The Veil 
+Sean Byrne;84;The Loved Ones 
+Chris Stokes;81;No Vacancy 
+Mark Griffiths;84;How to Fall in Love 
+Bruce Macdonald;94;The Perfect Wave 
+Timur Bekmambetov;141;Ben-Hur 
+Fred Zinnemann;120;A Man for All Seasons 
+Sidney Lumet;121;Network 
+Victor Fleming;226;Gone with the Wind 
+Richard Raymond;104;Desert Dancer 
+Sam Peckinpah;152;Major Dundee 
+Alan Jacobs;92;Down for Life 
+George Sidney;107;Annie Get Your Gun 
+Christopher Morris;97;Four Lions 
+Andrucha Waddington;115;House of Sand 
+Peter Stebbings;95;Defendor 
+Vincente Minnelli;102;The Pirate 
+Dagur Kári;99;The Good Heart 
+Nicholas Hytner;109;The History Boys 
+Jaume Collet-Serra;113;Unknown 
+;25;M*A*S*H             
+John Schlesinger;113;Midnight Cowboy 
+Peter Cattaneo;91;The Full Monty 
+Jim Abrahams;88;Airplane! 
+Kevin Carraway;88;Chain of Command 
+F. Gary Gray;97;Friday 
+Albert Hughes;97;Menace II Society 
+;42;Empire             
+Michael Gornick;85;Creepshow 2 
+Sam Peckinpah;121;The Ballad of Cable Hogue 
+Richard Brooks;134;In Cold Blood 
+Fred Zinnemann;149;The Nun's Story 
+Jack Smight;121;Harper 
+Alfred Hitchcock;116;Frenzy 
+Robert Eggers;92;The Witch 
+Michael Martin;93;I Got the Hook Up 
+Edward Burns;96;She's the One 
+Bill Condon;105;Gods and Monsters 
+Juan José Campanella;129;The Secret in Their Eyes 
+George A. Romero;87;Day of the Dead 
+Gideon Raff;94;Train 
+Sam Raimi;37;Evil Dead II 
+Louis C.K.;81;Pootie Tang 
+Anthony C. Ferrante;97;Sharknado 
+Salvador Carrasco;106;La otra conquista 
+André Øvredal;103;Trollhunter 
+Robert Cary;101;Ira & Abby 
+Akiva Schaffer;102;The Watch 
+Adam Rapp;98;Winter Passing 
+Angela Robinson;91;D.E.B.S. 
+Warren P. Sonoda;105;The Masked Saint 
+Amanda Gusack;98;The Betrayed 
+Avi Nesher;104;Taxman 
+;45;The Secret             
+Charles Adelman;96;2:13 
+Jay Oliva;148;Batman: The Dark Knight Returns, Part 2 
+Charles Ferguson;100;Time to Choose 
+Uwe Boll;86;In the Name of the King: The Last Job 
+Mark Young;92;Wicked Blood 
+Daniel Petrie Jr.;88;Dawn Patrol 
+Antonio Simoncini;90;Lords of London 
+Mel Brooks;94;High Anxiety 
+Luc Jacquet;80;March of the Penguins 
+J.C. Chandor;107;Margin Call 
+Eldar Rapaport;99;August 
+Clark Gregg;92;Choke 
+Damien Chazelle;107;Whiplash 
+Fernando Meirelles;135;City of God 
+Justin Kerrigan;99;Human Traffic 
+Nathan Frankowski;102;Day One 
+Karen Moncrieff;93;The Dead Girl 
+Thomas Vinterberg;115;The Hunt 
+Bob Clark;94;A Christmas Story 
+Alejandro Monteverde;91;Bella 
+Mark L. Lester;98;Class of 1984 
+Jennifer Finnigan;97;The Opposite Sex 
+Eric Styles;92;Dreaming of Joseph Lees 
+Laurent Cantet;128;The Class 
+Roman Polanski;136;Rosemary's Baby 
+John Ford;113;The Man Who Shot Liberty Valance 
+Max Mayer;99;Adam 
+Joshua Marston;101;Maria Full of Grace 
+Mike Mills;105;Beginners 
+John Gulager;95;Feast 
+John Landis;109;Animal House 
+Guy Hamilton;110;Goldfinger 
+Brandon Cronenberg;108;Antiviral 
+Frank Capra;118;It's a Wonderful Life 
+Danny Boyle;94;Trainspotting 
+Spike Lee;115;The Original Kings of Comedy 
+Tod Williams;98;Paranormal Activity 2 
+Kirk Jones;91;Waking Ned Devine 
+Michael Moore;120;Bowling for Columbine 
+Yimou Zhang;109;Coming Home 
+Jack Sholder;87;A Nightmare on Elm Street 2: Freddy's Revenge 
+James Ivory;117;A Room with a View 
+James DeMonaco;85;The Purge 
+Scott Derrickson;110;Sinister 
+David Raynr;113;Martin Lawrence Live: Runteldat 
+Richard Brooks;108;Cat on a Hot Tin Roof 
+Ted Post;95;Beneath the Planet of the Apes 
+Charles Martin Smith;98;Air Bud 
+Kunihiko Yuyama;93;Pokémon 3: The Movie 
+Tom McLoughlin;86;Jason Lives: Friday the 13th Part VI 
+David Lean;161;The Bridge on the River Kwai 
+Patrick Read Johnson;100;Spaced Invaders 
+Alfred Hitchcock;120;Family Plot 
+Billy Wilder;125;The Apartment 
+Adam Marcus;91;Jason Goes to Hell: The Final Friday 
+Alfred Hitchcock;128;Torn Curtain 
+Michel Gondry;100;Dave Chappelle's Block Party 
+John Maclean;84;Slow West 
+Michael Schultz;97;Krush Groove 
+Benny Boom;84;Next Day Air 
+Richard Brooks;146;Elmer Gantry 
+Stanley Kramer;186;Judgment at Nuremberg 
+David Raynr;94;Trippin' 
+;11;Robot Chicken             
+Howard Hawks;126;Red River 
+Nnegest Likké;99;Phat Girlz 
+Richard Linklater;109;Before Midnight 
+Christopher Leitch;95;Teen Wolf Too 
+Don Coscarelli;97;Phantasm II 
+Michael Schultz;94;Woman Thou Art Loosed 
+Patricia Cardoso;90;Real Women Have Curves 
+;197;Deadline Gallipoli             
+Deepa Mehta;117;Water 
+Damien O'Donnell;96;East Is East 
+Peter M. Cohen;82;Whipped 
+Mira Nair;109;Kama Sutra: A Tale of Love 
+Nicole Holofcener;90;Please Give 
+Mel Stuart;89;Willy Wonka & the Chocolate Factory 
+Anthony Hickox;98;Warlock: The Armageddon 
+Tom Schulman;95;8 Heads in a Duffel Bag 
+Terrence Malick;94;Days of Heaven 
+Jill Sprecher;104;Thirteen Conversations About One Thing 
+Darren Stein;87;Jawbreaker 
+Julian Schnabel;108;Basquiat 
+Noah Baumbach;86;Frances Ha 
+Gavin Hood;94;Tsotsi 
+Todd Solondz;134;Happiness 
+George Gallo;89;DysFunktional Family 
+Kevin Smith;102;Tusk 
+Chan-wook Park;120;Oldboy 
+David Nixon;110;Letters to God 
+Jason Eisener;86;Hobo with a Shotgun 
+Enrique Begne;101;Compadres 
+Matthew Bright;102;Freeway 
+Michael Landon Jr.;87;Love's Abiding Joy 
+Andrea Arnold;123;Fish Tank 
+Whit Stillman;99;Damsels in Distress 
+;173;Creature             
+Leslye Headland;87;Bachelorette 
+;44;BrainDead             
+Bobby Roth;120;Brave New Girl 
+Tim Heidecker;93;Tim and Eric's Billion Dollar Movie 
+Rupert Wyatt;111;The Gambler 
+;60;The Grand             
+Marco Kreuzpaintner;98;Summer Storm 
+Kate Connor;100;Fort McCoy 
+Deon Taylor;88;Chain Letter 
+Jason Alexander;97;Just Looking 
+Xavier Gens;122;The Divide 
+Conor McPherson;86;The Eclipse 
+Will Canon;83;Demonic 
+Philip Zlotorynski;80;My Big Fat Independent Movie 
+Tim Burton;108;Alice in Wonderland 
+Lance Kawas;90;The Deported 
+Francesca Gregorini;96;Tanner Hall 
+Marcio Garcia;85;Open Road 
+David Wain;83;They Came Together 
+Craig Moss;80;30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo 
+Michael Jai White;90;Never Back Down 2: The Beatdown 
+John Boorman;92;Point Blank 
+Paolo Monico;100;Four Single Fathers 
+Youssef Delara;88;Enter the Dangerous Mind 
+Darin Scott;95;Something Wicked 
+Christian Sesma;82;AWOL-72 
+Monte Hellman;97;Iguana 
+Kenneth Branagh;105;Cinderella 
+Brian Caunter;94;Chicago Overcoat 
+Chris D'Arienzo;95;Barry Munday 
+Walter Salles;113;Central Station 
+Frank Capra;136;Pocketful of Miracles 
+Isaac Florentine;80;Close Range 
+Susan Seidelman;105;Boynton Beach Club 
+Michael Polish;90;Amnesiac 
+Heidi Ewing;93;Freakonomics 
+Richard Donner;107;The Omen 
+Alexandre Aja;89;High Tension 
+Leon Ford;90;Griff the Invisible 
+Hank Braxtan;89;Unnatural 
+Craig Brewer;116;Hustle & Flow 
+Billy Wilder;120;Some Like It Hot 
+John Carl Buechler;88;Friday the 13th Part VII: The New Blood 
+Victor Fleming;102;The Wizard of Oz 
+Mel Brooks;106;Young Frankenstein 
+George A. Romero;95;Diary of the Dead 
+Rajkumar Hirani;144;Lage Raho Munna Bhai 
+Victor Nunez;113;Ulee's Gold 
+Carroll Ballard;118;The Black Stallion 
+Rohit Jugraj;141;Sardaar Ji 
+Thorbjørn Christoffersen;90;Journey to Saturn 
+John Ford;109;Donovan's Reef 
+Alex van Warmerdam;95;The Dress 
+Victor Fleming;122;A Guy Named Joe 
+Mel Brooks;93;Blazing Saddles 
+Joseph Zito;97;Friday the 13th: The Final Chapter 
+Pawel Pawlikowski;82;Ida 
+James Ivory;140;Maurice 
+Frank Sebastiano;86;Beer League 
+Rand Ravich;109;The Astronaut's Wife 
+Stacy Peralta;105;Riding Giants 
+Nacho Vigalondo;66;Timecrimes 
+Hao Ning;99;Silver Medallist 
+Tony Giglio;100;Timber Falls 
+Stanley Donen;103;Singin' in the Rain 
+Joe Cross;97;Fat, Sick & Nearly Dead 
+Michael Tiddes;86;A Haunted House 
+Dinesh D'Souza;87;2016: Obama's America 
+Rob Zombie;119;Halloween II 
+Tom Hanks;149;That Thing You Do! 
+Tommy Lee Wallace;98;Halloween III: Season of the Witch 
+Don Taylor;98;Escape from the Planet of the Apes 
+Martin Ritt;112;Hud 
+Leslie Small;75;Kevin Hart: Let Me Explain 
+Gus Van Sant;104;My Own Private Idaho 
+Zach Braff;102;Garden State 
+Richard Linklater;105;Before Sunrise 
+Éric Tessier;99;Sur le seuil 
+Alison Maclean;107;Jesus' Son 
+Alice Wu;96;Saving Face 
+Sarah Gavron;101;Brick Lane 
+Jake Schreier;89;Robot & Frank 
+Isabel Coixet;106;My Life Without Me 
+James Ponsoldt;95;The Spectacular Now 
+Randall Miller;34;Marilyn Hotchkiss' Ballroom Dancing and Charm School 
+Larry Charles;101;Religulous 
+Joshua Tickell;112;Fuel 
+Tim Boxell;100;Valley of the Heart's Delight 
+Rawson Marshall Thurber;92;Dodgeball: A True Underdog Story 
+Michael D. Sellers;100;Eye of the Dolphin 
+Reed Cowan;80;8: The Mormon Proposition 
+James Dodson;106;The Other End of the Line 
+Stefan Ruzowitzky;103;Anatomy 
+Alex Rivera;90;Sleep Dealer 
+James Gunn;96;Super 
+John Murlowski;89;Christmas Mail 
+Benni Diez;87;Stung 
+Danny Perez;94;Antibirth 
+Spike Lee;120;Get on the Bus 
+Robby Henson;101;Thr3e 
+Mike Judge;84;Idiocracy 
+Zackary Adler;110;The Rise of the Krays 
+Shane Meadows;101;This Is England 
+Dominic Burns;101;Alien Uprising 
+George Sidney;101;Bathing Beauty 
+Carmen Marron;105;Go for It! 
+Tim McCanlies;97;Dancer, Texas Pop. 81 
+George Sidney;108;Show Boat 
+Mario Van Peebles;95;Redemption Road 
+Jason Stone;108;The Calling 
+Jerry Rees;90;The Brave Little Toaster 
+James Algar;120;Fantasia 
+William Friedkin;104;The French Connection 
+Jaco Booyens;90;8 Days 
+Steve Miner;91;Friday the 13th Part III 
+Danny Steinmann;92;Friday the 13th: A New Beginning 
+Michael Landon Jr.;117;The Last Sin Eater 
+Jon Gunn;120;Do You Believe? 
+Hayley Cloake;90;Impact Point 
+Tay Garnett;119;The Valley of Decision 
+Shyam Madiraju;90;Eden 
+Harmage Singh Kalirai;90;Chicken Tikka Masala 
+Rita Merson;97;Always Woodstock 
+Jon Knautz;90;Jack Brooks: Monster Slayer 
+William Wyler;172;The Best Years of Our Lives 
+Larry Clark;115;Bully 
+Petter Næss;89;Elling 
+Robert Fontaine;125;Mi America 
+Jaume Balagueró;78;[Rec] 
+Patricia Cardoso;89;Lies in Plain Sight 
+Dan Perri;100;Sharkskin 
+Neil Mcenery-West;77;Containment 
+Anthony O'Brien;81;The Timber 
+Terence Young;115;From Russia with Love 
+Michael Herz;96;The Toxic Avenger Part II 
+;60;In the Heat of the Night             
+Woody Allen;89;Sleeper 
+David Robert Mitchell;100;It Follows 
+Woody Allen;88;Everything You Always Wanted to Know About Sex * But Were Afraid to Ask 
+Robert Mulligan;129;To Kill a Mockingbird 
+George Miller;87;Mad Max 2: The Road Warrior 
+Chia-Liang Liu;102;The Legend of Drunken Master 
+Stanley Kubrick;152;Lolita 
+Kimberly Peirce;118;Boys Don't Cry 
+Chris Kentis;86;Silent House 
+Florian Henckel von Donnersmarck;137;The Lives of Others 
+Alex Kendrick;129;Courageous 
+Robert Rossen;134;The Hustler 
+Jack Conway;119;Boom Town 
+Sylvain Chomet;80;The Triplets of Belleville 
+Chris Eyre;89;Smoke Signals 
+Shari Springer Berman;101;American Splendor 
+Richard Linklater;80;Before Sunset 
+Alejandro G. Iñárritu;115;Amores Perros 
+Catherine Hardwicke;100;Thirteen 
+Elia Kazan;118;Gentleman's Agreement 
+Debra Granik;100;Winter's Bone 
+Kevin Macdonald;106;Touching the Void 
+Henry King;106;Alexander's Ragtime Band 
+Miranda July;91;Me and You and Everyone We Know 
+Charles Ferguson;105;Inside Job 
+Max Joseph;96;We Are Your Friends 
+Jim Jarmusch;116;Ghost Dog: The Way of the Samurai 
+David Ayer;116;Harsh Times 
+Jerry Jameson;97;Captive 
+Steven Soderbergh;101;Full Frontal 
+Kevin Tenney;98;Witchboard 
+;22;Strangers with Candy             
+Kenneth Branagh;150;Hamlet 
+John Cameron Mitchell;101;Shortbus 
+Ari Folman;90;Waltz with Bashir 
+Gary Rogers;120;The Book of Mormon Movie, Volume 1: The Journey 
+Charles Ferguson;102;No End in Sight 
+Marielle Heller;102;The Diary of a Teenage Girl 
+;60;Get Real             
+David Sington;100;In the Shadow of the Moon 
+Kelly Reichardt;104;Meek's Cutoff 
+Fenton Bailey;89;Inside Deep Throat 
+Bob Giraldi;99;Dinner Rush 
+Jill Sprecher;96;Clockwatchers 
+Huck Botko;86;The Virginity Hit 
+Luc Besson;98;Subway 
+David Duchovny;96;House of D 
+Mitchell Lichtenstein;94;Teeth 
+Lance Mungia;91;Six-String Samurai 
+Kundan Shah;;Hum To Mohabbat Karega 
+Michael Dowse;90;It's All Gone Pete Tong 
+Hue Rhodes;85;Saint John of Las Vegas 
+Shane Meadows;96;24 7: Twenty Four Seven 
+Roland Emmerich;129;Stonewall 
+;60;Eureka             
+Jugal Hansraj;93;Roadside Romeo 
+Danny Provenzano;100;This Thing of Ours 
+Bill Muir;97;The Lost Medallion: The Adventures of Billy Stone 
+Richard LaGravenese;94;The Last Five Years 
+Noah Buschel;95;The Missing Person 
+Brian Yuzna;97;Return of the Living Dead III 
+Hunter Richards;92;London 
+Laurie Collyer;96;Sherrybaby 
+Bruce McCulloch;85;Stealing Harvard 
+Aaron Hann;87;Circle 
+James Watkins;91;Eden Lake 
+Catherine Hardwicke;99;Plush 
+Phil Claydon;88;Vampire Killers 
+Ralph Ziman;119;Gangster's Paradise: Jerusalema 
+John Simpson;99;Freeze Frame 
+Colin Minihan;92;Grave Encounters 
+Conor McMahon;86;Stitches 
+Chris Shadley;83;Nine Dead 
+Simon Napier-Bell;81;To Be Frank, Sinatra at 100 
+Woody Allen;82;Bananas 
+Simon Yin;102;Supercapitalist 
+Jeff Crook;90;Rockaway 
+;30;Wings             
+Orson Welles;92;The Lady from Shanghai 
+Dave Payne;88;No Man's Land: The Rise of Reeker 
+James Cox;97;Highway 
+Jonas Åkerlund;96;Small Apartments 
+Brad Copeland;87;Coffee Town 
+Paul Bunnell;106;The Ghastly Love of Johnny X 
+Phil Morrison;107;All Is Bright 
+Harald Reinl;80;The Torture Chamber of Dr. Sadism 
+James Cox;91;Straight A's 
+Richard Lester;99;A Funny Thing Happened on the Way to the Forum 
+Michael Moore;102;Slacker Uprising 
+Tanner Beard;108;The Legend of Hell's Gate: An American Conspiracy 
+Scott Dow;88;The Walking Deceased 
+Derick Martini;89;The Curse of Downers Grove 
+Jerry Dugan;92;Shark Lake 
+Tim Hunter;99;River's Edge 
+Michael Polish;103;Northfork 
+William Kaufman;90;The Marine 4: Moving Target 
+Rodrigo Cortés;95;Buried 
+Richard Ayoade;97;Submarine 
+Jehane Noujaim;108;The Square 
+Pascal Arnold;95;One to Another 
+Kimberly Peirce;100;Carrie 
+Remo;160;ABCD (Any Body Can Dance) 
+Wes Craven;101;A Nightmare on Elm Street 
+James Marsh;90;Man on Wire 
+John Laing;86;Abandoned 
+Jamal Hill;89;Brotherly Love 
+Daniel Stamm;87;The Last Exorcism 
+Sam Taylor-Johnson;98;Nowhere Boy 
+Elia Kazan;125;A Streetcar Named Desire 
+Stanley Kubrick;95;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 
+Carlos Carrera;118;El crimen del padre Amaro 
+Benh Zeitlin;93;Beasts of the Southern Wild 
+J. Lee Thompson;96;Battle for the Planet of the Apes 
+Maggie Greenwald;109;Songcatcher 
+Vera Farmiga;109;Higher Ground 
+Vijay Chandar;155;Vaalu 
+Morgan Spurlock;90;The Greatest Movie Ever Sold 
+Jonathan Wacks;93;Ed and His Dead Mother 
+Khyentse Norbu;108;Travelers and Magicians 
+Ted Post;114;Hang 'Em High 
+Richard Brooks;87;Deadline - U.S.A. 
+Tony Krantz;113;Sublime 
+Mitchell Altieri;87;A Beginner's Guide to Snuff 
+W.D. Hogan;90;Independence Daysaster 
+Corey Grant;111;Dysfunctional Friends 
+Tom Tykwer;81;Run Lola Run 
+Lucky McKee;93;May 
+Richard Boddington;90;Against the Wild 
+David Hunt;112;Living Dark: The Story of Ted the Caver 
+Patricia Riggen;106;Under the Same Moon 
+J. Lee Thompson;88;Conquest of the Planet of the Apes 
+Todd Field;138;In the Bedroom 
+Steven R. Monroe;105;I Spit on Your Grave 
+Mark Illsley;98;Happy, Texas 
+Pawel Pawlikowski;86;My Summer of Love 
+Ritesh Batra;104;The Lunchbox 
+Sally Potter;100;Yes 
+Frank Capra;126;You Can't Take It with You 
+Fred Zinnemann;118;From Here to Eternity 
+John Ford;103;She Wore a Yellow Ribbon 
+Brad J. Silverman;102;Grace Unplugged 
+Dave Meyers;84;Foolish 
+David M. Matthews;;N-Secure 
+Nadine Labaki;95;Caramel 
+Lluís Quílez;92;Out of the Dark 
+Eytan Fox;90;The Bubble 
+Francis Ford Coppola;113;The Conversation 
+Romesh Sharma;;Dil Jo Bhi Kahey... 
+François Truffaut;123;Mississippi Mermaid 
+Adam Goldberg;111;I Love Your Work 
+Travis Zariwny;99;Cabin Fever 
+Zack Snyder;110;Dawn of the Dead 
+Adrienne Shelly;108;Waitress 
+Newt Arnold;92;Bloodsport 
+Frank Capra;120;Mr. Smith Goes to Washington 
+Larry Clark;91;Kids 
+Noah Baumbach;88;The Squid and the Whale 
+Charles Herman-Wurmfeld;97;Kissing Jessica Stein 
+Yimou Zhang;95;A Woman, a Gun and a Noodle Shop 
+John Stockwell;90;Kickboxer: Vengeance 
+Alfred Hitchcock;95;Spellbound 
+Atom Egoyan;103;Exotica 
+Vincent Gallo;110;Buffalo '66 
+James Wan;103;Insidious 
+Alex Cox;92;Repo Man 
+Fabián Bielinsky;114;Nine Queens 
+Dror Moreh;101;The Gatekeepers 
+Rebecca Miller;112;The Ballad of Jack and Rose 
+Maggie Carey;104;The To Do List 
+Roger Avary;99;Killing Zoe 
+Henry Bean;98;The Believer 
+David Gordon Green;107;Snow Angels 
+Simeon Rice;93;Unsullied 
+Brad Anderson;100;Session 9 
+Jeff Garlin;80;I Want Someone to Eat Cheese With 
+Qasim Basir;94;Mooz-Lum 
+Adam Green;93;Hatchet 
+Charles Chaplin;87;Modern Times 
+Pete Jones;91;Stolen Summer 
+Bruce Campbell;84;My Name Is Bruce 
+Mark Brown;90;The Salon 
+Adam Carolla;98;Road Hard 
+Ira Sachs;108;Forty Shades of Blue 
+John Sayles;124;Amigo 
+Bruce McDonald;95;Pontypool 
+James Mottern;90;Trucker 
+Jaime Zevallos;93;Me You and Five Bucks 
+Rob Zombie;101;The Lords of Salem 
+Gerard Johnstone;107;Housebound 
+Robert Greenwald;20;Wal-Mart: The High Cost of Low Price 
+David Ray;87;Fetching Cody 
+Dave Rodriguez;98;Once Upon a Time in Queens 
+Nae Caranfil;112;Closer to the Moon 
+David Winning;82;Mutant World 
+Frank Lotito;102;Growing Up Smith 
+Timothy Woodward Jr.;97;Checkmate 
+Christopher McQuarrie;130;Jack Reacher 
+Tara Subkoff;101;#Horror 
+Russell Friedenberg;93;Wind Walkers 
+William Cottrell;83;Snow White and the Seven Dwarfs 
+Lucrecia Martel;106;The Holy Girl 
+Edward Dmytryk;113;Shalako 
+Zak Penn;94;Incident at Loch Ness 
+Alex Ranarivelo;101;The Dog Lover 
+Jon Knautz;99;Girl House 
+Mathieu Amalric;76;The Blue Room 
+David Worth;91;House at the End of the Drive 
+Leslie H. Martinson;105;Batman: The Movie 
+Guy Ritchie;120;Lock, Stock and Two Smoking Barrels 
+Robert M. Young;105;The Ballad of Gregorio Cortez 
+;120;The Streets of San Francisco             
+Thomas Vinterberg;105;The Celebration 
+Steve Buscemi;95;Trees Lounge 
+Ham Tran;135;Journey from the Fall 
+Rich Cowan;105;The Basket 
+Boris Rodriguez;83;Eddie: The Sleepwalking Cannibal 
+Harold Becker;111;Mercury Rising 
+;60;Space: Above and Beyond             
+Sadyk Sher-Niyaz;135;Queen of the Mountains 
+Paul Donovan;88;Def-Con 4 
+Jonathan Kesselman;87;The Hebrew Hammer 
+Arjun Sablok;97;Neal 'N' Nikki 
+Craig Moss;82;The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It 
+Tyler Oliver;103;Forget Me Not 
+Alfred Hitchcock;130;Rebecca 
+Steve Miner;87;Friday the 13th Part 2 
+Billy Wilder;101;The Lost Weekend 
+Douglas Cheek;96;C.H.U.D. 
+Youssef Delara;80;Filly Brown 
+Deryck Broom;87;The Lion of Judah 
+Henry Hathaway;92;Niagara 
+John Ford;118;How Green Was My Valley 
+;27;The Girlfriend Experience             
+Spike Lee;123;Da Sweet Blood of Jesus 
+Steven Soderbergh;100;Sex, Lies, and Videotape 
+James Wan;103;Saw 
+Jay Chandrasekhar;100;Super Troopers 
+Giovanni Zelko;99;The Algerian 
+Claudia Sainte-Luce;89;The Amazing Catfish 
+Scott Derrickson;104;The Day the Earth Stood Still 
+Mira Nair;114;Monsoon Wedding 
+Kenneth Lonergan;111;You Can Count on Me 
+Alfred Hitchcock;99;The Trouble with Harry 
+Paul McGuigan;110;Lucky Number Slevin 
+Jamie Babbit;85;But I'm a Cheerleader 
+David Boyd;113;Home Run 
+Quentin Tarantino;99;Reservoir Dogs 
+Walter Lang;83;The Blue Bird 
+Sergio Leone;142;The Good, the Bad and the Ugly 
+Anna Muylaert;112;The Second Mother 
+Steve Taylor;108;Blue Like Jazz 
+Kurt Voss;88;Down and Out with the Dolls 
+Léa Pool;97;Pink Ribbons, Inc. 
+James David Pasternak;85;Certifiably Jonathan 
+Laurent Bouhnik;103;Q 
+Tom Sanchez;110;The Knife of Don Juan 
+David Caffrey;88;Grand Theft Parsons 
+Adam Jay Epstein;76;Extreme Movie 
+Michael Curtiz;100;The Charge of the Light Brigade 
+Justin Thomas Ostensen;99;Below Zero 
+Brenton Spencer;84;Crowsnest 
+Rob Bowman;91;Airborne 
+Ossie Davis;97;Cotton Comes to Harlem 
+Jay Alaimo;84;The Wicked Within 
+Dylan Bank;100;Bleeding Hearts 
+Rob McKittrick;94;Waiting... 
+Shane Meadows;90;Dead Man's Shoes 
+;;Wolf Creek             
+Jeff Burr;92;From a Whisper to a Scream 
+Harry Gantz;105;Sex with Strangers 
+Guy Maddin;73;Dracula: Pages from a Virgin's Diary 
+Regardt van den Bergh;116;Faith Like Potatoes 
+Panos Cosmatos;110;Beyond the Black Rainbow 
+Gareth Evans;102;The Raid: Redemption 
+Matthew R. Anderson;89;The Dead Undead 
+Joe Marino;76;The Vatican Exorcisms 
+Michael Curtiz;82;Casablanca 
+Joel Anderson;89;Lake Mungo 
+Shimit Amin;150;Rocket Singh: Salesman of the Year 
+Douglas Trumbull;89;Silent Running 
+John G. Avildsen;145;Rocky 
+Mona Fastvold;91;The Sleepwalker 
+John Carpenter;89;The Fog 
+Tony Richardson;121;Tom Jones 
+Levan Gabriadze;83;Unfriended 
+Martin Scorsese;110;Taxi Driver 
+Joe Dante;91;The Howling 
+Terence Young;110;Dr. No 
+Bradley Parker;86;Chernobyl Diaries 
+Clive Barker;86;Hellraiser 
+Harold Cronk;120;God's Not Dead 2 
+Jeff Wadlow;90;Cry_Wolf 
+Takao Okawara;99;Godzilla 2000 
+Derek Cianfrance;112;Blue Valentine 
+Duncan Tucker;103;Transamerica 
+William Brent Bell;83;The Devil Inside 
+Russ Meyer;109;Beyond the Valley of the Dolls 
+Robert D. Webb;89;Love Me Tender 
+Davis Guggenheim;96;An Inconvenient Truth 
+Allan Dwan;109;Sands of Iwo Jima 
+Martin Scorsese;122;Shine a Light 
+Eli Roth;100;The Green Inferno 
+Andrew Steggall;109;Departure 
+Ben Lewin;95;The Sessions 
+Robert Kenner;94;Food, Inc. 
+Andrew Erwin;107;October Baby 
+Brad Anderson;104;Next Stop Wonderland 
+Jason Reitman;96;Juno 
+Craig Johnson;93;The Skeleton Twins 
+Sean Durkin;102;Martha Marcy May Marlene 
+Gillian Robespierre;84;Obvious Child 
+Courtney Hunt;97;Frozen River 
+Morgan Neville;91;20 Feet from Stardom 
+James Toback;84;Two Girls and a Guy 
+Nicole Holofcener;86;Walking and Talking 
+Peter Cattaneo;91;The Full Monty 
+Chris Paine;92;Who Killed the Electric Car? 
+Greg Berlanti;94;The Broken Hearts Club: A Romantic Comedy 
+Don Coscarelli;92;Bubba Ho-Tep 
+Rob Letterman;103;Goosebumps 
+Marc Levin;100;Slam 
+Richard Dutcher;119;Brigham City 
+Khalid Mohamed;167;Fiza 
+Mel Brooks;92;History of the World: Part I 
+Trey Parker;92;Orgazmo 
+David Gordon Green;108;All the Real Girls 
+Finn Taylor;97;Dream with the Fishes 
+Karen Moncrieff;88;Blue Car 
+José Luis Valenzuela;100;Luminarias 
+Gia Coppola;100;Palo Alto 
+Scandar Copti;124;Ajami 
+Goran Dukic;88;Wristcutters: A Love Story 
+Mike Cahill;106;I Origins 
+Efram Potelle;79;The Battle of Shaker Heights 
+Peter Jackson;135;The Lovely Bones 
+Joshua Oppenheimer;96;The Act of Killing 
+Alex Gibney;53;Taxi to the Dark Side 
+Paul Crowder;97;Once in a Lifetime: The Extraordinary Story of the New York Cosmos 
+Rohit Jagessar;120;Guiana 1838 
+Griffin Dunne;90;Lisa Picard Is Famous 
+Anthony Powell;91;Antarctica: A Year on Ice 
+Kief Davidson;93;A Lego Brickumentary 
+Johnny Remo;112;Hardflip 
+Vivek Agnihotri;160;Chocolate: Deep Dark Secrets 
+Ti West;95;The House of the Devil 
+Nick Tomnay;93;The Perfect Host 
+John Hamburg;88;Safe Men 
+Nickolas Perry;105;Speedway Junky 
+Dan Zukovic;98;The Last Big Thing 
+Craig Mazin;82;The Specials 
+Becky Smith;89;16 to Life 
+Eric Nicholas;78;Alone with Her 
+Benjamin Dickinson;97;Creative Control 
+Hal Haberman;81;Special 
+Darren Stein;90;Sparkler 
+A. Raven Cruz;97;The Helix... Loaded 
+Brian Trenchard-Smith;88;In Her Line of Fire 
+Frank Whaley;96;The Jimmy Show 
+Amat Escalante;105;Heli 
+Wajahat Rauf;;Karachi se Lahore 
+Katherine Brooks;76;Loving Annabelle 
+David Cross;96;Hits 
+Randall Rubin;99;Jimmy and Judy 
+Robert Bennett;90;Frat Party 
+Guy Hamilton;94;The Party's Over 
+Mary Pat Kelly;87;Proud 
+Lori Petty;93;The Poker House 
+Charlie Levi;90;Childless 
+Kevin Hamedani;89;ZMD: Zombies of Mass Destruction 
+David DeCoteau;83;Snow White: A Deadly Summer 
+Mikel Rueda;96;Hidden Away 
+Stefan C. Schaefer;90;My Last Day Without You 
+Michael Taliferro;138;Steppin: The Movie 
+David DeCoteau;84;Doc Holliday's Revenge 
+Katie Aselton;83;Black Rock 
+Robert Heath;96;Truth or Die 
+D. Stevens;94;The Pet 
+Jeffrey St. Jules;90;Bang Bang Baby 
+Robert Hall;95;Fear Clinic 
+K. King;93;Zombie Hunter 
+Jonathan Meyers;111;A Fine Step 
+Danny Boyle;101;Trance 
+Ralph Nelson;103;Charly 
+Blair Erickson;87;Banshee Chapter 
+;30;Jesse             
+Allison Burnett;100;Ask Me Anything 
+Richard Schenkman;90;And Then Came Love 
+Sanjay Rawal;83;Food Chains 
+Elia Kazan;108;On the Waterfront 
+Kat Coiro;100;L!fe Happens 
+Cristian Mungiu;113;4 Months, 3 Weeks and 2 Days 
+Brian Dorton;97;The Horror Network Vol. 1 
+David Slade;104;Hard Candy 
+Jamie Babbit;91;The Quiet 
+Maryam Keshavarz;107;Circumstance 
+Ryan Coogler;85;Fruitvale Station 
+Ramaa Mosley;101;The Brass Teapot 
+James Algar;70;Bambi 
+Charles Herman-Wurmfeld;88;The Hammer 
+Ric Roman Waugh;112;Snitch 
+C. Jay Cox;107;Latter Days 
+Mariette Monpierre;78;Elza 
+Tommy Oliver;90;1982 
+Jamie Travis;88;For a Good Time, Call... 
+Lee Toland Krieger;92;Celeste & Jesse Forever 
+Rich Christiano;95;Time Changer 
+Paul Andrew Williams;85;London to Brighton 
+Nick Love;86;American Hero 
+Natalie Bible';90;Windsor Drive 
+Asghar Farhadi;123;A Separation 
+Justin Molotnikov;93;Crying with Laughter 
+Todd Solondz;88;Welcome to the Dollhouse 
+Victor Nunez;114;Ruby in Paradise 
+Peter Sollett;88;Raising Victor Vargas 
+Georg Wilhelm Pabst;110;Pandora's Box 
+Daniel Davila;95;Harrison Montgomery 
+Jorge Gaggero;83;Live-In Maid 
+Rod Lurie;104;Deterrence 
+Michael Burke;94;The Mudge Boy 
+Catherine Jelski;87;The Young Unknowns 
+Shane Dawson;93;Not Cool 
+Tommy Wirkola;91;Dead Snow 
+Ryan Little;90;Saints and Soldiers 
+Clark Baker;14;Vessel 
+George Lucas;112;American Graffiti 
+Robert Greenwald;75;Iraq for Sale: The War Profiteers 
+Matt Maiellaro;86;Aqua Teen Hunger Force Colon Movie Film for Theaters 
+Colin Trevorrow;86;Safety Not Guaranteed 
+Leslie Small;89;Kevin Hart: Laugh at My Pain 
+Ben Wheatley;95;Kill List 
+Ti West;101;The Innkeepers 
+David S. Goyer;89;The Unborn 
+Bernardo Bertolucci;106;The Conformist 
+Neil Burger;88;Interview with the Assassin 
+Oliver Blackburn;99;Donkey Punch 
+Jonathan Levine;90;All the Boys Love Mandy Lane 
+Christopher Hutson;95;Bled 
+Fred Zinnemann;85;High Noon 
+Steve James;170;Hoop Dreams 
+David LaChapelle;86;Rize 
+Joseph Kosinski;;Destiny 
+Michael Cuesta;97;L.I.E. 
+Caryn Waechter;104;The Sisterhood of Night 
+Emily Dell;88;B-Girl 
+Peter Jackson;201;King Kong 
+Jaume Collet-Serra;108;House of Wax 
+Ryan Fleck;106;Half Nelson 
+Jennifer Wynne Farmer;107;Naturally Native 
+Christopher Scott Cherot;84;Hav Plenty 
+H.M. Coakley;91;Adulterers 
+Randy Moore;90;Escape from Tomorrow 
+Chris Atkins;103;Starsuckers 
+Bill Benenson;71;The Hadza: Last of the First 
+Ryan Smith;90;After 
+Travis Romero;67;Treachery 
+Anna Mastro;94;Walter 
+Mark Sandrich;81;Top Hat 
+Daniel Myrick;81;The Blair Witch Project 
+Michael Wadleigh;215;Woodstock 
+John Landis;83;The Kentucky Fried Movie 
+Jon Gunn;106;Mercy Streets 
+Gene Teigland;103;Arnolds Park 
+Scott Ziehl;90;Broken Vessels 
+Richard Montoya;88;Water & Power 
+Johanna Schwartz;105;They Will Have to Kill Us First 
+William Gazecki;115;Crop Circles: Quest for Truth 
+Lance McDaniel;90;Light from the Darkroom 
+Thomas Lilti;102;Irreplaceable 
+Michael Walker;98;The Maid's Room 
+Richard Lester;87;A Hard Day's Night 
+U. Roberto Romano;80;The Harvest/La Cosecha 
+Amy Holden Jones;88;Love Letters 
+Blaz Zavrsnik;83;Julija in alfa Romeo 
+Alex Kendrick;122;Fireproof 
+Pan Nalin;115;Faith Connections 
+Joe Camp;86;Benji 
+Chris Kentis;79;Open Water 
+Matt Walsh;87;High Road 
+John 'Bud' Cardos;97;Kingdom of the Spiders 
+Marilyn Agrelo;105;Mad Hot Ballroom 
+Tom McCarthy;89;The Station Agent 
+Brian Baugh;120;To Save a Life 
+Patrick Creadon;94;Wordplay 
+Barry W. Blaustein;108;Beyond the Mat 
+Kurt Hale;102;The Singles Ward 
+Siddiq Barmak;83;Osama 
+Joseph Dorman;93;Sholem Aleichem: Laughing in the Darkness 
+Greg Harrison;86;Groove 
+Kurt Hale;101;The R.M. 
+Michael Polish;111;Twin Falls Idaho 
+Jacob Aaron Estes;90;Mean Creek 
+Morgan J. Freeman;86;Hurricane Streets 
+Eric Schaeffer;98;Never Again 
+Neema Barnette;91;Civil Brand 
+Steve Buscemi;91;Lonesome Jim 
+Joe Swanberg;90;Drinking Buddies 
+Molly Bernstein;88;Deceptive Practice: The Mysteries and Mentors of Ricky Jay 
+Akira Kurosawa;202;Seven Samurai 
+Marius A. Markevicius;89;The Other Dream Team 
+Tom DiCillo;97;Johnny Suede 
+Justin Lin;84;Finishing the Game: The Search for a New Bruce Lee 
+Quentin Dupieux;82;Rubber 
+Tim Johnson;94;Home 
+C. Jay Cox;100;Kiss the Bride 
+Alex Smith;112;The Slaughter Rule 
+Gareth Edwards;94;Monsters 
+Jonathan Parker;87;The Californians 
+Sol Tryon;91;The Living Wake 
+Alex Craig Mann;87;Detention of the Dead 
+Hao Ning;98;Crazy Stone 
+Stephen Kijak;95;Scott Walker: 30 Century Man 
+Marc Forster;87;Everything Put Together 
+Andrew Niccol;102;Good Kill 
+Daston Kalili;127;Insomnia Manica 
+William Gazecki;96;The Outrageous Sophie Tucker 
+Ol Parker;103;Now Is Good 
+Michael Hoffman Jr.;104;Girls Gone Dead 
+Patrick Gilles;90;America Is Still the Place 
+Georgia Hilton;122;Subconscious 
+Tamra Davis;93;Crossroads 
+Jack Heller;90;Enter Nowhere 
+Fernando Baez Mella;101;The King of Najayo 
+Warren Sheppard;94;Fight to the Finish 
+Darren Lynn Bousman;97;Alleluia! The Devil's Carnival 
+Justin Paul Miller;90;The Sound and the Shadow 
+Joel Paul Reisig;108;Rodeo Girl 
+Catherine Gund;82;Born to Fly: Elizabeth Streb vs. Gravity 
+Luke Dye;84;The Little Ponderosa Zoo 
+Sam Raimi;130;Oz the Great and Powerful 
+Michael Herz;91;The Toxic Avenger 
+Matty Rich;91;Straight Out of Brooklyn 
+Paul Greengrass;107;Bloody Sunday 
+Alec Asten;82;Diamond Ruff 
+Hans Canosa;84;Conversations with Other Women 
+Lloyd Kaufman;103;Poultrygeist: Night of the Chicken Dead 
+Matthew Watts;86;Mutual Friends 
+Lloyd Bacon;89;42nd Street 
+Joe Kenemore;52;Rise of the Entrepreneur: The Search for a Better Way 
+Whit Stillman;98;Metropolitan 
+Kay Pollak;133;As It Is in Heaven 
+Eric England;81;Roadside 
+Jared Hess;92;Napoleon Dynamite 
+Jeremy Saulnier;90;Blue Ruin 
+Oren Peli;84;Paranormal Activity 
+Stacy Peralta;91;Dogtown and Z-Boys 
+Terry Gilliam;91;Monty Python and the Holy Grail 
+Richard Glatzer;90;Quinceañera 
+Sue Corcoran;96;Gory Gory Hallelujah 
+;60;Heroes             
+Jonathan Caouette;88;Tarnation 
+Ray Griggs;92;I Want Your Money 
+Matt Jackson;97;Love in the Time of Monsters 
+Lucio Fulci;82;The Beyond 
+;22;Home Movies             
+Tom Vaughan;101;What Happens in Vegas 
+Paul Fox;80;The Dark Hours 
+Stephen Frears;97;My Beautiful Laundrette 
+Ari Kirschenbaum;84;Fabled 
+Cassandra Nicolaou;97;Show Me 
+Ingmar Bergman;91;Cries & Whispers 
+D.W. Griffith;123;Intolerance: Love's Struggle Throughout the Ages 
+Roger Nygard;86;Trekkies 
+Harry Beaumont;100;The Broadway Melody 
+Sam Raimi;96;The Evil Dead 
+Franck Khalfoun;89;Maniac 
+Mor Loushy;84;Censored Voices 
+Henry Alex Rubin;88;Murderball 
+Sam Firstenberg;90;American Ninja 2: The Confrontation 
+Doug Block;90;51 Birch Street 
+;43;Revolution             
+Chad Kapper;98;Rotor DR1 
+John Carpenter;101;Halloween 
+Sidney Lumet;96;12 Angry Men 
+Paul Fierlinger;83;My Dog Tulip 
+Frank Capra;65;It Happened One Night 
+Yorgos Lanthimos;94;Dogtooth 
+Lauren Lazin;112;Tupac: Resurrection 
+Gavin O'Connor;102;Tumbleweeds 
+Gregory Widen;98;The Prophecy 
+Cédric Klapisch;91;When the Cat's Away 
+Peter Hedges;80;Pieces of April 
+Niall Johnson;114;The Big Swap 
+Kelly Reichardt;76;Old Joy 
+Kelly Reichardt;80;Wendy and Lucy 
+Eric Mendelsohn;88;3 Backyards 
+Jean-Luc Godard;110;Pierrot le Fou 
+Florence Ayisi;104;Sisters in Law 
+Pan Nalin;102;Ayurveda: Art of Being 
+Michael Roemer;95;Nothing But a Man 
+Jesse Peretz;94;First Love, Last Rites 
+Eddie O'Flaherty;109;Fighting Tommy Riley 
+Babar Ahmed;90;Royal Kill 
+Julie Taymor;133;Across the Universe 
+John D. Hancock;110;The Looking Glass 
+Paul Bartel;80;Death Race 2000 
+Bruce Dellis;95;Locker 13 
+Pece Dingo;94;Midnight Cabaret 
+Jerome Elston Scott;98;Anderson's Cross 
+Étienne Faure;98;Bizarre 
+Herb Freed;96;Graduation Day 
+Jack Perez;97;Some Guy Who Kills People 
+Craig Zobel;90;Compliance 
+Kevin Smith;113;Chasing Amy 
+Nicole Holofcener;91;Lovely & Amazing 
+Ken Del Conte;90;Death Calls 
+Justin Lin;98;Better Luck Tomorrow 
+Maria Maggenti;94;The Incredibly True Adventure of Two Girls in Love 
+Miguel Arteta;96;Chuck & Buck 
+Piyush Dinker Pandya;100;American Desi 
+Daniel Columbie;90;Amidst the Devil's Wings 
+Vincenzo Natali;90;Cube 
+Emma-Kate Croghan;76;Love and Other Catastrophes 
+Bill Plympton;75;I Married a Strange Person! 
+Greg Harrison;78;November 
+Drake Doremus;90;Like Crazy 
+Al Franklin;96;Teeth and Blood 
+Allison Anders;92;Sugar Town 
+Michael Kang;75;The Motel 
+Paul Schrader;99;The Canyons 
+;58;Happy Valley             
+Lori Silverbush;86;On the Outs 
+Jeff Nichols;92;Shotgun Stories 
+Stuart Hazeldine;101;Exam 
+Hilary Brougher;81;The Sticky Fingers of Time 
+Rachel Goldenberg;93;Sunday School Musical 
+Corbin Bernsen;95;Rust 
+Jamin Winans;107;Ink 
+Tom Seidman;98;The Christmas Bunny 
+Jason Naumann;35;Jesus People 
+Matt Cimber;108;Butterfly 
+Sam Martin;66;UnDivided 
+Andrew Hyatt;95;The Frozen 
+Dan Curtis;99;The Love Letter 
+Joel Paul Reisig;108;Horse Camp 
+Kristin Rizzo;90;Give Me Shelter 
+King Vidor;151;The Big Parade 
+Ward Roberts;83;Little Big Top 
+Zoran Lisinac;108;Along the Roadside 
+Nicolas Winding Refn;92;Bronson 
+James O'Brien;105;Western Religion 
+Tom Putnam;86;Burn 
+Jon Shear;106;Urbania 
+Al Silliman Jr.;93;The Stewardesses 
+Eugène Lourié;80;The Beast from 20,000 Fathoms 
+Richard Fleischer;127;20,000 Leagues Under the Sea 
+George Miller;93;Mad Max 
+Doug Liman;96;Swingers 
+Sergio Leone;99;A Fistful of Dollars 
+Lowell Sherman;66;She Done Him Wrong 
+Maurizio Benazzo;85;Short Cut to Nirvana: Kumbh Mela 
+David G. Evans;101;The Grace Card 
+Ava DuVernay;97;Middle of Nowhere 
+Tom Tykwer;119;3 
+Sherman Alexie;103;The Business of Fancydancing 
+Justin Dillon;86;Call + Response 
+Steven Soderbergh;106;Side Effects 
+Stevan Mena;90;Malevolence 
+Adam Rifkin;95;Shooting the Warwicks 
+Eric Valette;94;Super Hybrid 
+Jay Duplass;84;Baghead 
+Livingston Oden;89;Solitude 
+Chris Marker;59;The Case of the Grinning Cat 
+Carl Theodor Dreyer;126;Ordet 
+Marianna Palka;86;Good Dick 
+Richard Schenkman;87;The Man from Earth 
+Ricki Stern;106;The Trials of Darryl Hunt 
+Nadia Tass;86;An American Girl Holiday 
+James Kerwin;89;Yesterday Was a Lie 
+C. Fraser Press;105;Theresa Is a Mother 
+Rania Attieh;93;H. 
+Sharon Greytak;94;Archaeology of a Woman 
+Majid Majidi;89;Children of Heaven 
+Andrew Haigh;97;Weekend 
+Spike Lee;88;She's Gotta Have It 
+Cary Bell;78;Butterfly Girl 
+Nicolae Constantin Tanase;104;The World Is Mine 
+Mike Cahill;92;Another Earth 
+Jason Stone;108;The Calling 
+Melvin Van Peebles;97;Sweet Sweetback's Baadasssss Song 
+Ken Roht;109;Perfect Cowboy 
+Gary Winick;78;Tadpole 
+John Carney;85;Once 
+Robinson Devor;88;The Woman Chaser 
+Michel Orion Scott;93;The Horse Boy 
+Pat Holden;86;When the Lights Went Out 
+Eric Bugbee;98;Heroes of Dirt 
+Tobe Hooper;88;The Texas Chain Saw Massacre 
+Bill Melendez;25;A Charlie Brown Christmas 
+Dena Seidel;72;Antarctic Edge: 70° South 
+Deborah Anderson;66;Aroused 
+Sara Newens;80;Top Spin 
+Michael Moore;91;Roger & Me 
+Paul Schrader;93;Cat People 
+Sai Varadan;89;An American in Hollywood 
+Zal Batmanglij;85;Sound of My Voice 
+Amal Al-Agroobi;62;The Brain That Sings 
+Andrew Berends;90;The Blood of My Brother 
+Lynn Shelton;90;Your Sister's Sister 
+Valentine;;Romantic Schemer 
+David Hewlett;88;A Dog's Breakfast 
+David Hewlett;88;A Dog's Breakfast 
+George A. Romero;96;Night of the Living Dead 
+Jean-Luc Godard;94;Une Femme Mariée 
+Nate Parker;120;The Birth of a Nation 
+Nathan Smith Jones;77;The Work and the Story 
+Alex Kendrick;111;Facing the Giants 
+Travis Cluff;81;The Gallows 
+David Lynch;89;Eraserhead 
+Harry F. Millarde;110;Over the Hill to the Poorhouse 
+Robert Townsend;81;Hollywood Shuffle 
+Peter Chelsom;100;The Mighty 
+Jamaa Fanaka;99;Penitentiary 
+Larry Blamire;90;The Lost Skeleton of Cadavra 
+Stephen Langford;82;Dude, Where's My Dog?! 
+E.L. Katz;88;Cheap Thrills 
+Lisanne Pajot;103;Indie Game: The Movie 
+Dan Reed;80;Closure 
+John Reinhardt;68;Open Secret 
+Patrick Ryan Sims;81;Echo Dr. 
+Laslo Benedek;106;The Night Visitor 
+Jason Miller;77;The Past is a Grotesque Animal 
+Dennis Iliadis;114;The Last House on the Left 
+Sut Jhally;80;Peace, Propaganda & the Promised Land 
+Darren Aronofsky;84;Pi 
+Julie Davis;86;I Love You, Don't Touch Me! 
+Myles Berkowitz;87;20 Dates 
+Brett Piper;80;Queen Crab 
+Morgan Spurlock;100;Super Size Me 
+Brandon Trost;82;The FP 
+Joe Swanberg;82;Happy Christmas 
+Joseph Green;70;The Brain That Wouldn't Die 
+Wade Gasque;75;Tiger Orange 
+Daniel Schechter;87;Supporting Characters 
+Mike Flanagan;87;Absentia 
+Edward Burns;98;The Brothers McMullen 
+Matt Johnson;83;The Dirties 
+Bruno Barreto;99;Gabriela 
+Lena Dunham;98;Tiny Furniture 
+Terron R. Parsons;93;Hayride 
+Daniel Mellitz;;The Naked Ape 
+Jem Cohen;111;Counting 
+Andrew Leman;47;The Call of Cthulhu 
+Dave Carroll;92;Bending Steel 
+William Eubank;97;The Signal 
+Patrick Meaney;81;The Image Revolution 
+Chad Hartigan;83;This Is Martin Bonner 
+Malcolm Goodwin;96;A True Story 
+David Gordon Green;90;George Washington 
+Kevin Jordan;90;Smiling Fish & Goat on Fire 
+Kirk Loudon;95;Dawn of the Crescent Moon 
+Travis Legge;83;Raymond Did It 
+Martin Scorsese;117;The Last Waltz 
+Collin Joseph Neal;75;Run, Hide, Die 
+Bradley Rust Gray;79;The Exploding Girl 
+Mike Bruce;78;The Legend of God's Gun 
+Andrew Bujalski;109;Mutual Appreciation 
+Damir Catic;89;Her Cry: La Llorona Investigation 
+Ben Wheatley;93;Down Terrace 
+Kevin Smith;102;Clerks 
+James Bidgood;65;Pink Narcissus 
+Andrew Bujalski;85;Funny Ha Ha 
+Neil LaBute;97;In the Company of Men 
+David Ayer;109;Sabotage 
+Eric Eason;79;Manito 
+Uwe Boll;80;Rampage 
+Richard Linklater;100;Slacker 
+Joseph Mazzella;90;Dutch Kills 
+Travis Legge;90;Dry Spell 
+Alex Kendrick;120;Flywheel 
+Marcus Nispel;91;Exeter 
+Brandon Landers;143;The Ridges 
+Jay Duplass;85;The Puffy Chair 
+Jim Chuchu;60;Stories of Our Lives 
+Daryl Wein;88;Breaking Upwards 
+Jason Trost;78;All Superheroes Must Die 
+John Waters;108;Pink Flamingos 
+Olivier Assayas;110;Clean 
+Jafar Panahi;90;The Circle 
+Ivan Kavanagh;83;Tin Can Man 
+Kiyoshi Kurosawa;111;The Cure 
+Tadeo Garcia;84;On the Downlow 
+Thomas L. Phillips;82;Sanctuary
+Ash Baron-Cohen;98;Bang 
+Shane Carruth;77;Primer 
+Neill Dela Llana;80;Cavite 
+Robert Rodriguez;81;El Mariachi 
+Anthony Vallone;84;The Mongol King 
+Edward Burns;95;Newlyweds 
+Scott Smith;87;Signed Sealed Delivered 
+;43;The Following             
+Benjamin Roberds;76;A Plague So Pleasant 
+Daniel Hsia;100;Shanghai Calling 
+Jon Gunn;90;My Date with Drew 
